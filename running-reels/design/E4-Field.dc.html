@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>4편 내 역치 찾기</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column;overflow:hidden}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.sec{margin:-52px -72px 30px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:54px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:24px;font-weight:700;color:#3F3F46;margin-top:10px;letter-spacing:-.02em;line-height:1.4}
+.main{flex:1;display:flex;flex-direction:column;min-height:0}
+.src{font-size:17px;color:#5B5B66;margin-top:14px;line-height:1.4;letter-spacing:-.01em}
+.card{background:#fff;border-radius:22px;padding:16px 22px}
+.ct{font-size:21px;font-weight:900;letter-spacing:-.03em;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.take{margin-top:auto;display:flex;align-items:center;gap:24px;padding-top:18px;border-top:2px solid #DDD6FE}
+.big{font-size:54px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:24px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+.p{color:#7C3AED}.g{color:#059669}.r{color:#E11D48}.b{color:#1D4ED8}.a{color:#B45309}
+.ev{display:inline-block;border-radius:999px;padding:3px 11px;font-size:15px;font-weight:900;letter-spacing:-.01em;border:2px solid currentColor;vertical-align:middle;white-space:nowrap;line-height:1.3}
+.ev.x{color:#047857}.ev.c{color:#1D4ED8}.ev.v{color:#6D28D9}.ev.f{color:#B45309}
+.ft{margin-top:16px;background:#fff;border-radius:22px;padding:4px 18px}
+.fr{display:grid;grid-template-columns:1fr 130px;gap:14px;align-items:center;padding:14px 0;border-bottom:2px solid #F4F4F5}
+.fr:last-child{border-bottom:none}
+.fn{font-size:22px;font-weight:900;letter-spacing:-.03em}
+.fn span{font-size:16px;font-weight:900;color:#6D28D9;margin-left:8px}
+.fx{font-size:16px;font-weight:700;color:#3F3F46;margin-top:5px;line-height:1.45;letter-spacing:-.02em}
+.fg{text-align:center;border-radius:12px;padding:8px 6px;font-size:17px;font-weight:900;line-height:1.25}
+.cs{margin-top:12px;background:#09090B;color:#fff;border-radius:20px;padding:16px 20px}
+.csh{font-size:19px;font-weight:900;color:#C4B5FD}
+.csf{font-size:23px;font-weight:900;margin-top:8px;letter-spacing:-.02em}
+.cse{font-size:17px;font-weight:700;margin-top:6px;line-height:1.5;opacity:.9}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">젖산역치, 무엇이 다를까?</div><div class="series"><span style="color:#8FB0FF;opacity:.3">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F;opacity:.3">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF">젖산역치</span></div></div>
+<div class="stage" style="background:#F6F3FF">
+<div class="sec" style="background:#7C3AED"><div><span class="no">실전</span><span class="nm">내 역치 찾기</span></div><div class="segs"><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg"></div><div class="seg" style="opacity:.3"></div></div></div>
+<h1>랩 없이 역치 찾기,<br>정확도는 <span class="p">방법마다 다르다</span></h1>
+<div class="main">
+<div class="ft">
+<div class="fr"><div><p class="fn">말하기 테스트<span>→ LT1 근처</span></p><p class="fx">문장으로 편하게 말이 되는 마지막 강도. 연구마다 맞는 역치가 조금씩 달라요</p></div><p class="fg" style="background:#FEF3C7;color:#92400E">대략</p></div>
+<div class="fr"><div><p class="fn">1시간 레이스 페이스<span>→ LT2 근처</span></p><p class="fx">약 1시간 전력으로 갈 수 있는 페이스 (Daniels의 T 페이스, 코치 기준)</p></div><p class="fg" style="background:#FEF3C7;color:#92400E">대략</p></div>
+<div class="fr"><div><p class="fn">임계속도 테스트<span>→ LT2 위쪽 경계</span></p><p class="fx">같은 날 3600·2400·1200m 전력, 사이 30분 휴식. 실험실 측정과 r = 0.89 (10명) · MLSS보다 조금 빨라요</p></div><p class="fg" style="background:#D1FAE5;color:#065F46">비교적<br>좋음</p></div>
+<div class="fr"><div><p class="fn">스마트워치 추정<span>→ 참고용</span></p><p class="fx">LT 심박은 실험실과 비슷했지만, LT 페이스는 크게 틀릴 수 있어요 (가민 FR265 평균 오차 약 26%, 2025)</p></div><p class="fg" style="background:#FFE4E6;color:#9F1239">페이스는<br>주의</p></div>
+</div>
+<div class="cs"><p class="csh">임계속도 간단 계산 (기록 2개)</p><p class="csf">(긴 거리 − 짧은 거리) ÷ (긴 시간 − 짧은 시간)</p><p class="cse">예: 3600m 14:00 · 1200m 4:00 → 2400m ÷ 600초 = 4.0 m/s = 14.4 km/h ≈ 4:10/km</p></div>
+</div>
+<p class="src">Quinn &amp; Coons (2011) J Sports Sci · Daniels' Running Formula · Galbraith et al. (2014) Int J Sports Physiol Perform · Nixon et al. (2021) · Front Physiol (2025) 스마트워치 LT 검증 · 계산 예시는 가상 기록</p>
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>4편 어떤 분포가 좋을까</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column;overflow:hidden}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.sec{margin:-52px -72px 30px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:54px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:24px;font-weight:700;color:#3F3F46;margin-top:10px;letter-spacing:-.02em;line-height:1.4}
+.main{flex:1;display:flex;flex-direction:column;min-height:0}
+.src{font-size:17px;color:#5B5B66;margin-top:14px;line-height:1.4;letter-spacing:-.01em}
+.card{background:#fff;border-radius:22px;padding:16px 22px}
+.ct{font-size:21px;font-weight:900;letter-spacing:-.03em;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.take{margin-top:auto;display:flex;align-items:center;gap:24px;padding-top:18px;border-top:2px solid #DDD6FE}
+.big{font-size:54px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:24px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+.p{color:#7C3AED}.g{color:#059669}.r{color:#E11D48}.b{color:#1D4ED8}.a{color:#B45309}
+.ev{display:inline-block;border-radius:999px;padding:3px 11px;font-size:15px;font-weight:900;letter-spacing:-.01em;border:2px solid currentColor;vertical-align:middle;white-space:nowrap;line-height:1.3}
+.ev.x{color:#047857}.ev.c{color:#1D4ED8}.ev.v{color:#6D28D9}.ev.f{color:#B45309}
+.br{display:grid;grid-template-columns:220px 1fr 120px;gap:12px;align-items:center;margin-top:10px}
+.bn{font-size:19px;font-weight:900;letter-spacing:-.02em;line-height:1.3}
+.bn small{display:block;font-size:14px;font-weight:700;color:#5B5B66}
+.bt{height:42px;background:#F4F4F5;border-radius:10px}
+.bf{height:100%;border-radius:10px}
+.bv{font-size:26px;font-weight:900;text-align:right;letter-spacing:-.03em}
+.bnote{font-size:16px;font-weight:700;color:#5B5B66;margin-top:8px}
+.mt{margin-top:12px;display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.mc{background:#fff;border-radius:18px;padding:14px 16px}
+.mh{font-size:18px;font-weight:900;letter-spacing:-.02em;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.md{font-size:16px;font-weight:700;color:#3F3F46;margin-top:6px;line-height:1.5;letter-spacing:-.02em}
+.md b{color:#09090B}
+.lg{margin-top:12px;font-size:16px;font-weight:700;color:#3F3F46;line-height:1.5;background:#EDE9FE;border-radius:14px;padding:10px 14px}
+.lg b{color:#5B21B6;margin-right:4px}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">젖산역치, 무엇이 다를까?</div><div class="series"><span style="color:#8FB0FF;opacity:.3">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F;opacity:.3">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF">젖산역치</span></div></div>
+<div class="stage" style="background:#F6F3FF">
+<div class="sec" style="background:#7C3AED"><div><span class="no">연구</span><span class="nm">어떤 분포가 좋을까</span></div><div class="segs"><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div></div></div>
+<h1>역치를 더 많이 한다고<br><span class="p">더 좋아지진 않았다</span></h1>
+<div class="main">
+<div class="card" style="margin-top:16px">
+<p class="ct">서브엘리트 12명 · 5개월 · 10.4km 기록 향상 <span class="ev x">실험</span></p>
+<div class="br"><p class="bn g">저강도 비중↑<small>쉬운 달리기 위주</small></p><div class="bt"><div class="bf" style="width:100%;background:#059669"></div></div><p class="bv g">−157초</p></div>
+<div class="br"><p class="bn p">역치 사이 비중↑<small>LT1~LT2 구간 위주</small></p><div class="bt"><div class="bf" style="width:77.4%;background:#7C3AED"></div></div><p class="bv p">−121.5초</p></div>
+<p class="bnote">고강도(LT2 위) 비중은 두 그룹 모두 약 8%로 같았어요</p>
+</div>
+<div class="mt">
+<div class="mc"><p class="mh">메타분석 2024 <span class="ev x">메타분석</span></p><p class="md">폴라라이즈드가 VO2max를 <b>조금</b> 더 올렸어요(효과 작음, 12주 미만에서만). 다른 기록 지표는 차이가 없었어요.</p></div>
+<div class="mc"><p class="mh">메타분석 2025 <span class="ev x">개인 데이터</span></p><p class="md">13개 연구 348명: 폴라라이즈드 vs 피라미드, VO2max·타임트라이얼 <b>차이 없음</b>. 경쟁 선수는 폴라라이즈드, 일반인은 피라미드가 나을 수도 있어요.</p></div>
+</div>
+<p class="lg"><b>폴라라이즈드</b> 쉬움 많이 + 고강도 조금, 역치 사이는 최소 · <b>피라미드</b> 쉬움 &gt; 역치 사이 &gt; 고강도</p>
+<div class="take"><span class="big p">쉬운 양 먼저</span><p class="tp">분포 이름보다 공통점이 중요해요.<br>쉬운 날을 지키고, 역치는 넘지 않게.</p></div>
+</div>
+<p class="src">Esteve-Lanao et al. (2007) J Strength Cond Res · Sports Med (2024) 폴라라이즈드 메타분석 · Rosenblat et al. (2025) Sports Med 네트워크 메타분석</p>
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>
