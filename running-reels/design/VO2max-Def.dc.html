@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>VO2max 정의</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who{font-size:32px;font-weight:800;color:#fff;letter-spacing:-.01em}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:19px;color:#71717A;margin-top:18px;line-height:1.4;letter-spacing:-.01em}
+.sec{margin:-52px -72px 36px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:60px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:28px;font-weight:700;color:#3F3F46;margin-top:14px;letter-spacing:-.02em}
+.take{margin-top:auto;display:flex;align-items:center;gap:26px;padding-top:26px;border-top:2px solid #E4E4E7}
+.big{font-size:60px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:28px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">가민 VO2max는 높은데, 왜 기록은 안 늘까?</div><div class="series"><span style="color:#8FB0FF">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F;opacity:.3">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF;opacity:.3">젖산역치</span></div></div>
+<div class="stage" style="background:#F3F6FF">
+<div class="sec" style="background:#1D4ED8"><div><span class="no">01</span><span class="nm">VO2max</span></div><div class="segs"><div class="seg"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div></div></div>
+<h1>페이스를 올려도 산소섭취량이<br>더 늘지 않는 지점</h1>
+<p class="sub">= 1분 동안 체중 1kg당 쓸 수 있는 산소의 최대량</p>
+<div style="margin:34px -18px 0">
+<svg width="936" height="530" viewBox="0 0 936 530" font-family="N" role="img" aria-label="페이스를 올리면 산소섭취량이 오르다가 1km 4분 페이스에서 1분에 4.2L인 VO2max에 닿아 평평해지는 그래프" style="width: 961px">
+<line x1="760" x2="760" y1="100" y2="440" stroke="#1D4ED8" stroke-width="2.5" stroke-dasharray="4 8" stroke-linecap="round"></line>
+<line x1="60" x2="900" y1="440" y2="440" stroke="#09090B" stroke-width="3.5"></line>
+<line x1="60" x2="60" y1="30" y2="440" stroke="#09090B" stroke-width="3.5"></line>
+<text x="130" y="474" text-anchor="middle" font-size="26" font-weight="800" fill="#09090B">10:00</text>
+<text x="270" y="474" text-anchor="middle" font-size="26" font-weight="800" fill="#09090B">7:30</text>
+<text x="410" y="474" text-anchor="middle" font-size="26" font-weight="800" fill="#09090B">6:00</text>
+<text x="550" y="474" text-anchor="middle" font-size="26" font-weight="800" fill="#09090B">5:00</text>
+<text x="760" y="474" text-anchor="middle" font-size="30" font-weight="900" fill="#1D4ED8">4:00</text>
+<text x="776" y="300" font-size="22" font-weight="800" fill="#1D4ED8">VO2max 도달</text>
+<text x="776" y="334" font-size="30" font-weight="900" fill="#1D4ED8">4:00/km</text>
+<text x="480" y="518" text-anchor="middle" font-size="27" font-weight="900" fill="#09090B">1km 페이스 (분:초) · 오른쪽일수록 빠름</text>
+<text transform="translate(42,235) rotate(-90)" text-anchor="middle" font-size="27" font-weight="900" fill="#09090B">산소섭취량 (L/분)</text>
+<text x="900" y="424" text-anchor="end" font-size="20" font-weight="700" fill="#71717A">예시: 체중 70kg · VO2max 60</text>
+<polyline points="60,396.8 761.4,85.9 900,85.9" fill="none" stroke="#1D4ED8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"></polyline>
+<line x1="60" x2="900" y1="85.9" y2="85.9" stroke="#09090B" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"></line>
+<text x="50" y="95" text-anchor="end" font-size="26" font-weight="900" fill="#1D4ED8">4.2L</text>
+<circle cx="130" cy="364.7" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="200" cy="335.9" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="270" cy="320.1" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="340" cy="276.2" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="410" cy="241.9" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="480" cy="209.8" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="550" cy="189.5" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="620" cy="151.6" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="690" cy="123.9" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="760" cy="91.7" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="830" cy="82.9" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<circle cx="900" cy="88.2" r="10" fill="#1D4ED8" stroke="#fff" stroke-width="3"></circle>
+<rect x="746" y="59.9" width="167.9" height="52" rx="26" fill="none" stroke="#1D4ED8" stroke-width="3"></rect>
+<text x="732" y="37.9" text-anchor="end" font-size="40" font-weight="900" fill="#09090B">VO2max</text>
+<text x="732" y="71.9" text-anchor="end" font-size="22" font-weight="800" fill="#3F3F46">1분에 산소 4.2L · 더 빨라져도 안 오르는 천장</text>
+<text x="95" y="132.5" font-size="22" font-weight="800" fill="#3F3F46">1분마다 페이스를 올리면</text>
+<text x="95" y="162.5" font-size="22" font-weight="800" fill="#3F3F46">산소섭취량도 함께 오른다</text>
+</svg>
+</div>
+<div class="take"><span class="big" style="color:#1D4ED8">몇 분</span><p class="tp">전력질주 순간이 아니라, 몇 분 버틸 수 있는<br>강도에서 이 천장에 닿아요.</p></div>
+<p class="src">기준: 점증부하 테스트에서 산소섭취량이 정체되는 값</p>
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

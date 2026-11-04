@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>젖산역치 비교</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who{font-size:32px;font-weight:800;color:#fff;letter-spacing:-.01em}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:19px;color:#71717A;margin-top:18px;line-height:1.4;letter-spacing:-.01em}
+.sec{margin:-52px -72px 36px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:58px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sp{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));margin-top:40px;border-top:2px solid #E4E4E7;border-bottom:2px solid #E4E4E7}
+.spl{display:block;font-size:26px;font-weight:900;margin-bottom:8px}
+.spn{font-size:124px;font-weight:900;letter-spacing:-.05em;line-height:1}
+.spu{font-size:30px;font-weight:800;margin-left:6px}
+.why{font-size:30px;font-weight:900;margin:34px 0 4px;letter-spacing:-.02em}
+.whys{font-size:24px;font-weight:700;color:#3F3F46;letter-spacing:-.01em}
+.tl{font-size:26px;font-weight:800;letter-spacing:-.02em;margin:22px 0 10px}
+.tk{height:52px;background:#E9E5F5;border-radius:26px;position:relative}
+.tf{height:100%;border-radius:26px;color:#fff;font-size:26px;font-weight:900;display:flex;align-items:center;padding-left:22px}
+.t60{position:absolute;right:22px;top:12px;font-size:24px;font-weight:900;color:#3F3F46}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">가민 VO2max는 높은데, 왜 기록은 안 늘까?</div><div class="series"><span style="color:#8FB0FF;opacity:.3">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F;opacity:.3">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF">젖산역치</span></div></div>
+<div class="stage" style="background:#F6F3FF">
+<div class="sec" style="background:#7C3AED"><div><span class="no">03</span><span class="nm">젖산역치</span></div><div class="segs"><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg"></div></div></div>
+<h1>VO2max와 이코노미가 같아도<br>역치 페이스는 다를 수 있다</h1>
+<div class="sp">
+<div style="padding:26px 0 26px"><span class="spl" style="color:#E11D48">러너 C 역치 페이스</span><span class="spn" style="color:#E11D48">5:20</span><span class="spu">/km</span></div>
+<div style="padding:26px 0 26px 34px;border-left:2px solid #E4E4E7"><span class="spl" style="color:#7C3AED">러너 D 역치 페이스</span><span class="spn" style="color:#7C3AED">4:42</span><span class="spu">/km</span></div>
+</div>
+<p class="why">왜 다를까? 역치가 나타나는 위치가 달라서</p>
+<p class="whys">같은 VO2max(60)에서 역치(LT2)가 몇 % 지점에 오는지</p>
+<p class="tl"><span style="color:#E11D48;font-weight:900;margin-right:14px">러너 C</span>VO2max의 75% 지점에서 역치</p>
+<div class="tk"><div class="tf" style="width:75%;background:#E11D48">산소 45</div><span class="t60">60</span></div>
+<p class="tl"><span style="color:#7C3AED;font-weight:900;margin-right:14px">러너 D</span>VO2max의 85% 지점에서 역치</p>
+<div class="tk"><div class="tf" style="width:85%;background:#7C3AED">산소 51</div><span class="t60">60</span></div>
+<p class="src" style="margin-top:auto">둘 다 VO2max 60(체중 같음) · 이코노미 240 ml/kg/km · 페이스 = 240 ÷ 역치 산소량</p>
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

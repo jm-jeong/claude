@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>2편 거리별 VO2max</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who{font-size:32px;font-weight:800;color:#fff;letter-spacing:-.01em}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:19px;color:#71717A;margin-top:18px;line-height:1.4;letter-spacing:-.01em}
+.sec{margin:-52px -72px 36px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:56px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:27px;font-weight:700;color:#3F3F46;margin-top:12px;letter-spacing:-.02em}
+.take{margin-top:auto;display:flex;align-items:center;gap:26px;padding-top:22px;border-top:2px solid #E4E4E7}
+.big{font-size:60px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:27px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:8px}
+.pc2{background:#fff;border-radius:22px;padding:22px 24px}
+.pt{font-size:28px;font-weight:900;letter-spacing:-.03em}
+.pd{font-size:21px;font-weight:700;line-height:1.5;margin-top:8px;letter-spacing:-.02em}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">VO2max, 타고나는 걸까?</div><div class="series"><span style="color:#8FB0FF">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F;opacity:.3">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF;opacity:.3">젖산역치</span></div></div>
+<div class="stage" style="background:#F3F6FF">
+
+<div class="sec" style="background:#1D4ED8"><div><span class="no">VO2max가 높으면</span><span class="nm">어디서 빠를까</span></div><div class="segs"><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg"></div><div class="seg" style="opacity:.3"></div></div></div>
+<h1>레이스가 짧을수록<br>VO2max를 거의 다 쓴다</h1>
+<p class="sub">레이스 페이스가 VO2max의 몇 %인지</p>
+<div style="margin:20px -18px 0">
+<svg width="972" height="450" viewBox="0 0 972 450" font-family="N" role="img" aria-label="5km는 VO2max의 약 98퍼센트, 1시간 레이스는 약 87퍼센트, 마라톤은 80에서 85퍼센트로 달린다">
+<line x1="40" x2="900" y1="40" y2="40" stroke="#09090B" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+<text x="900" y="28" text-anchor="end" font-size="22" font-weight="900" fill="#09090B">VO2max 100%</text>
+<line x1="40" x2="900" y1="360" y2="360" stroke="#09090B" stroke-width="3.5"/>
+<rect x="70" y="46.4" width="200" height="313.6" rx="14" fill="#1D4ED8"/><text x="170.0" y="98.4" text-anchor="middle" font-size="40" font-weight="900" fill="#fff">약 98%</text><text x="170.0" y="400" text-anchor="middle" font-size="30" font-weight="900" fill="#09090B">5km</text><text x="170.0" y="430" text-anchor="middle" font-size="21" font-weight="800" fill="#52525B">엘리트 · 약 15분</text><rect x="360" y="81.6" width="200" height="278.4" rx="14" fill="#3D63E0"/><text x="460.0" y="133.6" text-anchor="middle" font-size="40" font-weight="900" fill="#fff">약 87%</text><text x="460.0" y="400" text-anchor="middle" font-size="30" font-weight="900" fill="#09090B">1시간 레이스</text><text x="460.0" y="430" text-anchor="middle" font-size="21" font-weight="800" fill="#52525B">훈련된 러너</text><rect x="650" y="96.0" width="200" height="264.0" rx="14" fill="#7F98EE"/><text x="750.0" y="148.0" text-anchor="middle" font-size="40" font-weight="900" fill="#fff">80~85%</text><text x="750.0" y="400" text-anchor="middle" font-size="30" font-weight="900" fill="#09090B">마라톤</text><text x="750.0" y="430" text-anchor="middle" font-size="21" font-weight="800" fill="#52525B">약 2~3시간</text>
+</svg>
+</div>
+<div class="pair">
+<div class="pc2" style="background:#1D4ED8;color:#fff"><p class="pt">5~10km</p><p class="pd">VO2max가 기록을 크게 좌우해요. 엘리트 5km 연구에서 기록 차이의 약 75%를 VO2max가 설명</p></div>
+<div class="pc2"><p class="pt">하프 · 마라톤 · 하이록스</p><p class="pd">VO2max는 천장 역할. 역치·이코노미·연료의 비중이 더 커져요</p></div>
+</div>
+<p class="src" style="margin-top:auto">5km: 엘리트 8명 연구 · 1시간·마라톤: Bassett &amp; Howley (2000) · 하이록스는 경기 시간 기준 추론</p>
+
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

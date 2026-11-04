@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>훅 질문</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:64px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who{font-size:32px;font-weight:800;color:#fff;letter-spacing:-.01em}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.eb{font-size:30px;font-weight:900;color:#1D4ED8;letter-spacing:-.02em;margin-bottom:22px}
+.q{font-size:104px;font-weight:900;line-height:1.12;letter-spacing:-.05em}
+.why{margin-top:auto;padding-top:26px;border-top:2px solid #E4E4E7;display:flex;align-items:center;gap:30px}
+.wn{font-size:60px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.vis{display:flex;align-items:center;justify-content:space-between;margin:auto 0}
+.shot{height:400px;border-radius:28px;overflow:hidden;background:#000}
+.shot img{display:block;height:100%;width:auto}
+.ne{font-size:100px;font-weight:900;line-height:1}
+.wl{font-size:29px;font-weight:800;line-height:1.5;letter-spacing:-.02em}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">러닝 기록 분석 · 1편</div><div class="series"><span style="color:#8FB0FF">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF">젖산역치</span></div></div>
+<div class="stage" style="background:#fff">
+<p class="eb">러너들이 가장 많이 묻는 질문</p>
+<h1 class="q">가민 <span style="color:#1D4ED8">VO2max</span>는<br>높은데,<br>왜 기록은<br><span style="color:#E11D48">안 늘까요?</span></h1>
+<div class="vis">
+<div class="shot"><img src="./garmin-vo2max.jpg" alt="가민 커넥트 VO2max 56 최상 화면"></div>
+<div class="ne">≠</div>
+<svg width="290" height="348" viewBox="0 0 250 300" font-family="N" role="img" aria-label="레이스 기록은 물음표">
+<circle cx="125" cy="118" r="94" fill="none" stroke="#FFE4E8" stroke-width="22"/>
+<circle cx="125" cy="118" r="94" fill="none" stroke="#E11D48" stroke-width="22" stroke-linecap="round" stroke-dasharray="180 590.6" transform="rotate(-90 125 118)"/>
+<text x="125" y="150" text-anchor="middle" font-size="92" font-weight="900" fill="#E11D48">?</text>
+<text x="125" y="288" text-anchor="middle" font-size="32" font-weight="900" fill="#E11D48">레이스 기록</text>
+</svg>
+</div>
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

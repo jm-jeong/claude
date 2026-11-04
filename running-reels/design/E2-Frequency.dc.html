@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>2편 빈도와 구성</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who{font-size:32px;font-weight:800;color:#fff;letter-spacing:-.01em}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:19px;color:#71717A;margin-top:18px;line-height:1.4;letter-spacing:-.01em}
+.sec{margin:-52px -72px 36px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:56px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:27px;font-weight:700;color:#3F3F46;margin-top:12px;letter-spacing:-.02em}
+.take{margin-top:auto;display:flex;align-items:center;gap:26px;padding-top:22px;border-top:2px solid #E4E4E7}
+.big{font-size:60px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:27px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+.sp{margin-top:28px}
+.spb{display:flex;height:84px;border-radius:20px;overflow:hidden}
+.spb div{display:flex;align-items:center;justify-content:center;font-size:30px;font-weight:900;letter-spacing:-.03em}
+.spl{font-size:21px;font-weight:800;color:#3F3F46;margin-top:10px}
+.wl{font-size:26px;font-weight:900;margin-top:28px}
+.wk{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;margin-top:12px}
+.dy{border-radius:16px;padding:14px 6px;height:132px;display:flex;flex-direction:column;align-items:center;text-align:center;border:2px solid #DBE4FF}
+.dy b{font-size:30px;font-weight:900}
+.dy span{font-size:18px;font-weight:900;margin-top:auto;line-height:1.3;letter-spacing:-.03em}
+.rl2{margin-top:24px;background:#fff;border-radius:22px;padding:8px 26px}
+.rl2 p{font-size:23px;font-weight:700;padding:14px 0;border-bottom:2px solid #F4F4F5;letter-spacing:-.02em}
+.rl2 p:last-child{border-bottom:none}
+.rl2 b{font-weight:900;color:#1D4ED8;margin-right:6px}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">VO2max, 타고나는 걸까?</div><div class="series"><span style="color:#8FB0FF">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F;opacity:.3">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF;opacity:.3">젖산역치</span></div></div>
+<div class="stage" style="background:#F3F6FF">
+
+<div class="sec" style="background:#1D4ED8"><div><span class="no">바꿀 수 있는 것 ②</span><span class="nm">훈련</span></div><div class="segs"><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg"></div></div></div>
+<h1>강하게는 가끔,<br>나머지는 쉽게</h1>
+<div class="sp">
+<div class="spb"><div style="width:80%;background:#DBE4FF;color:#09090B">약 80% 쉽게</div><div style="width:20%;background:#1D4ED8;color:#fff">20%</div></div>
+<p class="spl">엘리트 지구력 선수 훈련의 강도 분포</p>
+</div>
+<p class="wl">일주일 예시</p>
+<div class="wk"><div class="dy" style="background:#DBE4FF;color:#09090B"><b>월</b><span>쉽게</span></div><div class="dy" style="background:#1D4ED8;color:#fff"><b>화</b><span>인터벌</span></div><div class="dy" style="background:#DBE4FF;color:#09090B"><b>수</b><span>쉽게</span></div><div class="dy" style="background:#DBE4FF;color:#09090B"><b>목</b><span>쉽게</span></div><div class="dy" style="background:#6B8AF0;color:#fff"><b>금</b><span>인터벌<br>선택</span></div><div class="dy" style="background:#DBE4FF;color:#09090B"><b>토</b><span>롱런 · 쉽게</span></div><div class="dy" style="background:#fff;color:#71717A"><b>일</b><span>휴식</span></div></div>
+<div class="rl2">
+<p><b>주 1~2회</b> VO2max 인터벌이면 충분해요</p>
+<p><b>강한 날 사이</b>에는 최소 하루 쉬운 날</p>
+<p><b>4~12주</b> 꾸준히 → 그다음 회복 주</p>
+<p><b>강도만 더 올린다고</b> 이미 훈련된 사람이 계속 좋아진다는 근거는 약해요</p>
+</div>
+<p class="src" style="margin-top:auto">Seiler (2010) Int J Sports Physiol Perform · 기간: Wen et al. (2019) · 일주일 구성은 예시</p>
+
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

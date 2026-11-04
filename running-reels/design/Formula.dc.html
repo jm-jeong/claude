@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>정리 공식</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who{font-size:32px;font-weight:800;color:#fff;letter-spacing:-.01em}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:19px;color:#71717A;margin-top:18px;line-height:1.4;letter-spacing:-.01em}
+h1{font-size:60px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.fr{display:grid;grid-template-columns:64px 1fr auto;align-items:center;padding:28px 0;border-bottom:2px solid #E4E4E7}
+.op{font-size:44px;font-weight:900;color:#71717A}
+.fn{font-size:34px;font-weight:900;letter-spacing:-.03em}
+.fd{display:block;font-size:23px;font-weight:700;color:#3F3F46;margin-top:6px;letter-spacing:0}
+.fv{font-size:64px;font-weight:900;letter-spacing:-.04em}
+.fu{font-size:26px;font-weight:800;margin-left:6px}
+.res{margin-top:22px;background:#09090B;border-radius:24px;padding:30px 32px;display:flex;justify-content:space-between;align-items:center;color:#fff}
+.rn{font-size:34px;font-weight:900;letter-spacing:-.03em}
+.rd{display:block;font-size:23px;font-weight:700;opacity:.75;margin-top:6px}
+.rv{font-size:88px;font-weight:900;letter-spacing:-.05em}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">가민 VO2max는 높은데, 왜 기록은 안 늘까?</div><div class="series"><span style="color:#8FB0FF">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF">젖산역치</span></div></div>
+<div class="stage" style="background:#fff">
+<h1 style="margin:10px 0 40px">기록은 세 가지의 조합</h1>
+<div class="fr" style="border-top:2px solid #E4E4E7"><div class="op"></div><div class="fn" style="color:#1D4ED8">VO2max<span class="fd">1분, 체중 1kg당 쓸 수 있는 산소의 최대치</span></div><div class="fv" style="color:#1D4ED8">60</div></div>
+<div class="fr"><div class="op">×</div><div class="fn" style="color:#7C3AED">역치(LT2)가 오는 위치<span class="fd">LT2가 VO2max의 몇 %에서 나타나나</span></div><div class="fv" style="color:#7C3AED">85<span class="fu">%</span></div></div>
+<div class="fr"><div class="op">=</div><div class="fn">역치에서 쓰는 산소<span class="fd">1분, 체중 1kg당</span></div><div class="fv">51</div></div>
+<div class="fr"><div class="op"></div><div class="fn" style="color:#059669">러닝 이코노미<span class="fd">1km에 드는 산소량</span></div><div class="fv" style="color:#059669">240</div></div>
+<div class="res"><div class="rn">= 역치(LT2) 페이스<span class="rd">240 ÷ 51 = 4.71분 → 1km 4분 42초</span></div><div class="rv">4:42<span class="fu">/km</span></div></div>
+<div style="margin-top:26px;display:flex;align-items:center;justify-content:space-between;padding:24px 30px;border:3px solid #09090B;border-radius:24px"><p style="font-size:30px;font-weight:900;letter-spacing:-.03em;line-height:1.35"><span style="color:#1D4ED8">VO2max</span>, 어떻게 올릴까?</p><p style="font-size:32px;font-weight:900;color:#E11D48;white-space:nowrap">다음 편 →</p></div>
+<p class="src" style="margin-top:auto">모델: Joyner MJ (1991) J Appl Physiol · 모든 값은 체중 1kg당 · 숫자는 예시</p>
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

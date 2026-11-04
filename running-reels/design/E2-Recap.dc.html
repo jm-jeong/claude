@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>2편 복습 측정법</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who{font-size:32px;font-weight:800;color:#fff;letter-spacing:-.01em}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:19px;color:#71717A;margin-top:18px;line-height:1.4;letter-spacing:-.01em}
+.sec{margin:-52px -72px 36px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:56px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:27px;font-weight:700;color:#3F3F46;margin-top:12px;letter-spacing:-.02em}
+.take{margin-top:auto;display:flex;align-items:center;gap:26px;padding-top:14px;border-top:2px solid #E4E4E7}
+.big{font-size:60px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:27px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+.pw{position:relative;margin-top:22px;border-radius:24px;overflow:hidden;height:340px}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px}
+.gc{background:#fff;border-radius:22px;padding:14px 16px 10px}
+.gt{font-size:20px;font-weight:900;color:#52525B;margin-bottom:2px}
+.vsl{display:flex;flex-direction:column;gap:10px}
+.vr{flex:1;display:flex;align-items:center;gap:14px;background:#fff;border:2px solid #E4E4E7;border-radius:18px;padding:0 16px}
+.vr p{flex:1;font-size:23px;font-weight:900;letter-spacing:-.03em}
+.vr svg{transform:scale(.7);transform-origin:right center}
+.pw img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 60%}
+.tg{position:absolute;background:rgba(9,9,11,.82);color:#fff;border-radius:12px;padding:8px 14px;font-size:21px;font-weight:900;letter-spacing:-.02em;white-space:nowrap}
+.tb{background:#1D4ED8}
+.steps{display:flex;align-items:center;gap:12px;margin-top:22px}
+.st{flex:1;background:#fff;border:2px solid #E4E4E7;border-radius:22px;padding:20px 20px 22px;height:170px;display:flex;flex-direction:column;justify-content:space-between}
+.sn{width:40px;height:40px;border-radius:50%;background:#1D4ED8;color:#fff;font-size:24px;font-weight:900;display:flex;align-items:center;justify-content:center}
+.sh{font-size:26px;font-weight:900;line-height:1.3;letter-spacing:-.03em}
+.sa{font-size:34px;font-weight:900;color:#A1A1AA}
+.sth{display:flex;align-items:center;justify-content:space-between}
+.row1{display:grid;grid-template-columns:1.2fr 1fr;gap:14px;margin-top:18px;height:168px}
+.row1 .pw{margin-top:0;height:100%}
+.row1 .pw img{object-position:center 45%}
+.row1 .tg{font-size:18px;padding:5px 11px}
+.row1 .vr p{font-size:20px}
+.row1 .vr{border-radius:14px}
+.row1 .vsl{gap:7px}
+.row1 .sn{width:34px;height:34px;font-size:20px}
+.gc2{margin-top:12px;background:#fff;border-radius:22px;padding:12px 16px 8px}
+.gh{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px}
+.gt2{font-size:22px;font-weight:900;letter-spacing:-.02em}
+.lg2{display:flex;gap:16px;font-size:18px;font-weight:800;color:#3F3F46}
+.lg2 i{display:inline-block;width:22px;height:5px;border-radius:3px;margin-right:6px;vertical-align:4px}
+.gi{position:relative}
+.gi img{display:block;width:100%}
+.cap{position:absolute;left:60%;top:28%;background:#3F8A1F;color:#fff;border-radius:10px;padding:6px 12px;font-size:21px;font-weight:900;letter-spacing:-.02em;white-space:nowrap}
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">VO2max, 타고나는 걸까?</div><div class="series"><span style="color:#8FB0FF">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F;opacity:.3">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF;opacity:.3">젖산역치</span></div></div>
+<div class="stage" style="background:#F3F6FF">
+
+<div class="sec" style="background:#1D4ED8"><div><span class="no">복습</span><span class="nm">VO2max 재는 법</span></div><div class="segs"><div class="seg"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div></div></div>
+<h1>산소섭취량이 더 안 느는 천장</h1>
+<div class="row1">
+<div class="pw"><img src="./img/cpet-test.jpg" alt="마스크를 쓰고 러닝머신에서 점증부하 테스트를 하는 러너"><span class="tg" style="left:12px;top:12px">마스크로 산소 측정</span><span class="tg tb" style="right:12px;bottom:12px">점증부하 테스트 (CPET)</span></div>
+<div class="vsl">
+<div class="vr"><span class="sn">1</span><p>1분마다 페이스 올리기</p><svg width="70" height="46" viewBox="0 0 70 46"><g fill="#1D4ED8"><rect x="2" y="30" width="12" height="16" rx="3"></rect><rect x="20" y="21" width="12" height="25" rx="3"></rect><rect x="38" y="11" width="12" height="35" rx="3"></rect><rect x="56" y="0" width="12" height="46" rx="3"></rect></g></svg></div>
+<div class="vr"><span class="sn">2</span><p>마스크로 산소 측정</p><svg width="70" height="50" viewBox="0 0 70 50" fill="none" stroke="#1D4ED8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><circle cx="22" cy="24" r="19"></circle><path d="M27 24 h15 a7 7 0 0 1 0 14 h-15 z" fill="#1D4ED8"></path><path d="M49 32 q14 0 17 16"></path></svg></div>
+<div class="vr" style="background:#1D4ED8;color:#fff;border-color:#1D4ED8"><span class="sn" style="background:#fff;color:#1D4ED8">3</span><p>더 안 오르는 값 = VO2max</p></div>
+</div>
+</div>
+<div class="gc2"><div class="gh"><p class="gt2">실제 측정 그래프 <span style="font-size:17px;color:#71717A;font-weight:800">가로: 시간(분:초)</span></p><p class="lg2"><span><i style="background:#3F8A1F"></i>산소섭취량 (왼쪽 축)</span><span><i style="background:#2F4BF0"></i>심박수</span><span><i style="background:#E8433B"></i>CO2 배출</span></p></div><div class="gi"><img src="./img/vo2-plateau.png" alt="17분 점증부하 테스트에서 산소섭취량이 13분 이후 약 52에서 평평해지고 심박수는 계속 오르는 그래프"><span class="cap">↑ 천장 = VO2max (약 52)</span></div></div>
+<div class="take"><span class="big" style="color:#E11D48">왜?</span><p class="tp">그런데 이 천장 높이는<br>사람마다 왜 다를까요?</p></div>
+<p class="src" style="margin-top:8px">측정: 점증부하 테스트 + 호흡가스 분석 · 1편 "VO2max 정의" 참고</p>
+
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>
