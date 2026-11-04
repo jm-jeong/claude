@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>3편 재구성 일반 러너가 할 일</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:17px;color:#71717A;margin-top:auto;padding-top:12px;line-height:1.4;letter-spacing:-.01em}
+.sec{margin:-52px -72px 30px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:52px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:24px;font-weight:700;color:#3F3F46;margin-top:10px;letter-spacing:-.02em;line-height:1.4}
+.take{margin-top:auto;display:flex;align-items:center;gap:24px;padding-top:18px;border-top:2px solid #E4E4E7}
+.big{font-size:52px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:24px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+.card{background:#fff;border-radius:22px;padding:18px 22px}
+.g{color:#059669}.r{color:#E11D48}.b{color:#1D4ED8}.p{color:#7C3AED}
+.ev{display:inline-block;border-radius:999px;padding:4px 12px;font-size:16px;font-weight:900;color:#fff;letter-spacing:-.01em;vertical-align:middle;white-space:nowrap}
+.ev.x{background:#047857}.ev.c{background:#B45309}.ev.f{background:#52525B}.ev.m{background:#1D4ED8}.ev.n{background:#BE123C}
+
+.tl{margin-top:18px;display:flex;flex-direction:column;gap:10px}
+.ti{display:grid;grid-template-columns:48px 1fr;gap:14px;align-items:center;background:#fff;border-radius:18px;padding:12px 18px}
+.tn{width:48px;height:48px;border-radius:50%;background:#047857;color:#fff;font-size:24px;font-weight:900;display:flex;align-items:center;justify-content:center}
+.th{font-size:22px;font-weight:900;letter-spacing:-.03em;line-height:1.3}
+.th .ev{margin-left:8px}
+.td{font-size:16px;font-weight:700;color:#52525B;margin-top:4px;line-height:1.4;letter-spacing:-.02em}
+
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">러닝 이코노미, 어떻게 좋아질까?</div><div class="series"><span style="color:#8FB0FF;opacity:.3">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF;opacity:.3">젖산역치</span></div></div>
+<div class="stage" style="background:#EFFAF5">
+<div class="sec" style="background:#059669"><div><span class="no">실천</span><span class="nm">일반 러너가 할 일</span></div><div class="segs"><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg"></div></div></div>
+<h1>내 이코노미를 위해<br><span class="g">오늘부터 할 수 있는 것</span></h1>
+<div class="tl">
+<div class="ti"><span class="tn">1</span><div><p class="th">꾸준히, 오래 달리기<span class="ev f">사례·상관</span></p><p class="td">몇 주가 아니라 몇 년 단위로 보기 · 주 1회 90분 이상 롱런은 지친 상태의 이코노미와 관련</p></div></div>
+<div class="ti"><span class="tn">2</span><div><p class="th">근력 주 2회, 무겁게 적게<span class="ev x">메타분석</span></p><p class="td">스쿼트 4×4(최대 무게)나 점프 · 6주 이상 · 처음엔 가볍게 동작부터</p></div></div>
+<div class="ti"><span class="tn">3</span><div><p class="th">업힐·짧은 질주를 가끔<span class="ev x">실험</span></p><p class="td">바탕 훈련을 대신하지 말고 위에 짧게 얹기</p></div></div>
+<div class="ti"><span class="tn">4</span><div><p class="th">폼은 그대로, 케이던스만 살짝<span class="ev x">실험</span></p><p class="td">초보라면 같은 페이스에서 지금보다 5% 정도까지 · 착지법은 억지로 바꾸지 않기</p></div></div>
+<div class="ti"><span class="tn">5</span><div><p class="th">레이스 신발은 직접 비교<span class="ev x">실험</span></p><p class="td">평균이 아니라 내 발에서 · 레이스 페이스로 미리 달려보기</p></div></div>
+<div class="ti"><span class="tn">6</span><div><p class="th">시계 숫자에 휘둘리지 않기<span class="ev f">코치 해석</span></p><p class="td">시계는 산소를 재지 않아요 · 같은 코스·같은 페이스에서 심박이 내려가는지가 더 현실적인 신호예요</p></div></div>
+</div>
+<p class="src">Zanini (2024, 2026) · Llanos-Lagos (2024) · Støren (2008) · Barnes (2013) · de Ruiter (2014) · Heiderscheit (2011) · Anderson (2020) · Knopp (2023) · Aubry (2018) · 6번의 심박 신호는 코치 해석이에요</p>
+
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

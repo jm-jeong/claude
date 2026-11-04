@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>3편 재구성 왜 중요할까</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column}
+.bottom{height:420px;padding:34px 72px 0;text-align:center}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.src{font-size:17px;color:#71717A;margin-top:auto;padding-top:12px;line-height:1.4;letter-spacing:-.01em}
+.sec{margin:-52px -72px 30px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff}
+.no{font-size:30px;font-weight:900;opacity:.75;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:52px;font-weight:900;line-height:1.2;letter-spacing:-.04em}
+.sub{font-size:24px;font-weight:700;color:#3F3F46;margin-top:10px;letter-spacing:-.02em;line-height:1.4}
+.take{margin-top:auto;display:flex;align-items:center;gap:24px;padding-top:18px;border-top:2px solid #E4E4E7}
+.big{font-size:52px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:24px;font-weight:800;line-height:1.45;letter-spacing:-.02em}
+.card{background:#fff;border-radius:22px;padding:18px 22px}
+.g{color:#059669}.r{color:#E11D48}.b{color:#1D4ED8}.p{color:#7C3AED}
+.ev{display:inline-block;border-radius:999px;padding:4px 12px;font-size:16px;font-weight:900;color:#fff;letter-spacing:-.01em;vertical-align:middle;white-space:nowrap}
+.ev.x{background:#047857}.ev.c{background:#B45309}.ev.f{background:#52525B}.ev.m{background:#1D4ED8}.ev.n{background:#BE123C}
+
+.eq{display:flex;align-items:stretch;gap:10px;margin-top:22px}
+.eqb{flex:1;border-radius:18px;padding:14px 10px;color:#fff;text-align:center}
+.eqb p{font-size:17px;font-weight:800;opacity:.9}
+.eqb b{display:block;font-size:27px;font-weight:900;letter-spacing:-.03em;margin-top:2px}
+.eqo{align-self:center;font-size:38px;font-weight:900;color:#71717A}
+.ct{font-size:20px;font-weight:800;color:#3F3F46;margin-bottom:8px;letter-spacing:-.02em;line-height:1.4}
+.ct .ev{margin-right:8px}
+.pr{display:grid;grid-template-columns:220px 1fr 150px;align-items:center;gap:14px;margin-top:12px}
+.pn{font-size:23px;font-weight:900;letter-spacing:-.03em;line-height:1.2}
+.pn small{display:block;font-size:16px;font-weight:700;color:#71717A}
+.pt{height:50px;background:#F4F4F5;border-radius:12px}
+.pf{height:100%;border-radius:12px;color:#fff;font-size:24px;font-weight:900;display:flex;align-items:center;padding-left:16px}
+.pp{text-align:right;font-size:42px;font-weight:900;letter-spacing:-.04em}
+.pp span{font-size:18px;color:#52525B;margin-left:2px}
+.cn{font-size:18px;font-weight:700;color:#52525B;margin-top:12px;line-height:1.45;letter-spacing:-.02em}
+.el{margin-top:14px;background:#09090B;color:#fff;border-radius:22px;padding:16px 22px}
+.elh{font-size:20px;font-weight:900;color:#4ADE9F;margin-bottom:8px}
+.elh .ev{margin-right:8px}
+.elg{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.elg div{background:rgba(255,255,255,.08);border-radius:14px;padding:10px 12px}
+.elg p{font-size:16px;font-weight:800;opacity:.8}
+.elg b{display:block;font-size:30px;font-weight:900;letter-spacing:-.03em;margin-top:2px}
+.eln{font-size:18px;font-weight:700;margin-top:10px;line-height:1.45;opacity:.92}
+
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">러닝 이코노미, 어떻게 좋아질까?</div><div class="series"><span style="color:#8FB0FF;opacity:.3">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF;opacity:.3">젖산역치</span></div></div>
+<div class="stage" style="background:#EFFAF5">
+<div class="sec" style="background:#059669"><div><span class="no">개념</span><span class="nm">왜 중요할까</span></div><div class="segs"><div class="seg"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div></div></div>
+<h1>엔진 · 버티는 힘 · 연비,<br><span class="g">셋이 함께 기록을 만든다</span></h1>
+<div class="eq">
+<div class="eqb" style="background:#1D4ED8"><p>엔진</p><b>VO2max</b></div><span class="eqo">×</span>
+<div class="eqb" style="background:#7C3AED"><p>버티는 비율</p><b>젖산역치</b></div><span class="eqo">÷</span>
+<div class="eqb" style="background:#047857"><p>연비</p><b>이코노미</b></div><span class="eqo">=</span>
+<div class="eqb" style="background:#09090B"><p>버틸 수 있는</p><b>속도</b></div>
+</div>
+<div class="card" style="margin-top:16px">
+<p class="ct"><span class="ev m">모델 계산</span>1편 예시 러너 · VO2max 60 · 역치에서 85%(1분에 산소 51 ml/kg)까지 버팀</p>
+<div class="pr"><p class="pn">이코노미 240<small>1편 예시 그대로</small></p><div class="pt"><div class="pf" style="width:90%;background:#71717A">240</div></div><p class="pp" style="color:#52525B">4:42<span>/km</span></p></div>
+<div class="pr"><p class="pn g">이코노미 216<small>10% 좋아지면</small></p><div class="pt"><div class="pf" style="width:81%;background:#047857">216</div></div><p class="pp g">4:14<span>/km</span></p></div>
+<p class="cn">엔진과 역치가 같아도 연비가 10% 좋으면 역치 페이스가 약 28초 빨라져요. 실제 기록 변화는 공기 저항 때문에 빠를수록 이보다 작아요 (엘리트 속도에선 약 2/3).</p>
+</div>
+<div class="el">
+<p class="elh"><span class="ev x">측정 연구</span>2시간 마라톤 후보 16명 (Breaking2)</p>
+<div class="elg"><div><p>VO2max</p><b>71</b></div><div><p>젖산 전환점</p><b>92%</b></div><div><p>이코노미 (7명)</p><b>191</b></div></div>
+<p class="eln">높은 VO2max는 전제예요. 정상급끼리는 그 위에서 이코노미와 역치가 차이를 만들어요.</p>
+</div>
+<p class="src">Joyner (1991) J Appl Physiol 모델 · Jones et al. (2021) J Appl Physiol · Kipp, Kram &amp; Hoogkamer (2019) Front Physiol · 계산: 51 ÷ 이코노미 = km/분</p>
+
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>
