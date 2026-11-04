@@ -681,10 +681,9 @@
 
 - 엘리트 사례래드클리프 11년
 - VO2max는 그대로, 러닝 이코노미만 15% 좋아졌다
-- 사진 자리 2003 런던 마라톤 라이선스 있는 사진으로 교체
 - 폴라 래드클리프 · 2003.4.13 런던 마라톤
 - 2:15:25
-- 여자 마라톤 세계기록 · 2019년까지 16년 유지 18세(1992)부터 매년 측정한 기록의 끝이 바로 이 해
+- 여자 마라톤 세계기록 · 2019년까지 16년 유지 18세(1992)부터 매년 측정한 기록의 끝이 바로 이 해 사진은 2005 런던 마라톤
 - 1992 · 18세
 - 2003 · 29세
 - VO2max
@@ -711,7 +710,7 @@
 - 주간 거리18세 때 주 40~48km 미만 → 마라톤 훈련기 주 193~257km
 - 근력주 2회 웨이트, 점점 정교해짐 · 수직점프 29cm(1996) → 38cm(2003)
 - 고지대훈련 상당 부분을 고지대에서
-- Jones (2006) Int J Sports Sci Coach · 경사 1% · 3분 단계 · 1명 사례, 저자도 "원인을 하나로 꼽기 어렵다"고 했어요
+- Jones (2006) Int J Sports Sci Coach · 경사 1% · 3분 단계 · 1명 사례, 저자도 "원인을 하나로 꼽기 어렵다"고 했어요 · 사진: yaaaay (CC BY 2.0, Wikimedia Commons)
 
 ### 3편 06 무엇이 정하나  (`E3-Factors.dc.html`)
 
@@ -731,7 +730,7 @@
 - ③ 체중
 - 체지방몸통에 1kg 더하면 약 1% 더 듦
 - 주의 체형 연구는 "잘 달리는 선수에게 이런 몸이 많더라"(상관)예요. "이 몸이면 이코노미가 좋아진다"(원인)는 아니에요. 그리고 힘줄은 근력 훈련 14주에 강성 +16%, 타고난 것도 일부는 변해요.
-- Barnes & Kilding (2015) · Lucia et al. (2006) · Llanos-Lagos et al. (2024) · Iaia et al. (2008) · Albracht & Arampatzis (2013)
+- Barnes & Kilding (2015) · Lucia et al. (2006) · Llanos-Lagos et al. (2024) · Iaia et al. (2008) · Albracht & Arampatzis (2013) 사진: Wikimedia Commons · Tiia Monto, Bob Ramsak, LexSprinter, Hjfm 003, franchise opportunities (CC BY-SA) · yaaaay (CC BY 2.0) · 미 육군, Gray's Anatomy (퍼블릭 도메인)
 
 ### 3편 07 폼 교정  (`E3-Form.dc.html`)
 
@@ -810,7 +809,6 @@
 
 - 바꿀 수 있는 것 ①실제 처방 연구
 - 연구에서 효과 본 3가지
-- 90°
 - 1하프 스쿼트
 - 4세트 × 4회(최대) · 세트 사이 3분 · 주 3회 · 8주 천천히 내려가 1초 멈춤 → 최대한 빠르게 일어서기
 - 이코노미 +5% · VO2max 속도 버티기 +21%
@@ -819,13 +817,12 @@
 - 제자리 발목 점프·바운딩처럼 착지 즉시 튀어 오르기 30분 · 주 3회 · 9주
 - 18km/h에서 이코노미 +4.1%
 - VO2max 71 엘리트 15명 · Saunders 2006
-- 고정된 바
 - 3종아리 등척성
 - 고정된 저항을 발끝으로 최대 힘으로 3초 밀기 4회 × 5세트 · 14주
 - 힘줄 강성 +16% · 이코노미 약 4%
 - 26명 · Albracht & Arampatzis 2013
 - 단, 메타분석에선 등척성 전체 효과가 뚜렷하지 않았어요
-- Støren et al. (2008) Med Sci Sports Exerc · Saunders et al. (2006) J Strength Cond Res · Albracht & Arampatzis (2013) Eur J Appl Physiol · 그림은 이해를 돕는 예시
+- Støren et al. (2008) Med Sci Sports Exerc · Saunders et al. (2006) J Strength Cond Res · Albracht & Arampatzis (2013) Eur J Appl Physiol · 사진은 동작 예시(3번 연구는 움직이지 않고 미는 등척성) · 사진: 미 해병대·미 육군(퍼블릭 도메인), GeorgeStepanek (CC BY-SA 3.0), Wikimedia Commons
 
 ### 3편 11 질주 훈련  (`E3-Speed.dc.html`)
 
@@ -858,7 +855,7 @@
 - 얇은 밑창 · 가벼움
 - vs
 - 카본화
-- 두꺼운 반발 폼 + 탄소판
+- 두꺼운 반발 폼 + 탄소판 · 사진은 베이퍼플라이
 - 실험 · 2023 카본화로 바꿨을 때 러닝 이코노미 변화
 - ← 손해0이득 →
 - 케냐 정상급 7명
@@ -871,7 +868,7 @@
 - 교차 실험 17개 · 281명 산소 사용 감소 (작음~중간)
 - 무게도 이코노미
 - 신발 100g 무거우면 약 1% 손해
-- Knopp et al. (2023) Sports Med · 신발 메타분석 (2025) Int J Sports Med · Barnes & Kilding (2015) · 레이스 신발은 직접 신어보고 레이스 페이스로 미리 달려보세요
+- Knopp et al. (2023) Sports Med · 신발 메타분석 (2025) Int J Sports Med · Barnes & Kilding (2015) · 레이스 신발은 직접 신어보고 레이스 페이스로 미리 달려보세요 · 사진: Modifyphysio, Hjfm 003 (CC BY-SA 4.0, Wikimedia Commons)
 
 ### 3편 13 내구성  (`E3-Durability.dc.html`)
 
