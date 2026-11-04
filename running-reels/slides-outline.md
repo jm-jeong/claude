@@ -560,15 +560,16 @@
 ### 3편 00 훅  (`E3-Hook.dc.html`)
 
 - 러닝 3요소 · 3편
-- 같은 숨으로 더 빨리 달리는 법, 러닝 이코노미
-- 나이키 4%의 정체도 바로 이거예요. 같은 속도에서 에너지를 4% 덜 쓴다는 뜻.
-- 신발 이름
-- 4%
-- 2017 · 베이퍼플라이 4%
-- =?
-- 실제 의미
-- 러닝 이코노미
-- 같은 속도, 덜 쓰는 에너지
+- 똑같이 달려도 누구는 덜 지친다, 러닝 이코노미
+- VO2max도 체중도 같은 두 러너, 같은 6:00 페이스에서 쓰는 산소가 10% 달랐어요.
+- 러너 A
+- 240
+- ml/kg/km · 1km에 드는 산소
+- vs
+- 러너 B
+- 264
+- ml/kg/km · 1km에 드는 산소
+- 예시값 · 1편 비교 러너 (1분 산소 40 vs 44 × 6분)
 
 ### 3편 01 4%의 탄생  (`E3-History.dc.html`)
 
@@ -649,35 +650,7 @@
 - 40 × 6분 = 240 · 최신 연구는 kcal/kg/km로도 표시
 - Jones & Doust (1996) J Sports Sci · Barnes & Kilding (2015) Sports Med Open · 시계는 산소를 재지 않아 이코노미를 직접 알 수 없어요
 
-### 3편 04 VO2max·이코노미·기록  (`E3-Variance.dc.html`)
-
-- 개념얼마나 차이 날까
-- VO2max가 비슷하면, 기록은 러닝 이코노미가 가른다
-- 고전 연구 · 198010km 대회 상위권 남자 러너 12명 · VO2max 평균 71.7
-- 10km 기록 차이를 얼마나 설명했나
-- VO2maxr = −0.12 · 관련 없음
-- ≈ 0
-- 러닝 이코노미14.5km/h에서 산소 · r = 0.83
-- 65%
-- 모델 연구 · 2019이코노미가 10% 좋아지면 얼마나 빨라질까
-- 지금
-- 10% 좋아지면
-- 속도
-- 일반 러너2.5 m/s
-- 6:40
-- →
-- 5:55
-- +12.6%
-- 엘리트5.5 m/s
-- 3:02
-- →
-- 2:50
-- +6.7%
-- 빠를수록 공기 저항이 커져서, 같은 10%도 속도로는 덜 바뀌어요. 2:04 마라톤 페이스에서 3% 좋아지면 → 약 2:01:36
-- 65%엔진(VO2max)이 비슷한 러너끼리는 연비(이코노미)가 순위를 갈랐어요.
-- Conley & Krahenbuhl (1980) Med Sci Sports Exerc · Kipp, Kram & Hoogkamer (2019) Front Physiol · 12명 소규모, VO2max가 비슷한 집단이라 이코노미 영향이 크게 보일 수 있어요 · 페이스는 분:초/km
-
-### 3편 05 래드클리프 2:15:25  (`E3-EliteCases.dc.html`)
+### 3편 04 래드클리프 2:15:25  (`E3-EliteCases.dc.html`)
 
 - 엘리트 사례래드클리프 11년
 - VO2max는 그대로, 러닝 이코노미만 15% 좋아졌다
@@ -712,15 +685,15 @@
 - 고지대훈련 상당 부분을 고지대에서
 - Jones (2006) Int J Sports Sci Coach · 경사 1% · 3분 단계 · 1명 사례, 저자도 "원인을 하나로 꼽기 어렵다"고 했어요 · 사진: yaaaay (CC BY 2.0, Wikimedia Commons)
 
-### 3편 06 무엇이 정하나  (`E3-Factors.dc.html`)
+### 3편 05 무엇이 정하나  (`E3-Factors.dc.html`)
 
 - 구조무엇이 정하나
 - 타고난 몸 vs 바꿀 수 있는 3가지
 - 타고난 몸
 - 바꾸기 어려워요
-- 다리 끝의 무게발에 무게를 더하면 비용↑ · 실험으로 확인
+- 다리 끝의 무게체중이 아니라 종아리·발 쪽 무게 · 발에 100g ≈ +1%, 허벅지는 절반 이하
 - 가는 종아리 · 긴 정강이엘리트 비교에서 함께 나타남 · 원인인지는 몰라요
-- 힘줄 지렛대 길이아킬레스 구조 · 연구마다 결론이 엇갈림
+- 힘줄 지렛대 길이아킬레스 스프링 · 어떤 구조가 좋은지 연구마다 반대
 - ① 훈련
 - 근력 · 점프 훈련메타분석에서 확인 · 2~8%
 - 빠른 질주 + 충분한 휴식4주에 산소 6~8% 감소
@@ -729,10 +702,10 @@
 - 신발평균 약 4% · 사람마다 다름 · 100g 무거우면 약 1% 손해
 - ③ 체중
 - 체지방몸통에 1kg 더하면 약 1% 더 듦
-- 주의 체형 연구는 "잘 달리는 선수에게 이런 몸이 많더라"(상관)예요. "이 몸이면 이코노미가 좋아진다"(원인)는 아니에요. 그리고 힘줄은 근력 훈련 14주에 강성 +16%, 타고난 것도 일부는 변해요.
-- Barnes & Kilding (2015) · Lucia et al. (2006) · Llanos-Lagos et al. (2024) · Iaia et al. (2008) · Albracht & Arampatzis (2013) 사진: Wikimedia Commons · Tiia Monto, Bob Ramsak, LexSprinter, Hjfm 003, franchise opportunities (CC BY-SA) · yaaaay (CC BY 2.0) · 미 육군, Gray's Anatomy (퍼블릭 도메인)
+- 왜 유리할까 달릴 때 에너지는 ① 몸을 받쳐 올리고 ② 다리를 앞뒤로 휘두르는 데 쓰이고, ③ 힘줄 스프링이 일부를 돌려줘요. 다리 끝이 가벼우면 ②가 줄고(망치 끝을 잡고 휘두르면 더 힘든 것과 같아요), 힘줄이 잘 늘었다 튕기면 ③이 늘어요. 단, 체형 연구는 상관이지 원인 증명이 아니에요.
+- Barnes & Kilding (2015) · Myers & Steudel (1985) · Coifman et al. (2024) · Lucia et al. (2006) · Llanos-Lagos et al. (2024) · Iaia et al. (2008) · Albracht & Arampatzis (2013) 사진: Wikimedia Commons · Tiia Monto, Bob Ramsak, LexSprinter, Hjfm 003, franchise opportunities (CC BY-SA) · yaaaay (CC BY 2.0) · 미 육군, Gray's Anatomy (퍼블릭 도메인)
 
-### 3편 07 폼 교정  (`E3-Form.dc.html`)
+### 3편 06 폼 교정  (`E3-Form.dc.html`)
 
 - 흔한 오해 ①폼을 고치면 될까?
 - 자세가 설명하는 건 개인차의 4~12%뿐
@@ -755,7 +728,7 @@
 - 그대로대부분 이미 내 몸에 맞는 보폭으로 달려요. 억지로 바꾸면 적응하는 동안 오히려 손해예요.
 - Van Hooren et al. (2024) Sports Med · Moore (2016) · Daniels (1984 LA 올림픽 관찰) · Heiderscheit et al. (2011) Med Sci Sports Exerc
 
-### 3편 08 마일리지  (`E3-Mileage.dc.html`)
+### 3편 07 마일리지  (`E3-Mileage.dc.html`)
 
 - 흔한 오해 ②많이 뛰면 오를까?
 - 몇 주로는 안 오르고, 몇 년이면 오를 가능성이 커요
@@ -777,7 +750,7 @@
 - 바탕마일리지는 몇 년에 걸친 바탕이고, 몇 주 안에 바꾸는 건 근력·질주 쪽이에요.
 - Lake & Cavanagh (1996) · Barnes & Kilding (2015) 리뷰 (Mayhew · Pate · Midgley 인용) · Jones (2006)
 
-### 3편 09 근력 메타분석  (`E3-Strength.dc.html`)
+### 3편 08 근력 메타분석  (`E3-Strength.dc.html`)
 
 - 바꿀 수 있는 것 ①근력 훈련
 - 가볍게 많이 말고, 무겁게 적게 · 점프
@@ -805,7 +778,7 @@
 - 대상: 중간 수준 195명 · 잘 훈련된 272명 · 고도로 훈련된 185명
 - Llanos-Lagos et al. (2024) Sports Med 54(4):895-932 · 개별 연구 범위 약 2~8%
 
-### 3편 10 근력 처방  (`E3-StrengthRx.dc.html`)
+### 3편 09 근력 처방  (`E3-StrengthRx.dc.html`)
 
 - 바꿀 수 있는 것 ①실제 처방 연구
 - 연구에서 효과 본 3가지
@@ -824,7 +797,7 @@
 - 단, 메타분석에선 등척성 전체 효과가 뚜렷하지 않았어요
 - Støren et al. (2008) Med Sci Sports Exerc · Saunders et al. (2006) J Strength Cond Res · Albracht & Arampatzis (2013) Eur J Appl Physiol · 사진은 동작 예시(3번 연구는 움직이지 않고 미는 등척성) · 사진: 미 해병대·미 육군(퍼블릭 도메인), GeorgeStepanek (CC BY-SA 3.0), Wikimedia Commons
 
-### 3편 11 질주 훈련  (`E3-Speed.dc.html`)
+### 3편 10 질주 훈련  (`E3-Speed.dc.html`)
 
 - 바꿀 수 있는 것 ②질주 훈련
 - 30초 질주 + 3분 휴식, 4주에 산소 6~8% 덜 썼다
@@ -847,15 +820,10 @@
 - 훈련량을 줄여 피로가 빠진 효과(테이퍼)일 수 있어요 · 17명·4주 소규모 · 2008년엔 10km 기록과 VO2max는 그대로
 - Iaia et al. (2008) J Appl Physiol · Bangsbo et al. (2009) J Appl Physiol · Franch et al. (1998)
 
-### 3편 12 신발  (`E3-Shoes.dc.html`)
+### 3편 11 신발  (`E3-Shoes.dc.html`)
 
 - 바꿀 수 있는 것 ③신발
 - 평균은 4%, 하지만 내 발엔 0%일 수도
-- 일반 레이싱화
-- 얇은 밑창 · 가벼움
-- vs
-- 카본화
-- 두꺼운 반발 폼 + 탄소판 · 사진은 베이퍼플라이
 - 실험 · 2023 카본화로 바꿨을 때 러닝 이코노미 변화
 - ← 손해0이득 →
 - 케냐 정상급 7명
@@ -868,9 +836,9 @@
 - 교차 실험 17개 · 281명 산소 사용 감소 (작음~중간)
 - 무게도 이코노미
 - 신발 100g 무거우면 약 1% 손해
-- Knopp et al. (2023) Sports Med · 신발 메타분석 (2025) Int J Sports Med · Barnes & Kilding (2015) · 레이스 신발은 직접 신어보고 레이스 페이스로 미리 달려보세요 · 사진: Modifyphysio, Hjfm 003 (CC BY-SA 4.0, Wikimedia Commons)
+- Knopp et al. (2023) Sports Med · 신발 메타분석 (2025) Int J Sports Med · Barnes & Kilding (2015) · 레이스 신발은 직접 신어보고 레이스 페이스로 미리 달려보세요
 
-### 3편 13 내구성  (`E3-Durability.dc.html`)
+### 3편 12 내구성  (`E3-Durability.dc.html`)
 
 - 최신 연구피곤해도 유지되나
 - 같은 페이스인데 90분째엔 산소가 더 든다
@@ -885,44 +853,48 @@
 - 하위권(10km 41분대) +4.3%
 - 상위권(10km 31분대) +2.3%
 - 잘 달리는 사람일수록 이코노미가 덜 무너졌어요 = 이걸 "내구성"이라고 불러요
+- 에너지로 재든 산소로 재든 거의 같아요: 90분째 산소 사용 +2.4% vs +4.5% (같은 페이스인데 산소가 그만큼 더 든다는 뜻)
 - 하이록스라면1km 달리기 8번을 스테이션 사이에 해요. 쌩쌩할 때 이코노미보다 지친 상태의 이코노미가 기록을 정해요. (코치 해석 · 하이록스 직접 연구는 아직 없음)
 - Zanini, Folland & Blagrove (2024) Med Sci Sports Exerc · 그래프는 시작과 90분 값을 직선으로 이은 것
 
-### 3편 14 팩트체크  (`E3-FactCheck.dc.html`)
+### 3편 13 팩트체크  (`E3-FactCheck.dc.html`)
 
-- 팩트체크흔히 듣는 이코노미 상식
-- 맞음근력운동이 이코노미를 올린다
+- 이코노미 팩트 체크
+- 맞아요
+- 근력운동이 이코노미를 올린다
 - 메타분석에서 확인 · 고중량·점프·혼합
-- 근거 X폼·착지법을 바꿔야 한다
-- 자세는 개인차의 4~12% · 착지법 차이 없음
-- 반쯤케이던스 180이 정답
+- 애매해요
+- 케이던스 180이 정답
 - 높을수록 약간 좋지만 모두에게 맞는 숫자는 없음
-- 근거 X접지 시간을 줄이면 좋아진다
-- 관련 없음 (r = −0.02)
-- 근거 X호흡을 2:1로 맞추면 좋아진다
-- 직접 근거를 찾지 못함
-- 반쯤많이 뛰는 게 유일한 답
+- 많이 뛰는 게 유일한 답
 - 수년 누적은 정황 증거 · 근력·질주도 효과
-- 반쯤슈퍼슈즈는 누구나 4%
+- 슈퍼슈즈는 누구나 4%
 - 평균은 맞지만 개인차 −11~+11%
-- 근거 X아마추어는 신발 효과가 작다
+- 근거 없어요
+- 폼·착지법을 바꿔야 한다
+- 자세는 개인차의 4~12% · 착지법 차이 없음
+- 접지 시간을 줄이면 좋아진다
+- 관련 없음 (r = −0.02)
+- 호흡을 2:1로 맞추면 좋아진다
+- 직접 근거를 찾지 못함
+- 아마추어는 신발 효과가 작다
 - 느린 러너일수록 줄어드는 시간이 더 커요(이론)
 - Van Hooren (2024) · Llanos-Lagos (2024) · Barnes & Kilding (2015) · Knopp (2023) · Kipp (2019)
 
-### 3편 15 정리  (`E3-Wrap.dc.html`)
+### 3편 14 정리  (`E3-Wrap.dc.html`)
 
 - 정리 러닝 이코노미는 폼이 아니라 몸이 만든다
-- 원리이코노미 = 1km 가는 데 드는 산소VO2max가 비슷하면 10km 기록 차이의 65%를 설명 · 역치 아래 속도에서 산소로 측정
-- 엘리트VO2max가 아니라 러닝 이코노미래드클리프 11년 −15% (VO2max 그대로) → 2003년 2:15:25 세계기록
+- 원리이코노미 = 1km 가는 데 드는 산소낮을수록 좋음 · 역치 아래 속도에서 산소로 측정
+- 엘리트VO2max가 아니라 러닝 이코노미, 젖산 역치래드클리프 11년 −15% (VO2max 그대로) → 2003년 2:15:25 세계기록
 - 오해폼 교정 · 착지 · 접지 시간자세는 개인차의 4~12% · 억지로 바꾸면 오히려 손해
 - 확실한 것근력 · 점프 · 빠른 질주 + 충분한 휴식고중량·플라이오·혼합 2~8% · 30초 질주 4주에 6~8%
 - 조건부신발 · 수년의 누적 훈련신발은 평균 4%, 개인차 큼 · 마일리지는 수년 단위 정황 증거
 - 결론
 - 신발이 4%를 줄 수는 있어도, 러닝 이코노미는 근력·속도·시간이 만든다
 - 하이록스는 지친 상태의 이코노미 싸움 · 근력과 스트라이드를 주 1~2회 꾸준히
-- Conley 1980 · Hoogkamer 2018 · Jones 2006 · Van Hooren 2024 · Llanos-Lagos 2024 · Iaia 2008 · Knopp 2023 · Zanini 2024
+- Hoogkamer 2018 · Jones 2006 · Van Hooren 2024 · Llanos-Lagos 2024 · Iaia 2008 · Knopp 2023 · Zanini 2024
 
-### 3편 16 참고문헌  (`E3-Refs.dc.html`)
+### 3편 15 참고문헌  (`E3-Refs.dc.html`)
 
 - 참고문헌
 - 1Conley DL, Krahenbuhl GS (1980) Running economy and distance running performance of highly trained athletes. Med Sci Sports Exerc
@@ -954,10 +926,28 @@
 - 27Bangsbo J et al. (2009) Reduced volume and increased training intensity elevate muscle Na+-K+ pump alpha2-subunit expression as well as short- and long-term work capacity in humans. J Appl Physiol
 - 28CU Boulder Today (2017.11) New shoe makes running 4 percent easier · NPR (2020.1) Track's governing body sets new rules for shoes
 
-### 3편 17 다음 편 예고  (`E3-Next.dc.html`)
+### 3편 16 다음 편 예고  (`E3-Next.dc.html`)
 
 - 다음 편 예고젖산역치
 - 엔진도 같고 연비도 같은데, 마라톤 후반에 갈리는 이유
+- 1편에서 본 두 개의 역치
+- LT1 · 5:43/km
+- LT2 · 4:42/km
+- 편하게 오래
+- 젖산이 안정 수준
+- 버틸 수 있는 구간
+- 젖산이 조금씩 오름
+- 빠르게 지침
+- 젖산이 계속 쌓임
+- 7:30
+- 6:30
+- 5:43
+- 5:00
+- 4:42
+- 4:00
+- 예시 데이터
+- 1km 페이스 (분:초) · 오른쪽일수록 빠름
+- 혈중 젖산 →
 - Breaking2 후보들
 - VO2max의 92%까지
 - 젖산이 급격히 쌓이기 전까지 버틴 지점 (평균)
@@ -968,6 +958,5 @@
 - LT1젖산이 처음 오르는 지점 · 존2의 진짜 기준
 - LT2젖산이 급격히 쌓이는 지점 · 하이록스 페이스의 천장
 - 훈련역치는 어떻게 올리나
-- 4편VO2max의 몇 %를 오래 버티느냐, 젖산역치에서 이어갈게요.
 - Jones et al. (2021) J Appl Physiol · Hunter & Muniz-Pumares (2025) Eur J Sport Sci
 
