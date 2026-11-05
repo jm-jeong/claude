@@ -994,19 +994,19 @@
 
 ## 3편 재구성안
 
-### 재구성 00 훅 · 더 좋은 이코노미 곡선으로  (`E3R-Hook.dc.html`)
+### 재구성 00 훅 · 같은 페이스를 더 효율적으로  (`E3R-Hook.dc.html`)
 
 - 러닝 3요소 · 3편 · 러닝 이코노미
-- 이코노미가 더 좋은 그래프로 이동하려면 어떻게 해야 할까?
+- 러닝 이코노미같은 페이스를 더 효율적으로 가는 법
 - 지금이코노미가 좋아진 나
 - 40
 - 50
 - 60
 - VO2max 60 · 엔진은 그대로
-- 4:24
+- 4:48
 - 4:00
 - 같은 6:00 페이스에서
-- 산소 44 → 40 (−9%)
+- 산소 48 → 40 (−17%)
 - 7:30
 - 6:00
 - 5:00
@@ -1014,12 +1014,12 @@
 - 1km 페이스 · 오른쪽일수록 빠름
 - 1분 산소 (ml/kg)
 - 아래 곡선일수록 같은 페이스에 산소를 덜 써요
-- 예시 그래프 · 1편 비교 값 (1km에 드는 산소 264 → 240 ml/kg/km) · VO2max 60 동일 · 세로축은 30부터
+- 예시 그래프 · 차이를 키워 그린 값 (1km에 드는 산소 288 → 240 ml/kg/km) · VO2max 60 동일 · 세로축은 30부터
 
-### 재구성 01 러닝 이코노미란  (`E3R-Def.dc.html`)
+### 재구성 01 러닝 이코노미란 · 측정법  (`E3R-Def.dc.html`)
 
-- 개념러닝 이코노미란
-- 같은 페이스로 달릴 때 1km에 드는 산소
+- 개념러닝 이코노미란 · 측정법
+- 같은 페이스 1km에 드는 산소
 - 자동차로 치면 1km에 드는 연료 · 낮을수록 좋아요
 - 0
 - 20
@@ -1038,22 +1038,13 @@
 - 1km 6:00 페이스 고정 · 6분 동안
 - 예시 데이터
 - 40 × 6분 = 240 ml/kg/km
-- Barnes & Kilding (2015) Sports Med Open · 그래프는 예시 데이터
+- 논문은 이렇게 재요
+- 1러닝머신 경사 1% (야외 공기 저항 보정)
+- 2역치보다 느린 속도 3~5분 · 마지막 1~2분 평균
+- 3다시 재도 2~3% 흔들려요 · 시계는 산소를 못 재요
+- Jones & Doust (1996) · Saunders et al. (2004) · Barnes & Kilding (2015) · 그래프는 예시 데이터
 
-### 재구성 02 논문은 이렇게 잰다  (`E3R-Measure.dc.html`)
-
-- 개념논문은 이렇게 잰다
-- 러닝 이코노미는 이렇게 재요
-- 1러닝머신 경사 1%
-- 야외 공기 저항만큼 비용을 맞추려고
-- 2역치보다 느린 속도로 3~5분씩
-- 산소가 안정된 마지막 1~2분을 평균
-- 3× 1km 걸린 시간 = ml/kg/km
-- 요즘은 kcal/kg/km로도 표시해요
-- 다시 재도 약 2~3% 흔들려요. 시계는 산소를 재지 않아요.
-- Jones & Doust (1996) J Sports Sci · Saunders et al. (2004) Med Sci Sports Exerc · Barnes & Kilding (2015) Sports Med Open
-
-### 재구성 03 왜 중요할까  (`E3R-Why.dc.html`)
+### 재구성 02 왜 중요할까  (`E3R-Why.dc.html`)
 
 - 개념왜 중요할까
 - VO2max·역치·이코노미, 셋이 기록을 만든다
@@ -1077,7 +1068,7 @@
 - 모델로 보면 빠를수록 덜 바뀌어요 (엘리트 속도에선 약 2/3)
 - Joyner (1991) J Appl Physiol 모델 · Kipp, Kram & Hoogkamer (2019) Front Physiol · 페이스 = 이코노미 ÷ 역치 산소 51
 
-### 재구성 04 래드클리프 2:15:25  (`E3R-Radcliffe.dc.html`)
+### 재구성 03 래드클리프 2:15:25  (`E3R-Radcliffe.dc.html`)
 
 - 엘리트 사례래드클리프
 - 11년 동안 실험실에서 추적한 세계기록 보유자
@@ -1088,7 +1079,7 @@
 - 18세(1992)부터 거의 매년 VO2max와 이코노미를 쟀어요
 - Jones (2006) Int J Sports Sci Coach · World Athletics · 사진: 2005 런던 마라톤, yaaaay (CC BY 2.0, Wikimedia Commons)
 
-### 재구성 05 래드클리프 11년 그래프  (`E3R-RadcliffeChart.dc.html`)
+### 재구성 04 래드클리프 11년 그래프  (`E3R-RadcliffeChart.dc.html`)
 
 - 엘리트 사례래드클리프 11년
 - VO2max는 그대로, 이코노미는 15%↓
@@ -1117,7 +1108,7 @@
 - 같은 산소로 더 빨리: VO2max 속도 20.5 → 23.5km/h
 - Jones (2006) 그림 3·4·5 수치로 다시 그림 · 대표값 · 본문엔 18세 VO2max 72
 
-### 재구성 06 래드클리프 무엇이 바뀌었나  (`E3R-Radcliffe2.dc.html`)
+### 재구성 05 래드클리프 무엇이 바뀌었나  (`E3R-Radcliffe2.dc.html`)
 
 - 엘리트 사례무엇이 바뀌었나
 - 체중은 54kg 그대로, 역치 속도는 +3.5km/h
@@ -1139,7 +1130,7 @@
 - 1명 사례 · 원인을 하나로 꼽기 어려워요
 - Jones (2006) Int J Sports Sci Coach 본문·그림 6 · 1992 → 2003 (점프는 1996 → 2003) · 주간 거리는 마라톤 훈련기
 
-### 재구성 07 타고난 몸  (`E3R-Factors.dc.html`)
+### 재구성 06 타고난 몸  (`E3R-Factors.dc.html`)
 
 - 구조타고난 몸
 - 타고난 몸, 무엇이 진짜 유리할까
@@ -1152,7 +1143,7 @@
 - 왜?다리를 휘두르는 비용이 줄어요. 망치도 끝을 잡고 휘두르면 더 힘들죠.
 - Franz (2012) · Coifman (2024) · Lucia (2006) · Scholz (2008) · van Werkhoven & Piazza (2017) · 사진: Tiia Monto, Bob Ramsak (CC BY-SA 4.0) · Gray's Anatomy (퍼블릭 도메인)
 
-### 재구성 08 바꿀 수 있는 4가지  (`E3R-Changeable.dc.html`)
+### 재구성 07 바꿀 수 있는 4가지  (`E3R-Changeable.dc.html`)
 
 - 구조바꿀 수 있는 것
 - 바꿀 수 있는 4가지, 바탕부터 순서대로
@@ -1166,7 +1157,7 @@
 - 총 산소는 무게에 비례 · kg당 VO2max가 올라가요
 - Franch 1998 · González-Mohíno 2020 · Jones 2006 · Llanos-Lagos 2024 · 신발 메타 2025 · Teunissen 2007 · 사진: yaaaay (CC BY 2.0) · 미 육군 (PD) · Hjfm 003, franchise opportunities (CC BY-SA)
 
-### 재구성 09 러닝 마일리지 쌓기  (`E3R-Running.dc.html`)
+### 재구성 08 러닝 마일리지 쌓기  (`E3R-Running.dc.html`)
 
 - 핵심러닝 마일리지 쌓기
 - 이코노미는 수년간의 마일리지와 함께 좋아져요
@@ -1182,7 +1173,7 @@
 - → 몇 주에도 조금, 크게는 몇 년 단위로
 - Lake & Cavanagh (1996) · Franch et al. (1998) · González-Mohíno et al. (2020) · Jones (2006) · Haugen et al. (2022) Sports Med Open
 
-### 재구성 10 왜 확실하다고 못 할까  (`E3R-Uncertain.dc.html`)
+### 재구성 09 왜 확실하다고 못 할까  (`E3R-Uncertain.dc.html`)
 
 - 그런데확실하지 않은 이유
 - 그런데 왜 “확실하다”고 못 할까?
@@ -1195,7 +1186,7 @@
 - → “많이 뛰면 오른다”는 아직 관련(상관)이에요
 - Lake & Cavanagh (1996) · Franch et al. (1998) · 2·3번은 비교 연구의 일반적인 한계
 
-### 재구성 11 보조① 근력 · 점프  (`E3R-Strength.dc.html`)
+### 재구성 10 보조① 근력 · 점프  (`E3R-Strength.dc.html`)
 
 - 보조 ①근력 · 점프
 - 근력·점프 훈련, 몇 %를 더 얹는다
@@ -1215,7 +1206,7 @@
 - 필수는 아니에요. 효과는 몇 % 수준이에요
 - Llanos-Lagos et al. (2024) Sports Med · 근거 확실성 중간 (섞기는 낮음) · 숫자는 효과 크기
 
-### 재구성 12 근력 · 점프 실제 처방  (`E3R-StrengthRx.dc.html`)
+### 재구성 11 근력 · 점프 실제 처방  (`E3R-StrengthRx.dc.html`)
 
 - 보조 ①실제 처방
 - 연구에서 효과 본 두 가지 처방
@@ -1229,7 +1220,7 @@
 - 15명 · 느린 속도는 변화 없음
 - Støren et al. (2008) Med Sci Sports Exerc · Saunders et al. (2006) J Strength Cond Res · 사진은 동작 예시: 미 해병대·미 육군 (퍼블릭 도메인)
 
-### 재구성 13 보조② 업힐 인터벌 방법  (`E3R-Hills.dc.html`)
+### 재구성 12 보조② 업힐 인터벌 방법  (`E3R-Hills.dc.html`)
 
 - 보조 ②업힐 인터벌 방법
 - 경사 10%, 30초 × 10~14번
@@ -1247,7 +1238,7 @@
 - 업힐 인터벌 주 2회+ 45~60분 지속주 주 2회6주
 - Ferley, Osborn & Vukovich (2014) J Strength Cond Res · 잘 훈련된 러너 32명 · 평지 그룹은 같은 속도로 4~6회 · 사진: Alastair Seagroatt (CC BY-SA 2.0, Wikimedia Commons)
 
-### 재구성 14 업힐 인터벌 결과  (`E3R-HillsEvidence.dc.html`)
+### 재구성 13 업힐 인터벌 결과  (`E3R-HillsEvidence.dc.html`)
 
 - 보조 ②업힐 인터벌 결과
 - 세 그룹 모두 좋아졌어요 업힐만의 효과라 보긴 어려워요
@@ -1266,7 +1257,7 @@
 - 실험 2013업힐 강도 5가지 · 가장 높은 강도에서 이코노미 +2.4% · 5km 2% 빨라짐 · 평지·대조 그룹 없음
 - Ferley et al. (2014) J Strength Cond Res · 편차 큼 (±7~13%) · Barnes et al. (2013) Int J Sports Physiol Perform · Ferley (2013): 평지가 버틴 시간은 더 늘어남
 
-### 재구성 15 현장의 업힐 훈련  (`E3R-HillsPractice.dc.html`)
+### 재구성 14 현장의 업힐 훈련  (`E3R-HillsPractice.dc.html`)
 
 - 보조 ②현장의 업힐 훈련
 - 선수들은 언덕을 이렇게 써요
@@ -1281,7 +1272,7 @@
 - → 대부분 편한 달리기를 많이 하는 기초기에 얹어요
 - 코치 자료 · 효과 크기는 연구로 확인 안 됨 · Renato Canova 훈련 체계 (Wikipedia) · The Running Channel: Kenyan hills · 사진: Chris Upson (CC BY-SA 2.0, Wikimedia Commons)
 
-### 재구성 16 짧은 질주  (`E3R-Sprint.dc.html`)
+### 재구성 15 짧은 질주  (`E3R-Sprint.dc.html`)
 
 - 보조 ②짧은 질주
 - 30초 질주 4주, 산소 6~8%↓ 그런데
@@ -1292,7 +1283,7 @@
 - 10km 기록은 그대로였어요
 - Iaia et al. (2009) J Appl Physiol · 사진: LexSprinter (CC BY-SA 3.0, Wikimedia Commons)
 
-### 재구성 17 엘리트는 이렇게 ①  (`E3R-Elites.dc.html`)
+### 재구성 16 엘리트는 이렇게 ①  (`E3R-Elites.dc.html`)
 
 - 현장엘리트는 이렇게
 - 엘리트의 실제 훈련 ① 많이 달리고, 조금 강하게
@@ -1306,7 +1297,7 @@
 - 목적은 부상 예방·경기력 · 코치 Patrick Sang
 - Jones (2006) Int J Sports Sci Coach · NN Running Team · Running Magazine
 
-### 재구성 18 엘리트는 이렇게 ②  (`E3R-Elites2.dc.html`)
+### 재구성 17 엘리트는 이렇게 ②  (`E3R-Elites2.dc.html`)
 
 - 현장엘리트는 이렇게
 - 엘리트의 실제 훈련 ② 근력·언덕은 이렇게
@@ -1319,7 +1310,7 @@
 - 공통점모두 많이 달려요 · 근력은 부상 예방·파워용현장 관행이지, 효과의 증거는 아니에요
 - Coros (Ingebrigtsen 인터뷰) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie)
 
-### 재구성 19 러닝 자세  (`E3R-Form.dc.html`)
+### 재구성 18 러닝 자세  (`E3R-Form.dc.html`)
 
 - 흔한 고민러닝 자세
 - 러닝 자세, 억지로 바꾸지 마세요
@@ -1337,7 +1328,7 @@
 - 앞꿈치로 바꾸면 단기적으론 오히려 나빠졌어요
 - Van Hooren et al. (2024) Sports Med · Anderson et al. (2020) Sports Med · 자세 변수 하나로는 개인차의 4~12%만 설명돼요
 
-### 재구성 20 케이던스  (`E3R-Cadence.dc.html`)
+### 재구성 19 케이던스  (`E3R-Cadence.dc.html`)
 
 - 러닝 자세케이던스
 - 케이던스 180이 모두의 정답은 아니에요
@@ -1358,7 +1349,7 @@
 - → 효율: 초보 +5~10%, 숙련자 +3% 안팎 +5~10%는 무릎·엉덩이 부담도 줄여요
 - Daniels' Running Formula (1984 올림픽 관찰) · de Ruiter 2014 · Quinn 2021 · Heiderscheit 2011
 
-### 재구성 21 신발  (`E3R-Shoes.dc.html`)
+### 재구성 20 신발  (`E3R-Shoes.dc.html`)
 
 - 바꿀 수 있는 것신발
 - 카본화 평균 약 2~4%, 내 발엔 손해일 수도
@@ -1376,7 +1367,7 @@
 - 무게도 이코노미: 한 짝 100g ≈ 1% 손해
 - Knopp et al. (2023) Sports Med · 2025 리뷰 (Int J Sports Med · Front Sports Act Living) · Joubert et al. (2023) · Franz et al. (2012)
 
-### 재구성 22 최신 경향 지쳐도 유지되는 힘  (`E3R-Durability.dc.html`)
+### 재구성 21 최신 경향 지쳐도 유지되는 힘  (`E3R-Durability.dc.html`)
 
 - 최신 경향지쳐도 유지되는 힘
 - 같은 페이스인데 90분째엔 산소가 더 든다
@@ -1392,7 +1383,7 @@
 - 하이록스라면1km × 8번을 지친 상태로 달려요. 이 힘이 크게 작용할 거라 봐요코치 해석 · 하이록스에서 '지친 뒤 이코노미'를 잰 연구는 아직
 - Zanini, Folland & Blagrove (2024) Med Sci Sports Exerc · Jones (2024) J Physiol (제안) · 에너지로 재면 +2.3% vs +4.3%
 
-### 재구성 23 롱런과 내구성  (`E3R-LongRun.dc.html`)
+### 재구성 22 롱런과 내구성  (`E3R-LongRun.dc.html`)
 
 - 최신 경향롱런과 내구성
 - 90분 이상 롱런(LSD)한 그룹, 이코노미가 덜 무너졌다
@@ -1408,7 +1399,7 @@
 - 실험 2025근력·점프 10주 뒤 90분째 산소: −2.1% vs 러닝만 +0.6%
 - Zanini et al. 2026 · Zanini et al. 2025 (28명) · Med Sci Sports Exerc
 
-### 재구성 24 팩트 체크 ① 맞아요·관련은 있어요  (`E3R-FactCheck.dc.html`)
+### 재구성 23 팩트 체크 ① 맞아요·관련은 있어요  (`E3R-FactCheck.dc.html`)
 
 - 정리팩트 체크
 - 이코노미 팩트 체크 ①
@@ -1422,7 +1413,7 @@
 - 수년 사례와 관련 · 롱런은 '지친 뒤 이코노미'와 관련 · 6주 실험은 엇갈림
 - 근거: Arellano & Kram 2014 · Llanos-Lagos 2024 · Buick 1980 · Zanini 2026 · Franch 1998 · 판정은 연구 설계 기준 (실험 / 상관)
 
-### 재구성 25 팩트 체크 ② 애매해요  (`E3R-FactCheck2.dc.html`)
+### 재구성 24 팩트 체크 ② 애매해요  (`E3R-FactCheck2.dc.html`)
 
 - 정리팩트 체크
 - 이코노미 팩트 체크 ②
@@ -1436,7 +1427,7 @@
 - 소규모 연구뿐 · 결론이 없어요
 - 근거: Teunissen 2007 · Franz 2012 · de Ruiter 2014 · Quinn 2021 · 걸음-호흡 동기화는 소규모 연구뿐 (학위논문 포함)
 
-### 재구성 26 팩트 체크 ③ 틀려요·근거 없어요  (`E3R-FactCheck3.dc.html`)
+### 재구성 25 팩트 체크 ③ 틀려요·근거 없어요  (`E3R-FactCheck3.dc.html`)
 
 - 정리팩트 체크
 - 이코노미 팩트 체크 ③
@@ -1450,7 +1441,7 @@
 - 카본화로 바꿔도 사람마다 −11 ~ +11%까지 갈렸어요
 - 근거: de Ruiter 2014 · Anderson 2020 · Jones 2002 · Knopp 2023
 
-### 재구성 27 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
+### 재구성 26 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
 
 - 실천오늘부터 할 일
 - 내 이코노미를 위해 오늘부터 할 일 ①
@@ -1462,7 +1453,7 @@
 - 메인 훈련을 대신하지 말고 위에 얹기
 - Zanini 2026 · Llanos-Lagos 2024 · Støren 2008 · Barnes 2013 · Ferley 2014
 
-### 재구성 28 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
+### 재구성 27 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
 
 - 실천오늘부터 할 일
 - 내 이코노미를 위해 오늘부터 할 일 ②
@@ -1474,7 +1465,7 @@
 - 같은 코스·페이스에서 심박이 내려가는지 보기
 - de Ruiter 2014 · Heiderscheit 2011 · Knopp 2023 · Aubry 2018 · 5·6번은 코치 해석이에요
 
-### 재구성 29 참고문헌 ①  (`E3R-Refs.dc.html`)
+### 재구성 28 참고문헌 ①  (`E3R-Refs.dc.html`)
 
 - 참고참고문헌
 - 참고문헌 ①
@@ -1500,7 +1491,7 @@
 - 20Iaia et al. (2009) J Appl Physiol
 - 현장 자료NN Running Team (Patrick Sang) · Running Magazine · Coros (Ingebrigtsen) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie) · The Running Channel · Daniels' Running Formula (1984 올림픽 관찰)
 
-### 재구성 30 참고문헌 ②  (`E3R-Refs2.dc.html`)
+### 재구성 29 참고문헌 ②  (`E3R-Refs2.dc.html`)
 
 - 참고참고문헌
 - 참고문헌 ②
@@ -1526,7 +1517,7 @@
 - 추가Franch 1998 MSSE · González-Mohíno 2020 Sports Med · Buick 1980 J Appl Physiol · Brandt 2025 Front Physiol · Scholz 2008 J Exp Biol
 - 사진Wikimedia Commons · yaaaay (CC BY 2.0) · Tiia Monto, Bob Ramsak, Hjfm 003, franchise opportunities (CC BY-SA) · LexSprinter (CC BY-SA 3.0) · 미 육군·미 해병대, Gray's Anatomy (퍼블릭 도메인)
 
-### 재구성 31 다음 편 예고  (`E3R-Next.dc.html`)
+### 재구성 30 다음 편 예고  (`E3R-Next.dc.html`)
 
 - 다음 편 예고젖산역치
 - 엔진도 연비도 같은데, 후반에 갈리는 이유
