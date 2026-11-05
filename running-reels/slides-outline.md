@@ -2061,3 +2061,457 @@
 - 29현장 자료: Daniels' Running Formula · Outside · Trail Runner · LetsRun 정리 · 킵초게 기사
 - 현장 사례(기사·인터뷰·커뮤니티)는 슬라이드에서 연구 근거와 구분해 표시했어요
 
+
+## 5편
+
+### 5편 00 훅  (`E5-Hook.dc.html`)
+
+- 러닝 3요소 · 5편 · 고지대 트레이닝
+- 케냐 선수처럼 높은 곳에서 훈련하면 나도 빨라질까?
+- 케냐 이텐 · 해발 약 2,400m
+- 헤모글로빈은 늘지만 기록은? 논문으로 확인해요
+- 사진: Shadychiri (CC BY-SA 4.0, Wikimedia Commons) · 이텐 고도: 현지 훈련지 자료
+
+### 5편 01 산소 압력  (`E5-Pressure.dc.html`)
+
+- 원리산소 압력
+- 산소 ‘농도’는 그대로, ‘압력’이 낮아져요
+- 계산해발 고도별 기압 (해수면 = 100%)
+- 해수면
+- 100%
+- 1,000m
+- 89%
+- 2,000m
+- 78%
+- 2,500m
+- 74%
+- 3,000m
+- 69%
+- 산소 비율은 어디서나 20.9%예요. 공기가 옅어져 한 번 숨에 들어오는 산소가 줄어요.
+- 국제표준대기(ICAO) 기압 공식으로 계산
+
+### 5편 02 높을수록 VO2max ↓  (`E5-VO2drop.dc.html`)
+
+- 원리높을수록
+- 올라갈수록 VO2max가 1,000m마다 약 6% 줄어요
+- 실험 · 8명저압 챔버에서 바로 잰 VO2max
+- 55
+- 60
+- 65
+- 70
+- 300
+- 800
+- 1,300
+- 1,800
+- 2,300
+- 2,800
+- 66
+- 55
+- 해발 고도 (m)
+- VO2max
+- −17%300m → 2,800m에서 66 → 55 평소 페이스 인터벌이 힘들어져요
+- Wehrlin & Hallén (2006) Eur J Appl Physiol · 지구력 선수 8명 · 적응 전 급성 노출
+
+### 5편 03 몸의 반응  (`E5-EPO.dc.html`)
+
+- 원리몸의 반응
+- 산소가 부족하면 몸이 적혈구를 더 만들어요
+- 적혈구 · 전자현미경
+- 산소 압력 ↓고지대
+- →EPO ↑콩팥에서 분비
+- →적혈구 생산골수
+- →헤모글로빈 ↑산소 운반 ↑
+- 새 적혈구가 늘기까지 몇 주가 걸려요리뷰
+- Levine & Stray-Gundersen (1997) · Gore et al. (2013) · 사진: Scootdive (CC BY-SA 3.0, Wikimedia Commons)
+
+### 5편 04 100시간에 1%  (`E5-Hbmass.dc.html`)
+
+- 원리시간
+- 100시간에 약 1%씩 헤모글로빈이 늘어요
+- 메타분석 · 17개 연구고지대에 머문 시간과 헤모글로빈 질량
+- +1.1%
+- 100시간
+- +3.3%
+- 300시간
+- 약 12일 내내
+- 막대 위 선 = 300시간 때 사람별 예상 범위 (1.1~6%)
+- 1~6%평균은 3% 남짓, 사람마다 크게 달라요
+- Gore et al. (2013) Br J Sports Med · 고전 고지대·LHTL 모두 약 1.1%/100시간
+
+### 5편 05 방법 4가지  (`E5-Models.dc.html`)
+
+- 방법4가지
+- 어디서 자고, 어디서 훈련하나
+- 높게 살고 높게 훈련LHTH
+- 잠
+- 훈련
+- 전통 고지대 캠프
+- 높게 살고 낮게 훈련LHTL
+- 잠
+- 훈련
+- 잠은 위, 인터벌은 아래
+- 낮게 살고 높게 훈련LLTH
+- 잠
+- 훈련
+- 저산소 방에서 운동
+- 텐트·호텔에서 자기인공 LHTL
+- 잠
+- 훈련
+- 집에서 잠만 저산소
+- 리뷰 Wilber (2007) Med Sci Sports Exerc · 텐트·호텔은 질소를 섞거나 산소를 걸러 저산소를 만들어요
+
+### 5편 06 높게 살고 낮게 훈련  (`E5-Levine.dc.html`)
+
+- 연구 ①고전 실험
+- 높게 살고 낮게 훈련한 그룹만 5km가 빨라졌다
+- 대학 장거리 선수 39명 · 2,500m에서 4주
+- 실험 · 39명4주 뒤 5km 기록 변화
+- 높게 살고 낮게 훈련훈련은 1,250m
+- −13.4초
+- 높게 살고 높게 훈련
+- 변화 없음
+- 낮게 살고 낮게 훈련
+- 변화 없음
+- VO2max +5%적혈구 +9%고지대 두 그룹 모두
+- 적혈구는 두 그룹 다 늘었는데, 훈련 속도를 지킨 쪽만 빨라졌어요
+- Levine & Stray-Gundersen (1997) J Appl Physiol
+
+### 5편 07 얼마나 높이  (`E5-Altitude.dc.html`)
+
+- 연구 ②얼마나 높이
+- 2,000~2,500m에 산 그룹만 빨라졌다
+- 실험 · 48명4주 동안 산 고도와 3,000m 기록
+- 2,000~2,500m
+- 1,780m
+- 그대로
+- 2,085m
+- 빨라짐
+- 2,454m
+- 빨라짐
+- 2,800m
+- 그대로
+- 적혈구는 네 그룹 모두 늘었어요. → 적혈구만으로는 설명이 안 돼요.
+- Chapman et al. (2014) J Appl Physiol · 대학 장거리 선수 48명 · 훈련은 모두 같은 코스(1,250~3,000m)
+
+### 5편 08 얼마나 오래  (`E5-Dose.dc.html`)
+
+- 연구 ③얼마나 오래
+- 하루 몇 시간, 몇 주를 머물러야 할까
+- 계산평균 1.1%/100시간으로 본 헤모글로빈 예상치
+- 텐트에서 잠만 10시간 × 3주
+- 약 +2.3%
+- 캠프 2주 (하루 종일)
+- 약 +3.7%
+- 캠프 3주 (하루 종일)
+- 약 +5.5%
+- 단순 계산 · 실제는 사람마다 1~6% (300시간 기준)
+- 메타분석 결론: 2주 캠프로도 대부분 늘 가능성이 높아요메타분석
+- Gore et al. (2013) Br J Sports Med · 머문 시간 × 1.1%/100시간
+
+### 5편 09 개인차  (`E5-Responders.dc.html`)
+
+- 연구 ④개인차
+- 같은 캠프에서도 누구는 안 늘어요
+- 반응한 그룹
+- 17명
+- EPO가 오래 높게
+- 적혈구·VO2max ↑
+- 5km 빨라짐
+- 반응 안 한 그룹
+- 15명
+- EPO 금방 원래대로
+- 적혈구·VO2max 그대로
+- 고지대 인터벌 속도 ↓
+- 높게 머물러도 반응은 사람마다 달라요비교
+- Chapman, Stray-Gundersen & Levine (1998) J Appl Physiol · 39명을 5km 변화로 나눈 사후 분석
+
+### 5편 10 철분  (`E5-Iron.dc.html`)
+
+- 연구 ⑤철분
+- 철분이 모자라면 헤모글로빈이 덜 늘어요
+- 관찰 · 178명약 3주 고지대 뒤 헤모글로빈 질량
+- +1.1%
+- 철분 안 먹음
+- +3.3%
+- 하루 105mg
+- +4.0%
+- 하루 210mg
+- 가기 전에 페리틴(저장 철) 검사부터, 철분제는 의사와 상의해요코치 해석
+- Govus et al. (2015) PLoS One · 1,350~3,000m · 무작위 실험이 아닌 관찰 연구
+
+### 5편 11 메타분석  (`E5-Meta.dc.html`)
+
+- 연구 ⑥메타분석
+- 근거가 가장 좋은 건 자연 고지대 LHTL
+- 메타분석 · 51개 연구비엘리트의 지구력 파워 변화
+- 자연 고지대 LHTL
+- +4.2%
+- 인공 · 짧은 간헐 노출
+- +2.6%
+- 인공 LHTL · 긴 시간
+- +1.4%
+- LHTH
+- +0.9% 불확실
+- LLTH
+- +0.9% 불확실
+- 인공 LHTL · 짧은 시간
+- +0.7% 불확실
+- 엘리트: 자연 고지대 LHTL만 효과 가능(약 4%), 나머지는 불확실
+- 저자들도 위약·캠프 효과가 섞였을 수 있다고 했어요.
+- Bonetti & Hopkins (2009) Sports Med · 평균 추정치 · 분류명은 논문 기준
+
+### 5편 12 가짜 저산소와 비교  (`E5-Placebo.dc.html`)
+
+- 연구 ⑦반전
+- 가짜 저산소와 비교하자 차이가 사라졌다
+- 진짜 저산소
+- 하루 16시간 × 4주
+- 3,000m 상당 · 10명
+- =
+- 가짜 (정상 공기)
+- 같은 방, 같은 일정
+- 6명
+- 헤모글로빈 질량
+- 그대로그대로
+- VO2max
+- 그대로그대로
+- 26km 타임트라이얼
+- 그대로그대로
+- 선수도 연구자도 그룹을 몰랐어요이중맹검 16명 소규모라 단정은 어려워요
+- Siebenmann et al. (2012) J Appl Physiol · 저지대 훈련 사이클 선수
+
+### 5편 13 그래서 효과는?  (`E5-Verdict.dc.html`)
+
+- 정리그래서?
+- 늘어나는 건 확실, 기록은 아직 논쟁
+- 헤모글로빈 질량
+- 충분히 높게, 충분히 오래 머물면 늘어요메타분석
+- 기록
+- 평균 몇 % 개선 보고 · 위약을 통제하면 불확실실험·메타분석
+- 누구에게나?
+- 철분, 개인 반응에 따라 크게 달라요비교·관찰
+- Gore 2013 · Bonetti & Hopkins 2009 · Siebenmann 2012 · Chapman 1998 · Govus 2015
+
+### 5편 14 의외의 효과  (`E5-Economy.dc.html`)
+
+- 연구 ⑧이코노미
+- 헤모글로빈은 그대로인데 이코노미가 3.3% 좋아졌다
+- 실험 · 엘리트 22명20일 뒤, 같은 속도에서 쓰는 산소
+- −3.3%
+- 인공 LHTL
+- 2,000~3,100m
+- 기준
+- 중간 고도
+- 1,500~2,000m
+- 기준
+- 해수면
+- 600m
+- 3편 ‘러닝 이코노미’와 이어지는 결과예요. 이유는 아직 분명하지 않아요.
+- Saunders et al. (2004) J Appl Physiol · 헤모글로빈 질량·환기·심박은 그룹 차이 없음
+
+### 5편 15 내려온 뒤  (`E5-Return.dc.html`)
+
+- 실전내려온 뒤
+- 내려와도 약 3주는 헤모글로빈이 남아요
+- 메타분석 추정고지대 전 대비 헤모글로빈 질량
+- +3.3% 유지
+- 이후 점차
+- 원래대로
+- 0일
+- 10일
+- 20일
+- 30일
+- 내려온 뒤 지난 날
+- 경기는 언제가 최적일까? 헤모글로빈, 호흡 적응, 훈련 피로가 함께 작용해 아직 논쟁 중이에요.
+- Gore et al. (2013) · Chapman, Stickford, Lundby & Levine (2014) J Appl Physiol 리뷰 · 감소 속도는 연구마다 달라요
+
+### 5편 16 엘리트의 고지대  (`E5-Camps.dc.html`)
+
+- 엘리트어디로 가나
+- 엘리트가 찾는 곳은 해발 1,800~2,500m
+- 프랑스 퐁로뮤 고지대훈련센터
+- 현장 사례대표 고지대 훈련지 고도
+- 연구상 최적 2,000~2,500m
+- 케냐 이텐
+- 2,400m
+- 케냐 캅타갓
+- 2,400~2,500m
+- 스페인 시에라네바다
+- 2,320m
+- 미국 플래그스태프
+- 약 2,100m
+- 스위스 생모리츠
+- 1,856m
+- 프랑스 퐁로뮤
+- 1,850m
+- 고도: 각 훈련지·팀 공식 자료 · 사진: Lud Au43 (CC BY-SA 4.0, Wikimedia Commons)
+
+### 5편 17 엘리트 사례  (`E5-Elites.dc.html`)
+
+- 엘리트사례
+- 세계 정상급도 해마다 고지대로 간다
+- 케냐 이텐의 흙 트랙
+- 폴라 래드클리프사례 논문
+- 훈련 상당 부분을 퐁로뮤(약 1,850m)·앨버커키(약 1,600m)에서
+- 엘리우드 킵초게현장 사례
+- 케냐 캅타갓 캠프 (약 2,400~2,500m)
+- 야코브 잉게브릿센현장 사례
+- 시에라네바다·생모리츠에서 3~4주 블록
+- Jones (2006) Int J Sports Sci Coach · NN Running Team · Sportskeeda (2024~2025) · 사진: edskoch (CC BY 2.0, Wikimedia Commons)
+
+### 5편 18 동아프리카  (`E5-EastAfrica.dc.html`)
+
+- 엘리트동아프리카
+- 동아프리카가 빠른 건 고지대 하나 때문이 아니에요
+- 이텐에서 본 리프트 밸리
+- 고지대 생활·훈련
+- 어릴 때부터 걷고 뛰기
+- 체형과 이코노미
+- 헤모글로빈
+- 근섬유·효소
+- 전통 식단
+- 훈련 방식
+- 경제적 동기
+- 특별한 유전·생리 하나로는 설명이 안 돼요리뷰
+- Wilber & Pitsiladis (2012) Int J Sports Physiol Perform · 사진: Appleslerp (CC BY-SA 4.0, Wikimedia Commons)
+
+### 5편 19 저산소 텐트  (`E5-Tent.dc.html`)
+
+- 장비저산소 텐트
+- 저산소 텐트는 오래, 매일이 기본
+- 집에서 잠만 저산소= 인공 ‘높게 살고 낮게 훈련’
+- 메타분석비엘리트
+- 긴 시간 +1.4% · 짧은 시간 +0.7% (불확실)
+- 이중맹검사이클 선수
+- 하루 16시간 × 4주도 가짜 텐트와 차이 없음
+- 메타분석엘리트
+- 인공 방식은 모두 효과 불확실
+- Bonetti & Hopkins (2009) · Siebenmann et al. (2012) · 사진: Go2altitudepics (CC BY-SA 3.0, Wikimedia Commons)
+
+### 5편 20 고산 마스크  (`E5-Mask.dc.html`)
+
+- 장비고산 마스크
+- 고산 마스크는 고지대가 아니에요
+- 6주 고강도 사이클마스크 12명 vs 일반 12명
+- VO2max둘 다 비슷하게 ↑
+- 헤모글로빈·폐 기능차이 없음
+- 숨을 힘들게 하는 호흡근 훈련 기구에 가까워요실험
+- Porcari et al. (2016) J Sports Sci Med · 사진: 미 공군 (퍼블릭 도메인, Wikimedia Commons)
+
+### 5편 21 열 훈련  (`E5-Heat.dc.html`)
+
+- 최신 경향열 훈련
+- 더운 곳 훈련으로도 헤모글로빈이 늘었다
+- 실험 · 엘리트 사이클 23명5주 · 주 5회 1시간 · 37.8℃ · 습도 65%
+- +42g
+- 열 훈련
+- 893 → 935g
+- +6g
+- 대조
+- VO2max는 더 오르지 않았고, 2019년 다른 실험에선 그룹 차이가 뚜렷하지 않았어요.
+- Rønnestad et al. (2021) Exp Physiol · Oberholzer et al. (2019) Front Physiol · 더위 훈련은 탈수·열질환에 주의
+
+### 5편 22 한국에서는  (`E5-Korea.dc.html`)
+
+- 실전한국에서는
+- 국내 산은 대부분 2,000m가 안 돼요
+- 한라산 · 정상 1,947m
+- 최적 2,000~2,500m
+- 한라산 정상
+- 1,947m
+- 1,780m (2014 연구)
+- 기록 그대로였던 고도
+- 함백산 고지대 훈련장
+- 약 1,300m
+- ‘헤모글로빈 늘리기’용 고지대 효과는 국내에서 기대하기 어려워요코치 해석
+- Chapman et al. (2014) · 함백산 고지대 훈련장: 서울신문(1999) · 사진: LG전자 (CC BY 2.0, Wikimedia Commons)
+
+### 5편 23 팩트 체크 ① 틀려요  (`E5-FactCheck.dc.html`)
+
+- 팩트 체크 ①틀려요
+- 고지대 상식, 틀려요
+- 고산 마스크 = 고지대 효과
+- 공기 흐름만 막아요 · 혈액 변화 없음실험
+- 고지대는 산소 농도가 낮다
+- 20.9%는 같고, 압력이 낮아요계산
+- 동아프리카는 고지대 덕분
+- 여러 요인이 겹친 결과예요리뷰
+- 1,000m대 산에서 가끔 뛰면 효과
+- 2,000m 이상에서 몇 주를 지내야 해요실험
+- Porcari 2016 · 국제표준대기 · Wilber & Pitsiladis 2012 · Chapman 2014 · Gore 2013
+
+### 5편 24 팩트 체크 ② 애매해요  (`E5-FactCheck2.dc.html`)
+
+- 팩트 체크 ②애매해요
+- 고지대 상식, 애매해요
+- 고지대 훈련은 누구나 효과
+- 반응하는 사람만 · 철분·시간 따라 1~6%비교·메타분석
+- 산소 텐트면 충분
+- 하루 16시간 × 4주도 가짜와 같았던 실험실험
+- 내려오면 바로 기록이 오른다
+- 헤모글로빈은 약 3주 유지, 최적 시점은 논쟁리뷰
+- Chapman 1998 · Govus 2015 · Gore 2013 · Siebenmann 2012 · Chapman 2014 리뷰
+
+### 5편 25 팩트 체크 ③ 맞아요  (`E5-FactCheck3.dc.html`)
+
+- 팩트 체크 ③맞아요
+- 고지대 상식, 맞아요
+- 높은 곳에선 평소 강도로 못 뛴다
+- VO2max가 1,000m마다 약 6% 줄어요실험
+- 충분히 머물면 헤모글로빈이 는다
+- 100시간에 약 1%메타분석
+- 철분이 모자라면 효과가 작다
+- 철분 없이 +1.1% vs 철분 +3~4%관찰
+- Wehrlin & Hallén 2006 · Gore 2013 · Govus 2015
+
+### 5편 26 가려면 이렇게  (`E5-Todo.dc.html`)
+
+- 정리할 일
+- 고지대 캠프, 가려면 이렇게
+- 1가기 전에 페리틴 검사
+- 부족하면 의사와 철분 계획
+- 22,000~2,500m · 2주 이상
+- 하루 대부분을 그곳에서
+- 3첫 주는 강도를 낮추기
+- 빠른 인터벌은 낮은 곳에서
+- 4마스크·짧은 텐트에 기대지 않기
+- 하이록스도 기본 훈련이 먼저
+- 코치 해석Govus · Chapman · Gore · Levine · Porcari 연구 바탕
+- 하이록스 관련 내용은 연구가 아닌 코치 해석이에요
+
+### 5편 27 참고문헌 ①  (`E5-Refs.dc.html`)
+
+- 참고문헌①
+- 1Levine BD, Stray-Gundersen J (1997) "Living high-training low". J Appl Physiol
+- 2Chapman RF, Stray-Gundersen J, Levine BD (1998) Individual variation in response to altitude training. J Appl Physiol
+- 3Chapman RF, Karlsen T, Resaland GK et al. (2014) Defining the "dose" of altitude training. J Appl Physiol
+- 4Chapman RF, Stickford ASL, Lundby C, Levine BD (2014) Timing of return from altitude training. J Appl Physiol
+- 5Gore CJ et al. (2013) Altitude training and haemoglobin mass: a meta-analysis. Br J Sports Med
+- 6Bonetti DL, Hopkins WG (2009) Sea-level exercise performance following adaptation to hypoxia: a meta-analysis. Sports Med
+- 7Siebenmann C et al. (2012) LHTL using normobaric hypoxia: double-blinded, placebo-controlled. J Appl Physiol
+- 8Wehrlin JP, Hallén J (2006) Linear decrease in VO2max and performance with increasing altitude. Eur J Appl Physiol
+- 9Saunders PU et al. (2004) Improved running economy after 20 days of simulated altitude. J Appl Physiol
+
+### 5편 28 참고문헌 ②  (`E5-Refs2.dc.html`)
+
+- 참고문헌②
+- 10Govus AD et al. (2015) Pre-altitude ferritin and oral iron dose mediate Hbmass responses. PLoS One
+- 11Porcari JP et al. (2016) Effect of wearing the elevation training mask. J Sports Sci Med
+- 12Rønnestad BR et al. (2021) Five weeks of heat training increases haemoglobin mass in elite cyclists. Exp Physiol
+- 13Oberholzer L et al. (2019) Hematological adaptations to prolonged heat acclimation. Front Physiol
+- 14Wilber RL, Pitsiladis YP (2012) Kenyan and Ethiopian distance runners. Int J Sports Physiol Perform
+- 15Wilber RL (2007) Application of altitude/hypoxic training by elite athletes. Med Sci Sports Exerc
+- 16Jones AM (2006) The physiology of the world record holder for the women’s marathon. Int J Sports Sci Coach
+- 17현장 자료: Swiss Olympic St. Moritz · NN Running Team (캅타갓) · Sportskeeda (2024~2025) · 서울신문 (1999)
+- 18기압: 국제표준대기(ICAO) 공식 계산 · 사진: Wikimedia Commons (각 장에 작가·라이선스 표기)
+
+### 5편 29 다음 편 예고  (`E5-Next.dc.html`)
+
+- 다음 편6편
+- 다음 편: 점프 훈련, 러너에게 필요할까?
+- 6편 플라이오메트릭
+- 착지하자마자 튀어 오르는 훈련
+- 이코노미 효과는 ‘작음’3편 메타분석 효과 크기 0.31
+- 어떻게, 얼마나 할까
+- Llanos-Lagos et al. (2024) Sports Med · 3편에서 다룬 메타분석
+
