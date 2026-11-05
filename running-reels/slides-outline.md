@@ -1456,10 +1456,10 @@
 - 내 이코노미를 위해 오늘부터 할 일 ①
 - 1러닝 마일리지 쌓기사례·상관
 - 몇 년 단위로 · 주 1회 90분 이상 롱런 포함
-- 2근력 주 2회, 무겁게 적게메타분석
+- 2근력 주 2~3회, 무겁게 적게메타분석
 - 스쿼트 4×4나 점프 · 처음엔 가볍게 동작부터
-- 3업힐·짧은 질주는 가끔실험
-- 바탕 훈련을 대신하지 말고 위에 얹기
+- 3업힐·짧은 질주는 가끔실험코치 해석
+- 메인 훈련을 대신하지 말고 위에 얹기
 - Zanini 2026 · Llanos-Lagos 2024 · Støren 2008 · Barnes 2013 · Ferley 2014
 
 ### 재구성 28 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
@@ -1467,12 +1467,12 @@
 - 실천오늘부터 할 일
 - 내 이코노미를 위해 오늘부터 할 일 ②
 - 4자세는 그대로, 케이던스만 살짝실험
-- 초보라면 같은 페이스에서 +5% 정도부터
-- 5레이스 신발은 직접 비교실험
-- 평균 말고 내 발로 · 레이스 페이스로 미리 달려보기
+- 같은 페이스에서 초보 +5~10%, 숙련자 +3% 안팎
+- 5레이스 신발은 직접 비교코치 해석
+- 레이스 페이스로 미리 달려보기 · 느낌·심박으론 1~3% 차이 구별 어려워요
 - 6시계 숫자에 휘둘리지 않기코치 해석
 - 같은 코스·페이스에서 심박이 내려가는지 보기
-- de Ruiter 2014 · Heiderscheit 2011 · Knopp 2023 · Aubry 2018 · 6번은 코치 해석이에요
+- de Ruiter 2014 · Heiderscheit 2011 · Knopp 2023 · Aubry 2018 · 5·6번은 코치 해석이에요
 
 ### 재구성 29 참고문헌 ①  (`E3R-Refs.dc.html`)
 
@@ -1497,8 +1497,8 @@
 - 17Ferley, Osborn & Vukovich (2014) J Strength Cond Res
 - 18Ferley, Osborn & Vukovich (2013) J Strength Cond Res
 - 19Barnes et al. (2013) Int J Sports Physiol Perform
-- 20Iaia et al. (2008) J Appl Physiol
-- 현장 자료NN Running Team (Patrick Sang) · Running Magazine · Coros (Ingebrigtsen) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie) · The Running Channel · Daniels 1984 관찰
+- 20Iaia et al. (2009) J Appl Physiol
+- 현장 자료NN Running Team (Patrick Sang) · Running Magazine · Coros (Ingebrigtsen) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie) · The Running Channel · Daniels' Running Formula (1984 올림픽 관찰)
 
 ### 재구성 30 참고문헌 ②  (`E3R-Refs2.dc.html`)
 
@@ -1522,7 +1522,8 @@
 - 36Jones (2002) Int J Sports Med
 - 37Aubry et al. (2018) J Strength Cond Res
 - 38Cureton & Sparling (1980) Med Sci Sports Exerc
-- 39걸음-호흡 동기화 연구 정리 (Univ. of Oregon)
+- 39걸음-호흡 동기화 연구 (Univ. of Oregon 학부 우등논문)
+- 추가Franch 1998 MSSE · González-Mohíno 2020 Sports Med · Buick 1980 J Appl Physiol · Brandt 2025 Front Physiol · Scholz 2008 J Exp Biol
 - 사진Wikimedia Commons · yaaaay (CC BY 2.0) · Tiia Monto, Bob Ramsak, Hjfm 003, franchise opportunities (CC BY-SA) · LexSprinter (CC BY-SA 3.0) · 미 육군·미 해병대, Gray's Anatomy (퍼블릭 도메인)
 
 ### 재구성 31 다음 편 예고  (`E3R-Next.dc.html`)
