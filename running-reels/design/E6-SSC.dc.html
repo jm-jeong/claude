@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>6편 01 플라이오란</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:N;src:url("/_blob/e1d9e318f4bab609e42c7699f50ee62a");font-weight:400}
+@font-face{font-family:N;src:url("/_blob/57f2f6d15f5afc56e146e609048ada81");font-weight:700}
+@font-face{font-family:N;src:url("/_blob/ca870b40405b2d341dfd766ed84b5a1f");font-weight:800}
+@font-face{font-family:N;src:url("/_blob/f7f73224bab105c47fa3d1341c06f73c");font-weight:900}
+*{box-sizing:border-box;margin:0;padding:0}
+body{margin:0}
+.root{width:1080px;height:1920px;background:#000;font-family:N;color:#09090B;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum"}
+.top{height:420px;padding:0 72px 58px;display:flex;flex-direction:column;justify-content:flex-end;color:#fff}
+.kicker{font-size:34px;font-weight:800;letter-spacing:-.01em;opacity:.92;margin-bottom:14px}
+.series{white-space:nowrap;font-size:55px;font-weight:900;letter-spacing:-.035em;line-height:1.05}
+.who2{align-self:flex-end;font-size:27px;font-weight:800;color:#fff;letter-spacing:-.01em;margin-bottom:12px}
+.ig{background:linear-gradient(90deg,#FEDA75,#FA7E1E 30%,#D62976 65%,#962FBF);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;margin-left:14px}
+.stage{height:1080px;padding:52px 72px 34px;display:flex;flex-direction:column;overflow:hidden;background:#EFFAF5}
+.bottom{height:420px}
+.sec{margin:-52px -72px 26px;padding:24px 72px;display:flex;align-items:center;justify-content:space-between;color:#fff;background:#059669}
+.no{font-size:30px;font-weight:900;opacity:.85;margin-right:20px}
+.nm{font-size:58px;font-weight:900;letter-spacing:-.04em}
+.segs{display:flex;gap:10px}
+.seg{width:46px;height:8px;border-radius:4px;background:#fff}
+h1{font-size:72px;font-weight:900;line-height:1.18;letter-spacing:-.045em}
+h1.h66{font-size:66px}
+.main{flex:1;display:flex;flex-direction:column;min-height:0}
+.src{font-size:22px;font-weight:700;color:#52525B;margin-top:auto;padding-top:12px;line-height:1.35;letter-spacing:-.01em;margin-right:68px}
+.rs{margin-right:68px}
+.b{color:#1D4ED8}.g{color:#059669}.r{color:#E11D48}.a{color:#B45309}.mu{color:#71717A}
+.ev{display:inline-block;border-radius:999px;padding:5px 16px;font-size:26px;font-weight:900;color:#fff;letter-spacing:-.01em;vertical-align:middle;white-space:nowrap;line-height:1.2}
+.ev.x{background:#047857}.ev.c{background:#B45309}.ev.v{background:#6D28D9}.ev.f{background:#52525B}.ev.m{background:#1D4ED8}.ev.n{background:#BE123C}
+.card{background:#fff;border-radius:26px;padding:20px 24px}
+.ct2{font-size:28px;font-weight:800;color:#3F3F46;line-height:1.35;letter-spacing:-.02em}
+.ct2 .ev{margin-right:10px}
+.note{font-size:32px;font-weight:800;line-height:1.42;letter-spacing:-.03em;color:#27272A}
+.note .ev{margin-right:10px}
+.mt{margin-top:18px}.mt2{margin-top:12px}
+.ph{display:block;width:100%;object-fit:cover;border-radius:24px}
+.hero{position:relative}
+.tag{position:absolute;left:18px;bottom:18px;background:rgba(9,9,11,.8);color:#fff;font-size:28px;font-weight:900;padding:8px 18px;border-radius:14px;letter-spacing:-.02em}
+.chart{display:block}
+.eb{font-size:30px;font-weight:900;color:#059669;letter-spacing:-.02em;margin-bottom:20px}
+.lead2{font-size:36px;font-weight:800;letter-spacing:-.03em;line-height:1.4;margin-top:16px}
+.lst{display:flex;flex-direction:column;gap:12px}
+.it{background:#fff;border-radius:22px;padding:14px 20px;display:flex;gap:18px;align-items:center}
+.it .ic{flex:none}
+.ih{font-size:34px;font-weight:900;letter-spacing:-.035em;line-height:1.25}
+.id{font-size:32px;font-weight:800;color:#3F3F46;line-height:1.32;letter-spacing:-.03em;margin-top:2px}
+.id .ev{margin-right:8px}
+.tiles{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.tile{background:#fff;border-radius:24px;padding:18px 22px}
+.tk{font-size:28px;font-weight:900;color:#3F3F46;letter-spacing:-.02em}
+.tn{font-size:92px;font-weight:900;letter-spacing:-.05em;line-height:1.05;margin-top:4px}
+.tl{font-size:28px;font-weight:800;color:#3F3F46;margin-top:6px;line-height:1.3;letter-spacing:-.02em}
+.band{display:inline-flex;align-items:center;gap:12px;color:#fff;font-size:30px;font-weight:900;padding:6px 18px;border-radius:12px;letter-spacing:-.02em}
+.fc{background:#fff;border-radius:22px;padding:16px 22px;display:flex;gap:16px;align-items:flex-start}
+.vb{flex:none;color:#fff;font-size:26px;font-weight:900;padding:8px 14px;border-radius:12px;margin-top:4px;white-space:nowrap}
+.fq{font-size:34px;font-weight:900;letter-spacing:-.035em;line-height:1.25}
+.fa{font-size:30px;font-weight:800;color:#3F3F46;letter-spacing:-.03em;line-height:1.35;margin-top:4px}
+.rf{list-style:none}
+.rf li{display:flex;gap:12px;font-size:24px;font-weight:700;line-height:1.3;letter-spacing:-.015em;color:#27272A;padding:5px 0;border-bottom:1px solid #D1FAE5}
+.rf span{flex:none;width:36px;font-weight:900;color:#059669}
+.take{margin-top:16px;display:flex;align-items:center;gap:22px;padding-top:16px;border-top:3px solid #A7F3D0}
+.big{font-size:64px;font-weight:900;letter-spacing:-.04em;white-space:nowrap}
+.tp{font-size:32px;font-weight:800;line-height:1.38;letter-spacing:-.03em}
+
+</style>
+</helmet>
+<div class="root">
+<div class="top"><div class="who2">하이록스 코치 정재민<span class="ig">@hyrox.analyst</span></div><div class="kicker">플라이오메트릭, 러너에게 필요할까?</div><div class="series"><span style="color:#8FB0FF;opacity:.3">VO2max</span> <span style="color:#52525B">·</span> <span style="color:#4ADE9F">러닝 이코노미</span> <span style="color:#52525B">·</span> <span style="color:#B59CFF;opacity:.3">젖산역치</span></div></div>
+<div class="stage">
+<div class="sec"><div><span class="no">개념</span><span class="nm">플라이오란?</span></div><div class="segs"><div class="seg"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div><div class="seg" style="opacity:.3"></div></div></div>
+<h1>늘어났다가 <span class="g">바로 튕기기</span></h1>
+<svg class="chart" width="936" height="450" viewBox="0 0 936 450" font-family="N" role="img" aria-label="착지할 때 다리가 스프링처럼 눌렸다가 짧은 전환 뒤 튕겨 오르는 세 단계 그림"><line x1="20" x2="916" y1="350" y2="350" stroke="#A1A1AA" stroke-width="4"/><polyline points="156.0,300.0 176.0,305.0 136.0,310.0 176.0,315.0 136.0,320.0 176.0,325.0 136.0,330.0 176.0,335.0 136.0,340.0 176.0,345.0 156.0,350.0" fill="none" stroke="#059669" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/><path d="M156.0 155.6 L156.0 212.6 M131.3 214.5 L137.0 186.0 L156.0 155.6 L175.0 186.0 L180.7 214.5 M142.7 300.0 L146.5 256.3 L156.0 212.6 L165.5 256.3 L169.3 300.0" fill="none" stroke="#09090B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><circle cx="156.0" cy="123.3" r="16.1" fill="#09090B"/><path d="M64.0 150.0 L64.0 250.0" stroke="#09090B" stroke-width="7" stroke-linecap="round"/><path d="M56.3 236.0 L64.0 250.0 L71.7 236.0" fill="none" stroke="#09090B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><polyline points="468.0,324.0 490.0,326.2 446.0,328.3 490.0,330.5 446.0,332.7 490.0,334.8 446.0,337.0 490.0,339.2 446.0,341.3 490.0,343.5 446.0,345.7 490.0,347.8 468.0,350.0" fill="none" stroke="#059669" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/><path d="M477.5 208.1 L456.6 253.7 M439.5 246.1 L466.1 232.8 L477.5 208.1 L490.8 232.8 L469.9 246.1 M468.0 324.0 L488.9 284.1 L456.6 253.7 L494.6 286.0 L479.4 324.0" fill="none" stroke="#09090B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><circle cx="483.2" cy="181.5" r="16.1" fill="#09090B"/><polyline points="780.0,246.0 800.0,256.4 760.0,266.8 800.0,277.2 760.0,287.6 800.0,298.0 760.0,308.4 800.0,318.8 760.0,329.2 800.0,339.6 780.0,350.0" fill="none" stroke="#059669" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/><path d="M780.0 103.9 L780.0 160.9 M751.5 52.6 L757.2 81.1 L780.0 103.9 L802.8 81.1 L808.5 52.6 M768.6 246.4 L772.4 204.6 L780.0 160.9 L787.6 204.6 L791.4 246.4" fill="none" stroke="#09090B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><circle cx="780.0" cy="71.6" r="16.1" fill="#09090B"/><path d="M880.0 250.0 L880.0 140.0" stroke="#059669" stroke-width="7" stroke-linecap="round"/><path d="M887.7 154.0 L880.0 140.0 L872.3 154.0" fill="none" stroke="#059669" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 220 L322 236 L300 252 M612 220 L634 236 L612 252" fill="none" stroke="#A1A1AA" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><text x="156.0" y="398.0" text-anchor="middle" font-size="32" font-weight="900" fill="#09090B">① 착지</text><text x="156.0" y="436.0" text-anchor="middle" font-size="28" font-weight="800" fill="#3F3F46">늘어나며 힘 받기</text><text x="468.0" y="398.0" text-anchor="middle" font-size="32" font-weight="900" fill="#09090B">② 전환</text><text x="468.0" y="436.0" text-anchor="middle" font-size="28" font-weight="800" fill="#059669">짧을수록 좋아요</text><text x="780.0" y="398.0" text-anchor="middle" font-size="32" font-weight="900" fill="#09090B">③ 튕김</text><text x="780.0" y="436.0" text-anchor="middle" font-size="28" font-weight="800" fill="#3F3F46">줄어들며 튕겨 나가기</text></svg>
+<div class="card mt rs"><p class="note">달리기도 매 걸음 이 '스프링'을 써요</p><p class="ct2 mt2"><span class="ev v">리뷰</span>늘어났다 바로 줄어들면, 그냥 줄어들 때보다 힘이 커요</p></div>
+<p class="src">Komi (2000) J Biomech · Nicol, Avela &amp; Komi (2006) Sports Med · '접지 250ms 미만 = 빠른 튕김'은 코칭 관행이에요. 2024년 연구는 그 기준의 근거가 약하다고 봤어요</p>
+</div>
+<div class="bottom"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>
