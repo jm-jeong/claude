@@ -1546,118 +1546,131 @@
 
 - 러닝 3요소 · 4편
 - 엔진도 연비도 같은데 38초 차이, 젖산역치
-- VO2max도 이코노미도 똑같은 두 러너, 차이는 얼마나 높은 강도까지 버티느냐였어요.
+- VO2max도 이코노미도 같은 두 러너, 차이는 얼마나 높은 강도까지 버티느냐였어요.
 - 러너 C · 역치 페이스
 - 5:20/km
-- VO2max의 75%에서 역치
+- VO2max 75%에서 역치
 - vs
 - 러너 D · 역치 페이스
 - 4:42/km
-- VO2max의 85%에서 역치
-- 예시값 · 1편 비교 러너 (둘 다 VO2max 60 · 이코노미 240 ml/kg/km)
+- VO2max 85%에서 역치
+- 예시값 · 1편 비교 러너 (둘 다 VO2max 60 · 이코노미 240)
 
-### 4편 01 젖산은 범인일까  (`E4-Lactate.dc.html`)
+### 4편 01 젖산은 연료  (`E4-Lactate.dc.html`)
 
 - 오해젖산은 범인일까
-- 젖산은 피로물질이 아니라 연료예요
+- 젖산은 피로물질이 아니라 연료
 - 1다시 태워 쓰는 연료 리뷰
 - 운동 중 젖산의 75~80%는 근육·심장에서 다시 태워져요. 나머지는 간에서 포도당으로 바뀌어요.
 - 2산성화의 범인도 아니에요 리뷰
-- 근육을 산성으로 만드는 수소이온(H⁺)은 에너지(ATP)를 쓸 때 나와요. 젖산을 만드는 반응은 오히려 H⁺를 써서 산성화를 늦춰요.
-- 3다음 날 근육통과도 관계없어요 실험
-- 젖산은 운동 뒤 금방 줄어요. 근육통은 하루~사흘 뒤에 가장 심해요.
+- 산성을 만드는 H⁺는 에너지(ATP)를 쓸 때 나와요. 젖산을 만드는 반응은 오히려 산성화를 늦춰요.
+- 계기판젖산 수치는 범인이 아니라 ‘지금 힘든 강도’를 알려주는 신호예요.
+- Brooks (리뷰) · Robergs et al. (2004) Am J Physiol · Ferguson et al. (2018) Eur J Appl Physiol
+
+### 4편 02 근육통은 젖산 탓?  (`E4-Soreness.dc.html`)
+
+- 오해근육통은 젖산 탓?
+- 다음 날 근육통, 젖산 때문이 아니에요
+- 리뷰실험 · 소규모
 - 혈중 젖산 · 반감기 약 15~25분
 - 근육통 · 1~3일 뒤 최고
-- 운동 직후
+- 직후
 - 1시간
 - 6시간
 - 24시간
 - 48시간
 - 72시간
-- 표시등젖산 수치는 '지금 힘든 강도'를 알려주는 신호예요. 범인이 아니라 계기판이에요.
-- Brooks (리뷰) · Robergs et al. (2004) Am J Physiol · Ferguson et al. (2018) Eur J Appl Physiol · Cheung et al. (2003) Sports Med · 젖산 반감기: 회복 방법별 실험 (1996 · 2000) · 그래프는 개념도
+- 젖산은 1~2시간이면 거의 정리돼요. 근육통은 하루~사흘 뒤에 가장 심해요.
+- Cheung et al. (2003) Sports Med · 젖산 반감기: 회복 방법별 실험 (1996, 10명) · Denadai et al. (2000) · 그래프는 개념도
 
-### 4편 02 역치는 두 개  (`E4-Two.dc.html`)
+### 4편 03 역치는 두 개  (`E4-Two.dc.html`)
 
 - 개념역치는 두 개
 - 역치는 하나가 아니라 두 개
-- LT1 · 5:43/km
-- LT2 · 4:42/km
+- LT1
+- LT2
+- 중강도
 - 편하게 오래
-- 젖산이 안정 수준
-- 버틸 수 있는 구간
-- 젖산이 조금씩 오름
-- 빠르게 지침
-- 젖산이 계속 쌓임
+- 고강도
+- 버틸 수 있음
+- 심한 강도
+- 빨리 지침
 - 7:30
 - 6:30
-- 5:43
 - 5:00
-- 4:42
 - 4:00
+- 5:43
+- 4:42
 - 예시 데이터
-- 1km 페이스 (분:초) · 오른쪽일수록 빠름
+- 1km 페이스 · 오른쪽일수록 빠름
 - 혈중 젖산 →
-- LT1 아래 · 중강도
-- 젖산이 안정 수준 오래 지속 가능 · 대화 가능
-- LT1~LT2 · 고강도
-- 젖산이 올랐다가 새 수준에서 버팀
-- LT2 위 · 심한 강도
-- 젖산이 멈추지 않고 계속 쌓임 · 빨리 지침
-- 비슷한 이름들 LT1 ≈ 첫 환기역치(VT1)·유산소 역치 · LT2 ≈ MLSS·임계속도·두 번째 환기역치 근처 (완전히 같은 값은 아니에요)
-- 그래프: 1편 예시 러너 (VO2max 60 · 이코노미 240 · LT1 = VO2max 70%, LT2 = 85%) · 강도 구간: Jamnick et al. (2020) Sports Med · Jones et al. (2019) Physiol Rep
+- 비슷한 이름 LT1 ≈ 첫 환기역치(VT1) · LT2 ≈ MLSS·임계속도 근처 (완전히 같은 값은 아니에요)
+- 그래프: 1편 예시 러너 (VO2max 60 · 이코노미 240 · LT1 = VO2max 70%, LT2 = 85%) · Jamnick et al. (2020) Sports Med · Jones et al. (2019) Physiol Rep
 
-### 4편 03 논문은 이렇게 잰다  (`E4-Measure.dc.html`)
+### 4편 04 논문은 이렇게 잰다  (`E4-Measure.dc.html`)
 
 - 개념논문은 이렇게 잰다
 - 같은 ‘역치’도 정의가 25가지
-- 점증부하(예: 3분마다 속도↑) + 단계마다 손끝·귓불 피 한 방울로 젖산 측정
+- 리뷰 점증부하(예: 3분마다 속도↑) · 단계마다 손끝·귓불 피 한 방울로 젖산 측정
 - ①고정값
-- 젖산이 2 mmol, 4 mmol이 되는 속도 (예: 4 mmol = OBLA)
+- 젖산 2·4 mmol이 되는 속도
 - 간단 · 개인차 무시
 - ②처음 오르는 지점
-- 기준선보다 일정량 오른 지점, 로그 변환 꺾임점
+- 기준선보다 일정량 오른 곳
 - → LT1
-- ③급격히 꺾이는 지점 · MLSS
-- 곡선 꺾임(Dmax 등), 30분 일정 속도 테스트
+- ③급격히 꺾이는 지점
+- 곡선 꺾임 · 30분 테스트(MLSS)
 - → LT2
-- MLSS30분 동안 같은 속도로 달려, 10~30분 사이 젖산이 1 mmol 넘게 오르지 않는 가장 빠른 속도
-- ‘4 mmol = 역치’일까? 비교 · 9명
+- Faude et al. (2009) Sports Med: 젖산역치 개념 25개, 세 부류
+
+### 4편 05 4 mmol = 역치?  (`E4-MLSS.dc.html`)
+
+- 개념4 mmol = 역치?
+- ‘4 mmol = 역치’일까?
+- MLSS30분 같은 속도로 달려, 10~30분 사이 젖산이 1 mmol 넘게 오르지 않는 가장 빠른 속도
+- 비교 · 9명조정 선수 · 같은 사람의 두 기준
 - 4 mmol 기준
 - 287 W
 - +12%
 - 실제 MLSS
 - 255 W
-- 조정 선수 9명의 실제 MLSS 젖산은 평균 3.0 mmol. 4 mmol 기준은 역치를 약 12% 높게 잡았어요.
-- Faude et al. (2009) Sports Med: 젖산역치 개념 25개, 세 부류 · Jones et al. (2019) Physiol Rep: MLSS 정의 · Beneke (1995) Med Sci Sports Exerc: 조정 선수 9명
+- 실제 MLSS 때 젖산은 평균 3.0 mmol. 4 mmol 기준은 역치를 약 12% 높게 잡았어요.
+- Jones et al. (2019) Physiol Rep: MLSS 정의 · Beneke (1995) Med Sci Sports Exerc: 조정 선수 9명
 
-### 4편 04 LT1과 존2  (`E4-Zone2.dc.html`)
+### 4편 06 존2의 세 가지 뜻  (`E4-Zone2.dc.html`)
 
 - LT1존2의 진짜 기준
-- 같은 ‘존2’, 어디서 들었느냐에 따라 뜻이 다르다
-- 운동 앱 5구간흔한 기본값
-- 최대심박의 약 60~70%
+- 같은 ‘존2’, 뜻이 세 가지
+- 운동 앱 5구간
 - 관행
-- 연구용 3구간Seiler 등
-- LT1과 LT2 사이 · 꽤 힘든 구간
+- 최대심박의 약 60~70%
+- 연구용 3구간
 - 리뷰
-- 요즘 ‘존2 훈련’San Millán 등
-- LT1 바로 아래 · 젖산이 오르기 직전
+- LT1과 LT2 사이 · 꽤 힘든 구간
+- 요즘 ‘존2 훈련’
 - 현장
-- 최대심박 공식부터 오차
-- ±10박
-- 220 − 나이, 208 − 0.7 × 나이 모두 평균 추정이에요. 같은 나이라도 10박 안팎 차이는 흔해요
-- %최대심박으로 구간 나누기
-- 근거 약함
-- 고정 비율은 사람마다 같은 강도 구간을 잘 못 나눠요. LT1·환기역치는 근거가 있어요
-- LT1 아래존2의 기준은 시계 숫자보다 '젖산이 아직 안 오르는 강도'. 실전에선 문장으로 대화가 편한 정도예요.
-- Tanaka et al. (2001) J Am Coll Cardiol · 개인 오차 약 10~12박은 후속 연구 기준 · Jamnick et al. (2020) Sports Med · Haugen et al. (2022) · Quinn & Coons (2011) 말하기 테스트
+- LT1 바로 아래 · 젖산이 오르기 직전
+- LT1 아래존2의 기준은 시계 숫자보다 ‘젖산이 아직 안 오르는 강도’
+- 연구용 3구간: Seiler 등 · Haugen et al. (2022) · 존2 훈련: San Millán 등 (현장) · Jamnick et al. (2020) Sports Med
 
-### 4편 05 LT2 버틸 수 있는 상한  (`E4-LT2.dc.html`)
+### 4편 07 최대심박 공식의 오차  (`E4-HRmax.dc.html`)
+
+- LT1최대심박 공식의 오차
+- 최대심박 공식부터 ±10박
+- 메타분석220 − 나이 · 208 − 0.7 × 나이
+- ±10박
+- 둘 다 평균 추정이에요. 같은 나이라도 10박 안팎 차이는 흔해요.
+- 리뷰%최대심박으로 구간 나누기
+- 근거 약함
+- 고정 비율은 사람마다 같은 강도를 잘 못 나눠요. LT1·환기역치는 근거가 있어요.
+- 실전 존2 = 문장으로 대화가 편한 정도
+- Tanaka et al. (2001) · 개인 오차 약 10~12박은 후속 연구 기준 · Jamnick et al. (2020) · Quinn & Coons (2011)
+
+### 4편 08 LT2 버틸 수 있는 상한  (`E4-LT2.dc.html`)
 
 - LT2버틸 수 있는 상한
-- LT2 아래에선 젖산이 멈추고, 위에선 계속 쌓인다
-- 같은 속도로 30분 달릴 때 혈중 젖산 개념도
+- LT2 아래는 멈추고, 위는 계속 쌓인다
+- 개념도같은 속도로 30분 달릴 때 혈중 젖산
 - LT2 아래 · 멈춤
 - LT2 근처 · 1 mmol 이하 상승
 - LT2 위 · 계속 쌓임
@@ -1666,44 +1679,54 @@
 - 20분
 - 30분
 - 혈중 젖산 →
-- MLSS
-- 30분 테스트
-- 10~30분 사이 상승 1 mmol 이하인 가장 빠른 속도
-- 임계속도(CS)
-- 조금 더 빠름
-- 잘 훈련된 러너 16.4 vs MLSS 15.2 km/h
-- Breaking2 선수 16명
-- VO2max의 92%
-- LT2(젖산 전환점) 위치 · LT1은 83%
-- 약 1시간현장 감각으로는 1시간쯤 전력으로 버틸 수 있는 '편하게 힘든' 페이스 근처예요 코치 기준
-- 하이록스 · 코치 해석 젖산은 스테이션 뒤에 더 높았어요(최고 8.5 vs 러닝 7.7 mmol, 11명 중앙값). 러닝 구간을 LT2 아래로 달려야 쌓인 젖산을 정리할 여유가 생겨요.
-- Jones et al. (2019) Physiol Rep · Nixon et al. (2021) · Jones et al. (2021) J Appl Physiol · Daniels T 페이스 · Brandt et al. (2025) Front Physiol
+- 약 1시간1시간쯤 전력으로 버틸 수 있는 ‘편하게 힘든’ 페이스 근처 코치 기준
+- Jones et al. (2019) Physiol Rep · Daniels T 페이스 (코치 기준) · 그래프는 개념도
 
-### 4편 06 역치의 위치  (`E4-Position.dc.html`)
+### 4편 09 하이록스와 젖산  (`E4-Hyrox.dc.html`)
+
+- LT2하이록스와 젖산
+- 하이록스에선 젖산이 스테이션에서 더 오른다
+- 상관 · 11명하이록스 첫 생리학 연구 · 모의 대회
+- 최고 젖산 (중앙값)
+- 스테이션
+- 8.5 mmol
+- 러닝
+- 7.7 mmol
+- 빠른 완주는 높은 VO2max·많은 지구력 훈련량과 관련 있었어요
+- 코치 해석러닝 구간을 LT2 아래로 달려야 스테이션에서 쌓인 젖산을 정리할 여유가 생겨요
+- Brandt et al. (2025) Front Physiol · ‘LT2 = 하이록스 러닝의 천장’은 코치 해석
+
+### 4편 10 역치의 위치  (`E4-Position.dc.html`)
 
 - LT2역치의 위치
 - VO2max가 같아도 역치 위치가 페이스를 바꾼다
-- 러너 C · VO2max의 75%에서 역치5:20/km
+- 러너 C · VO2max의 75%5:20
 - 산소 45
 - 60
-- 러너 D · VO2max의 85%에서 역치4:42/km
+- 러너 D · VO2max의 85%4:42
 - 산소 51
 - 60
-- Breaking2 엘리트 · 실측 16명 평균92%
-- VO2max의 92%까지 LT2
-- 역치 페이스 = 이코노미 ÷ (VO2max × 역치 위치) 러너 C: 240 ÷ 45 = 5.33분 → 5:20 · 러너 D: 240 ÷ 51 = 4.71분 → 4:42
-- 기록과 더 가까운 건? 상관 · 18명
+- Breaking2 선수 · 16명 평균92%
+- VO2max의 92%에서 LT2
+- 역치 페이스 = 이코노미 ÷ (VO2max × 역치 위치)C: 240 ÷ 45 → 5:20/km · D: 240 ÷ 51 → 4:42/km
+- 러너 C·D: 1편 예시 (둘 다 VO2max 60 · 이코노미 240 ml/kg/km) · Jones et al. (2021) J Appl Physiol · 모델: Joyner (1991)
+
+### 4편 11 기록과 더 가까운 것  (`E4-Predict.dc.html`)
+
+- LT2기록과 더 가까운 것
+- 기록과 더 가까운 건 역치 속도
 - 젖산이 오르기 시작하는 속도
 - r ≥ 0.91
 - VO2max
 - r ≥ 0.83
-- 3.2km부터 마라톤까지 모든 거리 기록과의 상관 (1979)
-- 러너 C·D: 1편 예시 (둘 다 VO2max 60 · 이코노미 240 ml/kg/km) · Jones et al. (2021) J Appl Physiol · Farrell et al. (1979) Med Sci Sports · 모델: Joyner (1991)
+- 상관 남자 장거리 18명 · 3.2km부터 마라톤까지 모든 거리 기록과의 상관 (1979)
+- Farrell et al. (1979) Med Sci Sports · r이 1에 가까울수록 함께 움직여요 (원인이라는 뜻은 아니에요)
 
-### 4편 07 무엇이 역치를 정하나  (`E4-Why.dc.html`)
+### 4편 12 무엇이 역치를 정하나  (`E4-Why.dc.html`)
 
 - 왜무엇이 역치를 정하나
 - 젖산은 늘 만들어진다, 문제는 치우는 속도
+- 개념도리뷰
 - 물 높이 = 혈중 젖산
 - 만드는 양
 - 페이스를 올릴수록 ↑
@@ -1711,196 +1734,251 @@
 - 치우는 양
 - 근육·심장에서 태움
 - 간에서 포도당으로
-- 들어오는 양이 빠지는 양을 넘어서면 물이 계속 차요 → 그 지점이 LT2
-- 훈련으로 바뀌는 것 리뷰
+- 들어오는 양이 빠지는 양을 넘으면 물이 계속 차요 → 그 지점이 LT2
+- Brooks (리뷰) · Ferguson et al. (2018) Eur J Appl Physiol · 욕조 그림은 개념도
+
+### 4편 13 훈련으로 바뀌는 것  (`E4-Adapt.dc.html`)
+
+- 왜훈련으로 바뀌는 것
+- 훈련하면 치우는 힘이 커진다
+- 리뷰
 - 미토콘드리아 ↑
 - 젖산·피루브산을 근육 안에서 더 많이 태워요
 - 운반체(MCT1) ↑
 - 지구력 훈련으로 늘어 젖산을 태울 곳으로 옮겨요
 - 모세혈관 ↑
 - 산소가 들어오고 젖산이 나가는 길이 넓어져요
-- 래드클리프 11년
-- VO2max는 약 70 그대로인데 LT1 속도 14~15 → 17.5~18.5 km/h, LT2 속도 16 → 20 km/h로 올랐어요 사례 1명
-- Brooks (리뷰) · Billat et al. (2003) Sports Med: 훈련 후 젖산 제거↑, MCT1↑ · Jones (2006) Int J Sports Sci Coach · 욕조 그림은 개념도
+- 래드클리프 11년 사례 1명
+- VO2max는 약 70 그대로인데 LT1 14~15 → 17.5~18.5 · LT2 16 → 20 km/h
+- Billat et al. (2003) Sports Med: 훈련 후 젖산 제거↑, MCT1↑ · Brooks (리뷰) · Jones (2006) Int J Sports Sci Coach
 
-### 4편 08 노르웨이 더블 역치  (`E4-Norway.dc.html`)
+### 4편 14 노르웨이 더블 역치  (`E4-Norway.dc.html`)
 
 - 엘리트 ①노르웨이 더블 역치
 - 역치를 ‘넘지 않게’, 대신 자주·많이
-- 노르웨이식 한 주 예시 현장 사례마리우스 바켄 자료 · 기사 재인용
-- 월
-- 쉬운 달리기
+- 하루 2번 역치
+- 화·목
+- 오전 목표 · mmol
+- 약 2.5
+- 오후 목표 · mmol
+- 약 3.5
+- 핵심은 브레이크 리뷰·현장
+- 1~3회 반복마다 젖산을 재서 2~4.5 mmol 안에 머물게 해요
+- 근거는 아직 ‘물음표’ 리뷰
+- 2023년 리뷰 제목도 “다음 단계인가?” 다른 방식과 비교한 통제 실험은 아직 없어요
+- Casado, Foster, Bakken & Tjelta (2023) Int J Environ Res Public Health · Outside · Trail Runner · 젖산 단위 mmol/L
+
+### 4편 15 노르웨이식 한 주  (`E4-NorwayWeek.dc.html`)
+
+- 엘리트 ①노르웨이식 한 주
+- 노르웨이식 한 주 예시
+- 현장 사례마리우스 바켄 자료 · 기사 재인용
 - 화
-- 오전 · 젖산 약 2.56분 × 5 · 휴식 1분
-- 오후 · 젖산 약 3.51000m × 10 · 휴식 1분
-- 수
-- 쉬운 달리기
+- 오전 · 약 2.56분 × 5 · 휴식 1분
+- 오후 · 약 3.51000m × 10 · 휴식 1분
 - 목
-- 오전 · 젖산 약 2.52000m × 5 · 휴식 1분
-- 오후 · 젖산 약 3.5400m × 25 · 휴식 30초
-- 금
+- 오전 · 약 2.52000m × 5 · 휴식 1분
+- 오후 · 약 3.5400m × 25 · 휴식 30초
+- 월·수·금
 - 쉬운 달리기
 - 토
-- 짧고 빠른 세션 1회 (예: 언덕 질주 · 자료마다 다름)
+- 짧고 빠른 세션 1회 · 자료마다 다름
 - 일
-- 쉬운 달리기 · 롱런 (자료마다 다름)
-- 핵심은 브레이크
-- 1~3회 반복마다 젖산을 재서 2~4.5 mmol 안에 머물게 해요. 역치를 넘지 않게 해서, 주 4회 역치를 하고도 회복하는 게 목적이에요.
-- 근거는 아직 ‘물음표’
-- 2023년 리뷰 제목도 "다음 단계인가?"예요. 이 방식을 다른 방식과 비교한 통제 실험은 아직 없어요.
-- Casado, Foster, Bakken & Tjelta (2023) Int J Environ Res Public Health · Outside · Trail Runner (바켄의 예시 주 재인용) · 젖산 단위 mmol/L
+- 쉬운 달리기 · 롱런 · 자료마다 다름
+- 역치 세션은 주 4번, 나머지는 쉽게
+- Casado et al. (2023) · Outside · Trail Runner (바켄의 예시 주 재인용) · 숫자는 목표 젖산 mmol/L
 
-### 4편 09 세계 정상급의 한 주  (`E4-WorldClass.dc.html`)
+### 4편 16 세계 정상급의 한 주  (`E4-WorldClass.dc.html`)
 
 - 엘리트 ②세계 정상급의 한 주
 - 대부분은 쉽게, 역치·인터벌은 조금
-- 세계 정상급 장거리 선수의 훈련 강도 리뷰 · 실제 훈련 기록
-- 쉬움 · LT1 아래 · 거리의 80% 이상
+- 리뷰연구 + 실제 훈련 기록
+- 쉬움 · LT1 아래
 - 역치·인터벌
+- 주간 거리의 80% 이상이 쉬운 강도
 - 마라토너 주간 거리
 - 160~220km
-- 트랙 선수 130~190km
-- 한 주 훈련 횟수
+- 트랙 130~190km
+- 한 주 훈련
 - 11~14회
 - 하루 두 번이 흔해요
 - 아프리카 선수
 - 2000~2500m
 - 고지대에 살며 훈련
-- 무엇이 기록을 가장 잘 설명했나 상관
-- 세계 정상급 선수들의 첫 7년 훈련을 보니, 쉬운 달리기의 양과 템포런·짧은 인터벌을 꾸준히 한 것이 기록을 가장 잘 설명했어요.
-- 킵초게 캠프 현장 사례
-- 케냐 캅타갓, 해발 약 2,400m. 주 최대 200km 안팎, 주 1회 30~40km 롱런, 파틀렉 (기사마다 세부가 달라요)
-- Haugen et al. (2022) Sports Med Open · Casado et al. (2021) J Strength Cond Res · 킵초게: Outside · Gulf News 등 기사
+- Haugen, Sandbakk, Seiler & Tønnessen (2022) Sports Med Open
 
-### 4편 10 노르웨이 싱글  (`E4-Singles.dc.html`)
+### 4편 17 기록을 설명한 훈련  (`E4-WorldClass2.dc.html`)
+
+- 엘리트 ②기록을 설명한 훈련
+- 쉬운 달리기의 양 + 템포·짧은 인터벌
+- 상관세계 정상급 선수들의 첫 7년 훈련
+- 쉬운 달리기의 양과 템포런·짧은 인터벌을 꾸준히 한 것이 기록을 가장 잘 설명했어요
+- 현장 사례킵초게 캠프 · 케냐 캅타갓
+- 해발 약 2,400m · 주 최대 200km 안팎 주 1회 30~40km 롱런 · 파틀렉
+- 기사마다 세부가 달라요
+- Casado, Hanley, Santos-Concejero & Ruiz-Pérez (2021) J Strength Cond Res · 킵초게: Outside · Gulf News 등 기사
+
+### 4편 18 노르웨이 싱글  (`E4-Singles.dc.html`)
 
 - 트렌드노르웨이 싱글
 - 하루 두 번은 무리라서, 하루 한 번 서브역치
-- 어디서 왔나 해외 러닝 커뮤니티(LetsRun)의 한 아마추어가 '마일리지 적은 사람을 위한 노르웨이식'으로 정리한 글이 '노르웨이 싱글'로 퍼졌어요. 현장 사례
+- 어디서 왔나 현장 사례해외 러닝 커뮤니티(LetsRun)의 한 아마추어가 정리한 ‘마일리지 적은 사람을 위한 노르웨이식’
 - 서브역치
 - 주 2~3회
-- 역치보다 살짝 느리게, 짧게 쉬며 반복
+- 역치보다 살짝 느리게
 - 롱런
 - 주 1회
 - 길게, 편하게
 - 나머지
 - 전부 쉽게
-- 역치 위 인터벌은 하지 않아요
-- 한 주 시간 비중 커뮤니티 권장
-- 쉬움 · 롱런 75~80%
-- 서브역치 20~25%
-- 왜 인기일까
-- 하루 한 번으로 끝나고, 역치를 넘지 않아 회복 부담이 적다는 후기가 많아요.
-- 주의할 점
-- 통제된 실험은 아직 없어요. 효과는 후기와 사례 수준이에요.
-- LetsRun 글타래 “Modifying the Norwegian approach to lower mileage” 정리 문서 · Outside (노르웨이 방법, 일반인편) · 비중은 커뮤니티 권장값
+- 역치 위는 안 해요
+- LetsRun 글타래 “Modifying the Norwegian approach to lower mileage” 정리 문서 · Outside (노르웨이 방법, 일반인편)
 
-### 4편 11 어떤 분포가 좋을까  (`E4-TID.dc.html`)
+### 4편 19 싱글의 시간 비중  (`E4-Singles2.dc.html`)
+
+- 트렌드싱글의 시간 비중
+- 한 주 시간의 20~25%만 서브역치
+- 커뮤니티 권장한 주 시간 비중
+- 쉬움·롱런 75~80%
+- 20~25%
+- 왜 인기일까
+- 하루 한 번으로 끝나고, 역치를 넘지 않아 회복 부담이 적다는 후기가 많아요
+- 주의할 점
+- 통제된 실험은 아직 없어요 효과는 후기와 사례 수준이에요
+- LetsRun 정리 문서 · Outside · 비중은 커뮤니티 권장값
+
+### 4편 20 어떤 분포가 좋을까  (`E4-TID.dc.html`)
 
 - 연구어떤 분포가 좋을까
 - 역치를 더 많이 한다고 더 좋아지진 않았다
-- 서브엘리트 12명 · 5개월 · 10.4km 기록 향상 실험
+- 실험 · 12명서브엘리트 · 5개월 · 10.4km 기록 향상
 - 저강도 비중↑쉬운 달리기 위주
 - −157초
-- 역치 사이 비중↑LT1~LT2 구간 위주
+- 역치 사이 비중↑LT1~LT2 위주
 - −121.5초
 - 고강도(LT2 위) 비중은 두 그룹 모두 약 8%로 같았어요
-- 메타분석 2024 메타분석
-- 폴라라이즈드가 VO2max를 조금 더 올렸어요(효과 작음, 12주 미만에서만). 다른 기록 지표는 차이가 없었어요.
-- 메타분석 2025 개인 데이터
-- 13개 연구 348명: 폴라라이즈드 vs 피라미드, VO2max·타임트라이얼 차이 없음. 경쟁 선수는 폴라라이즈드, 일반인은 피라미드가 나을 수도 있어요.
-- 폴라라이즈드 쉬움 많이 + 고강도 조금, 역치 사이는 최소 · 피라미드 쉬움 > 역치 사이 > 고강도
-- 쉬운 양 먼저분포 이름보다 공통점이 중요해요. 쉬운 날을 지키고, 역치는 넘지 않게.
-- Esteve-Lanao et al. (2007) J Strength Cond Res · Sports Med (2024) 폴라라이즈드 메타분석 · Rosenblat et al. (2025) Sports Med 네트워크 메타분석
+- Esteve-Lanao, Foster, Seiler & Lucia (2007) J Strength Cond Res
 
-### 4편 12 역치도 지친다  (`E4-Durability.dc.html`)
+### 4편 21 메타분석이 말하는 것  (`E4-TID2.dc.html`)
+
+- 연구메타분석이 말하는 것
+- 분포 이름보다 쉬운 양이 먼저
+- 메타분석 2024
+- 폴라라이즈드가 VO2max를 조금 더 올렸어요 (12주 미만에서만). 다른 기록 지표는 차이가 없었어요.
+- 개인 데이터 메타분석 2025
+- 13개 연구 348명 · 폴라라이즈드 vs 피라미드 VO2max·타임트라이얼 차이 없음
+- 경쟁 선수는 폴라라이즈드, 일반인은 피라미드가 나을 수도
+- 폴라라이즈드 쉬움 많이 + 고강도 조금 피라미드 쉬움 > 역치 사이 > 고강도
+- Sports Med (2024) 폴라라이즈드 메타분석 · Rosenblat et al. (2025) Sports Med 네트워크 메타분석
+
+### 4편 22 역치도 지친다  (`E4-Durability.dc.html`)
 
 - 최신 경향역치도 지친다
 - 90분 달리면 역치 속도가 5.5% 떨어졌다
-- 2024 런던 마라톤 참가자 18명 (평균 3시간 17분 · 41세) · 역치 속도로 90분 달린 뒤 다시 측정
-- 달리기 전 vs 90분 뒤 비교 · 18명
+- 2024 런던 마라톤 참가자 18명 · 평균 3시간 17분 · 41세
+- 비교 · 18명달리기 전 vs 90분 뒤
 - 역치 속도km/h
 - 전 12.8
 - 90분 뒤 12.1
 - VO2maxml/kg/분
 - 전 56.7
 - 90분 뒤 53.4
-- 이코노미 · 역치 위치%VO2max
-- 변화 없음
-- r = 0.68역치 속도가 덜 떨어진 사람이 실제 마라톤도 더 빨랐어요 상관
-- 사이클 2시간 뒤 실험 · 14명
-- LT1 파워 212 → 190W, 약 10% 하락
-- 그래서 요즘은 리뷰
-- '지쳐도 유지되는 능력'을 VO2max·이코노미·역치 위치 다음의 4번째 요소로 봐요
-- Hunter & Muniz-Pumares (2025) Eur J Sport Sci · Stevenson et al. (2022) Eur J Appl Physiol · Jones (2024) J Physiol
+- 이코노미 · 역치 위치는 그대로
+- r = 0.68역치 속도가 덜 떨어진 사람이 마라톤도 더 빨랐어요 상관
+- Hunter & Muniz-Pumares (2025) Eur J Sport Sci
 
-### 4편 13 내 역치 찾기  (`E4-Field.dc.html`)
+### 4편 23 지쳐도 유지되는 힘  (`E4-Durability2.dc.html`)
+
+- 최신 경향지쳐도 유지되는 힘
+- 지쳐도 유지되는 힘, 4번째 요소
+- 실험 · 14명사이클 2시간 뒤 LT1 파워
+- 212 → 190W
+- 약 10% 떨어졌어요
+- 리뷰요즘 관점
+- ‘지쳐도 유지되는 능력’을 VO2max·이코노미·역치 위치 다음의 4번째 요소로 봐요
+- Stevenson, Kilding, Plews & Maunder (2022) Eur J Appl Physiol · Jones (2024) J Physiol
+
+### 4편 24 랩 없이 역치 찾기  (`E4-Field.dc.html`)
 
 - 실전내 역치 찾기
 - 랩 없이 역치 찾기, 정확도는 방법마다 다르다
 - 말하기 테스트→ LT1 근처
-- 문장으로 편하게 말이 되는 마지막 강도. 연구마다 맞는 역치가 조금씩 달라요
+- 문장으로 편하게 말이 되는 마지막 강도 · 연구마다 맞는 역치가 조금씩 달라요
 - 대략
 - 1시간 레이스 페이스→ LT2 근처
-- 약 1시간 전력으로 갈 수 있는 페이스 (Daniels의 T 페이스, 코치 기준)
+- 약 1시간 전력으로 갈 수 있는 페이스 · Daniels T 페이스(코치 기준)
 - 대략
-- 임계속도 테스트→ LT2 위쪽 경계
-- 같은 날 3600·2400·1200m 전력, 사이 30분 휴식. 실험실 측정과 r = 0.89 (10명) · MLSS보다 조금 빨라요
-- 비교적 좋음
 - 스마트워치 추정→ 참고용
-- LT 심박은 실험실과 비슷했지만, LT 페이스는 크게 틀릴 수 있어요 (가민 FR265 평균 오차 약 26%, 2025)
-- 페이스는 주의
-- 임계속도 간단 계산 (기록 2개)
-- (긴 거리 − 짧은 거리) ÷ (긴 시간 − 짧은 시간)
-- 예: 3600m 14:00 · 1200m 4:00 → 2400m ÷ 600초 = 4.0 m/s = 14.4 km/h ≈ 4:10/km
-- Quinn & Coons (2011) J Sports Sci · Daniels' Running Formula · Galbraith et al. (2014) Int J Sports Physiol Perform · Nixon et al. (2021) · Front Physiol (2025) 스마트워치 LT 검증 · 계산 예시는 가상 기록
+- 심박은 실험실과 비슷, 페이스는 평균 오차 약 26% (가민 FR265, 2025)
+- 페이스 주의
+- Quinn & Coons (2011) J Sports Sci · Daniels' Running Formula · Front Physiol (2025) 스마트워치 LT 검증
 
-### 4편 14 팩트 체크  (`E4-FactCheck.dc.html`)
+### 4편 25 임계속도 테스트  (`E4-CS.dc.html`)
+
+- 실전임계속도 테스트
+- 임계속도 테스트는 비교적 정확
+- 실험 · 10명같은 날 3번 전력
+- 3600 · 2400 · 1200m 전력 사이 30분 휴식
+- 실험실 측정과 차이 없음 · r = 0.89
+- MLSS보다 조금 빨라요 · 16.4 vs 15.2 km/h 비교
+- 간단 계산 (기록 2개)
+- (긴 거리 − 짧은 거리) ÷ (긴 시간 − 짧은 시간)
+- 예: 3600m 14:00 · 1200m 4:00 → 2400m ÷ 600초 = 4.0 m/s ≈ 4:10/km
+- Galbraith et al. (2014) Int J Sports Physiol Perform · Nixon et al. (2021): 잘 훈련된 러너 · 계산 예시는 가상 기록
+
+### 4편 26 팩트 체크 ① 틀려요  (`E4-FactCheck.dc.html`)
 
 - 팩트 체크흔한 말 검증
-- 젖산역치 팩트 체크
-- 맞아요
-- “역치 속도는 기록과 밀접하다”
-- 3.2km~마라톤 기록과 상관 r ≥ 0.91 (1979, 18명)
-- “VO2max가 그대로여도 역치는 오른다”
-- 래드클리프 11년: VO2max 약 70 그대로, LT2 16 → 20 km/h (사례)
-- 애매해요
-- “존2 = 최대심박 60~70%”
-- 앱·연구·코치마다 존2 정의가 달라요. 최대심박 공식도 ±10박 오차
-- “워치가 알려주는 젖산역치”
-- 심박은 비슷했지만 페이스는 크게 틀릴 수 있어요 (2025)
-- “폴라라이즈드(80/20)가 정답”
-- 메타분석상 다른 분포와 차이가 작거나 없어요
-- 틀려요
+- 팩트 체크 ① 틀려요
 - “젖산은 피로물질이다”
 - 젖산은 연료이고, 산성화를 오히려 늦춰요
 - “다음 날 근육통은 젖산 때문”
-- 젖산은 1~2시간이면 거의 정리, 근육통은 1~3일 뒤 최고
+- 젖산은 1~2시간이면 정리, 근육통은 1~3일 뒤
 - “역치 = 4 mmol”
-- 사람마다 달라요. 4 mmol 기준이 역치를 약 12% 높게 잡은 연구도 있어요
+- 사람마다 달라요 · 약 12% 높게 잡은 연구도
 - “젖산은 산소가 부족해서 생긴다”
-- 산소가 충분해도 계속 만들어져요. 오르는 건 치우는 속도를 넘을 때
-- Farrell (1979) · Jones (2006) · Tanaka (2001) · Front Physiol (2025) · 2024·2025 메타분석 · Robergs (2004) · Cheung (2003) · Beneke (1995) · Ferguson (2018)
+- 산소가 충분해도 생겨요 · 치우는 속도를 넘을 때 쌓여요
+- Robergs (2004) · Ferguson (2018) · Cheung (2003) · Beneke (1995)
 
-### 4편 15 이번 주부터  (`E4-Todo.dc.html`)
+### 4편 27 팩트 체크 ② 애매해요  (`E4-FactCheck2.dc.html`)
+
+- 팩트 체크흔한 말 검증
+- 팩트 체크 ② 애매해요
+- “존2 = 최대심박 60~70%”
+- 앱·연구·코치마다 존2 정의가 달라요 · 최대심박 공식도 ±10박 오차
+- “워치가 알려주는 젖산역치”
+- 심박은 실험실과 비슷, 페이스는 크게 틀릴 수 있어요 (2025)
+- “폴라라이즈드(80/20)가 정답”
+- 메타분석상 다른 분포와 차이가 작거나 없어요
+- Tanaka (2001) · Jamnick (2020) · Front Physiol (2025) · 2024·2025 메타분석
+
+### 4편 28 팩트 체크 ③ 맞아요  (`E4-FactCheck3.dc.html`)
+
+- 팩트 체크흔한 말 검증
+- 팩트 체크 ③ 맞아요
+- “역치 속도는 기록과 밀접하다” 상관
+- 3.2km~마라톤 기록과 상관 r ≥ 0.91 (1979, 18명)
+- “VO2max가 그대로여도 역치는 오른다” 사례
+- 래드클리프 11년: VO2max 약 70 그대로, LT2 16 → 20 km/h
+- Farrell et al. (1979) Med Sci Sports · Jones (2006) Int J Sports Sci Coach
+
+### 4편 29 이번 주부터  (`E4-Todo.dc.html`)
 
 - 실천이번 주부터
-- 역치를 올리는 다섯 가지
+- 역치를 올리는 네 가지
 - 1쉬운 날은 LT1 아래로 리뷰
-- 문장으로 대화가 되는 강도. 세계 정상급도 거리의 80% 이상이 이 구간이에요.
+- 대화가 되는 강도 · 정상급도 거리의 80% 이상
 - 2역치 세션은 주 1~2회, 끊어서 현장
-- LT2보다 살짝 아래에서 6~10분씩, 짧게 쉬며 반복. 역치를 넘지 않게 하는 게 노르웨이식의 핵심이에요.
+- LT2 살짝 아래, 6~10분씩 짧게 쉬며 반복
 - 3몇 주마다 내 역치 다시 찾기 현장
-- 1시간 레이스 페이스나 임계속도 테스트로 확인해요. 워치 페이스는 참고만 해요.
+- 1시간 레이스 페이스·임계속도로 확인
 - 4롱런으로 ‘지쳐도 유지’ 연습 상관
-- 90분 뒤 역치가 덜 떨어진 사람이 마라톤도 빨랐어요. 롱런 후반을 흐트러지지 않게 달려요.
-- 5하이록스: 러닝은 LT2 아래로 코치 해석
-- 젖산은 스테이션에서 더 올라요. 러닝 구간에서 정리할 여유를 남겨두세요. 하이록스 연구(11명)에서도 VO2max와 지구력 훈련량이 완주 기록과 관련 있었어요.
-- Haugen et al. (2022) · Casado et al. (2023) · Daniels · Galbraith et al. (2014) · Front Physiol (2025) · Hunter & Muniz-Pumares (2025) · Brandt et al. (2025) Front Physiol
+- 90분 뒤 역치를 덜 잃은 사람이 더 빨랐어요
+- Haugen et al. (2022) · Casado et al. (2023) · Daniels · Galbraith et al. (2014) · Hunter & Muniz-Pumares (2025)
 
-### 4편 16 3요소 정리  (`E4-Formula.dc.html`)
+### 4편 30 3요소 공식  (`E4-Formula.dc.html`)
 
-- 기록은 세 가지의 조합, 그리고 내구성
+- 기록은 세 가지의 조합
 - VO2max1분, 체중 1kg당 쓸 수 있는 산소의 최대치
 - 60
 - ×
@@ -1913,8 +1991,14 @@
 - 240
 - = 역치(LT2) 페이스240 ÷ 51 = 4.71분 → 1km 4분 42초
 - 4:42/km
+- 모델: Joyner (1991) J Appl Physiol · 모든 값은 체중 1kg당 · 숫자는 1편 예시
+
+### 4편 31 세 가지와 내구성  (`E4-Series.dc.html`)
+
+- 정리세 가지와 내구성
+- 세 가지 + 내구성, 무엇으로 키우나
 - +
-- 내구성 지쳐도 이 세 값을 얼마나 지키나. 최근 ‘4번째 요소’로 주목받아요.
+- 내구성 지쳐도 이 세 값을 얼마나 지키나 · 최근 ‘4번째 요소’로 주목받아요
 - 2편
 - VO2max
 - 고강도 인터벌로 엔진 키우기
@@ -1924,39 +2008,44 @@
 - 4편
 - 젖산역치
 - 쉬운 양 + 넘지 않는 역치 세션
-- 모델: Joyner (1991) J Appl Physiol · Jones (2024) J Physiol · 모든 값은 체중 1kg당 · 숫자는 1편 예시
+- Jones (2024) J Physiol · 각 편 요약
 
-### 4편 17 참고문헌  (`E4-Refs.dc.html`)
+### 4편 32 참고문헌 ①  (`E4-Refs.dc.html`)
 
-- 참고참고문헌
-- 1Faude O, Kindermann W, Meyer T (2009) Lactate threshold concepts: how valid are they? Sports Med
-- 2Jamnick NA et al. (2020) An examination and critique of current methods to determine exercise intensity. Sports Med
-- 3Jones AM, Burnley M, Black MI, Poole DC, Vanhatalo A (2019) The maximal metabolic steady state: redefining the 'gold standard'. Physiol Rep
-- 4Nixon RJ et al. (2021) Steady-state VO2 above MLSS: evidence that critical speed better represents maximal metabolic steady state in well-trained runners
-- 5Beneke R (1995) Anaerobic threshold, individual anaerobic threshold, and maximal lactate steady state in rowing. Med Sci Sports Exerc
-- 6Robergs RA, Ghiasvand F, Parker D (2004) Biochemistry of exercise-induced metabolic acidosis. Am J Physiol Regul Integr Comp Physiol
-- 7Brooks GA. The lactate shuttle / The origin of lactate in exercise (리뷰)
-- 8Ferguson BS et al. (2018) Lactate metabolism: historical context, prior misinterpretations, and current understanding. Eur J Appl Physiol
-- 9Billat VL et al. (2003) The concept of maximal lactate steady state. Sports Med
-- 10Cheung K, Hume P, Maxwell L (2003) Delayed onset muscle soreness: treatment strategies and performance factors. Sports Med
-- 11회복 방법별 젖산 반감기 실험 (1996, 10명) · Denadai BS et al. (2000)
-- 12Tanaka H, Monahan KD, Seals DR (2001) Age-predicted maximal heart rate revisited. J Am Coll Cardiol
-- 13Quinn TJ, Coons BA (2011) The Talk Test and its relationship with the ventilatory and lactate thresholds. J Sports Sci
-- 14Jones AM et al. (2021) Physiological demands of running at 2-hour marathon race pace. J Appl Physiol
-- 15Farrell PA et al. (1979) Plasma lactate accumulation and distance running performance. Med Sci Sports
-- 16Jones AM (2006) The physiology of the world record holder for the women's marathon. Int J Sports Sci Coach
-- 17Casado A, Foster C, Bakken M, Tjelta LI (2023) Does lactate-guided threshold interval training within a high-volume low-intensity approach represent the next step…? Int J Environ Res Public Health
-- 18Haugen T, Sandbakk Ø, Seiler S, Tønnessen E (2022) The training characteristics of world-class distance runners. Sports Med Open
-- 19Casado A, Hanley B, Santos-Concejero J, Ruiz-Pérez LM (2021) World-class long-distance running performances are best predicted by volume of easy runs and deliberate practice of short-interval and tempo runs. J Strength Cond Res
-- 20Esteve-Lanao J, Foster C, Seiler S, Lucia A (2007) Impact of training intensity distribution on performance in endurance athletes. J Strength Cond Res
-- 21(2024) Comparison of polarized versus other types of endurance training intensity distribution on athletes' endurance performance: a systematic review with meta-analysis. Sports Med
-- 22Rosenblat MA et al. (2025) Which training intensity distribution intervention will produce the greatest improvements…? Network meta-analysis of individual participant data. Sports Med
-- 23Hunter B, Muniz-Pumares D (2025) Durability of parameters associated with endurance running in marathoners. Eur J Sport Sci
-- 24Stevenson JD, Kilding AE, Plews DJ, Maunder E (2022) Prolonged cycling reduces power output at the moderate-to-heavy intensity transition. Eur J Appl Physiol
-- 25Jones AM (2024) The fourth dimension: physiological resilience as an independent determinant of endurance exercise performance. J Physiol
-- 26Galbraith A et al. (2014) A single-visit field test of critical speed. Int J Sports Physiol Perform
-- 27(2025) Validity of smartwatch-derived estimates of lactate threshold heart rate and pace compared to graded exercise testing. Front Physiol
-- 28Brandt T, Ebel C, Lebahn C, Schmidt A (2025) Acute physiological responses and performance determinants in Hyrox©. Front Physiol
-- 29현장 자료: Daniels' Running Formula (T 페이스) · Outside · Trail Runner (노르웨이 방법) · LetsRun 노르웨이 싱글 정리 · 킵초게 캠프 기사
+- 참고참고문헌 ①
+- 1Faude, Kindermann & Meyer (2009) Sports Med · 역치 개념 25개
+- 2Jamnick et al. (2020) Sports Med · 강도 구간
+- 3Jones et al. (2019) Physiol Rep · MLSS 정의
+- 4Nixon et al. (2021) · 임계속도 vs MLSS
+- 5Beneke (1995) Med Sci Sports Exerc · 조정 선수 9명
+- 6Robergs, Ghiasvand & Parker (2004) Am J Physiol
+- 7Brooks · 젖산 셔틀 (리뷰)
+- 8Ferguson et al. (2018) Eur J Appl Physiol
+- 9Billat et al. (2003) Sports Med
+- 10Cheung, Hume & Maxwell (2003) Sports Med · 근육통
+- 11젖산 반감기 실험 (1996, 10명) · Denadai et al. (2000)
+- 12Tanaka, Monahan & Seals (2001) J Am Coll Cardiol
+- 13Quinn & Coons (2011) J Sports Sci · 말하기 테스트
+- 14Jones et al. (2021) J Appl Physiol · Breaking2
+- 15Farrell et al. (1979) Med Sci Sports
+- 다음 장에 이어져요
+
+### 4편 33 참고문헌 ②  (`E4-Refs2.dc.html`)
+
+- 참고참고문헌 ②
+- 16Jones (2006) Int J Sports Sci Coach · 래드클리프
+- 17Casado, Foster, Bakken & Tjelta (2023) IJERPH · 노르웨이
+- 18Haugen et al. (2022) Sports Med Open
+- 19Casado et al. (2021) J Strength Cond Res
+- 20Esteve-Lanao et al. (2007) J Strength Cond Res
+- 21Sports Med (2024) 폴라라이즈드 메타분석
+- 22Rosenblat et al. (2025) Sports Med · 네트워크 메타분석
+- 23Hunter & Muniz-Pumares (2025) Eur J Sport Sci
+- 24Stevenson et al. (2022) Eur J Appl Physiol
+- 25Jones (2024) J Physiol · 4번째 요소
+- 26Galbraith et al. (2014) Int J Sports Physiol Perform
+- 27Front Physiol (2025) · 스마트워치 LT 검증
+- 28Brandt et al. (2025) Front Physiol · 하이록스
+- 29현장 자료: Daniels' Running Formula · Outside · Trail Runner · LetsRun 정리 · 킵초게 기사
 - 현장 사례(기사·인터뷰·커뮤니티)는 슬라이드에서 연구 근거와 구분해 표시했어요
 
