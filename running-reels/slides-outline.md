@@ -2980,3 +2980,458 @@
 - 하이록스 선수의 몸은 달라야 할까?
 - 사진: Bob Ramsak (CC BY-SA 4.0, Wikimedia Commons) · 2015 류블랴나 마라톤
 
+
+## 7편
+
+### 7편 00 훅  (`E7-Hook.dc.html`)
+
+- 러닝 3요소 · 7편 · 러너의 체형
+- 러너에게 좋은 체형, 정해져 있을까?
+- 마라톤
+- BMI 19.6
+- 상위 100명 평균
+- 100m
+- BMI 23.3
+- 상위 100명 평균
+- 하이록스
+- BMI 약 24.7
+- 세계챔피언 1명
+- 뼈는 못 바꿔요. 바꿀 수 있는 것만 골라 볼게요
+- BMI: Sedeaud et al. (2014) PLoS One, 남자 세계 상위 100명 평균 · 하이록스: 세계챔피언 사례연구(2026) 1명의 키·체중으로 계산 · 실루엣은 같은 키로 그린 개념도
+
+### 7편 01 엘리트 마라토너 평균  (`E7-Elite.dc.html`)
+
+- 엘리트 체격평균은?
+- 엘리트 마라토너의 평균
+- 171.9cm
+- 키
+- 57.9kg
+- 체중
+- 19.6
+- BMI
+- 비교 · 기술남자 세계 상위 100명 · 1996~2011
+- 원문 · 소규모케냐 크로스컨트리 상위권
+- 남 13명 170~173cm · 53.8~56.7kg · 체지방 6.6~7.4%
+- 여 7명 168cm · 47.8kg · 체지방 16%
+- 체지방률은 측정법마다 달라서 연구끼리 비교하면 안 돼요. 여자 엘리트 자료는 아직 적어요.
+- Sedeaud et al. (2014) PLoS One · Billat et al. (2003) Med Sci Sports Exerc (원문 확인)
+
+### 7편 02 키는 제각각  (`E7-Height.dc.html`)
+
+- 엘리트 체격키
+- 키는 156cm부터 190cm까지
+- 비교회색: 마라톤 상위 100명 범위 · 파랑: 약 68% 구간(계산)
+- 평균 171.9
+- 156
+- 190
+- 1996 우승자 158
+- 2024 우승자 181
+- 1912 우승자 188
+- 150
+- 160
+- 170
+- 180
+- 190
+- 키 (cm)
+- 키 자체보다 키 대비 가벼움과 더위가 관건으로 보여요상관
+- Sedeaud 2014 (평균 ± 표준편차) · Marc et al. (2014) J Sports Sci (범위, 1990~2011) · 올림픽 우승자: Topendsports 집계(출처 혼재, 현장 자료)
+
+### 7편 03 종목마다 다른 체격  (`E7-Ladder.dc.html`)
+
+- 엘리트 체격종목별
+- 빠른 종목일수록 무겁고 커요
+- 비교● 논문 평균 · ◆ 사례 1명 · ○ 블로그 집계
+- 하이록스 챔피언 1명
+- 약 24.7
+- 하이록스 Elite 15 남
+- 약 24.2
+- 100m 상위 100명
+- 23.3
+- 하이록스 Elite 15 여
+- 약 21.8
+- 마라톤 상위 100명
+- 19.6
+- 에리트레아 엘리트
+- 18.9
+- 케냐 엘리트 남
+- 18.6~18.9
+- 18
+- 20
+- 22
+- 24
+- 26
+- 종목마다 맞는 체격이 다르고, 최상위일수록 범위가 좁아져요
+- Sedeaud 2014 (8개 종목 상위 100명, 속도–BMI r = 0.71) · Billat 2003 · Lucia 2006 · 하이록스 챔피언 사례연구 2026 · Rox Lyfe 블로그 집계(Elite 15) · 일부 BMI는 평균 키·체중으로 계산
+
+### 7편 04 마를수록 빠를까?  (`E7-Parabola.dc.html`)
+
+- 엘리트 체격마를수록?
+- 마를수록 빠를까? 최적점이 있어요
+- 비교마라톤 세계 상위 100명 · 곡선은 개념도
+- 최적점
+- 너무 가벼우면
+- 느려짐 · 부상↑
+- 무거운 쪽
+- 느려짐
+- BMI →
+- ↑ 속도
+- 비교 · 184명이미 마른 최상위권 남자들
+- 피하지방을 다 더한 값은 기록과 관련이 없었어요
+- Marc et al. (2014) J Sports Sci (BMI–속도 포물선, 최적 BMI 값은 미확인) · Arrese & Ostáriz (2006) J Sports Sci (피하지방 6곳 합)
+
+### 7편 05 너무 가벼우면  (`E7-REDs.dc.html`)
+
+- 너무 가벼우면REDs
+- 너무 적게 먹고 달리면 뼈가 먼저 다쳐요
+- 적게 먹고
+- 많이 달림
+- 호르몬
+- 저하
+- 뼈
+- 약해짐
+- 골부상
+- 증가
+- 4.5배월경이 멈추거나 테스토스테론이 낮은 엘리트 장거리 선수의 골부상 비교
+- 이 상태를 REDs라고 불러요. 남녀 모두 생겨요IOC 합의문
+- Heikura et al. (2018) IJSNEM (국가대표·세계급 장거리 선수, 횡단 연구) · Mountjoy et al. (2023) BJSM, IOC REDs 합의문
+
+### 7편 06 위험이 겹치면  (`E7-BoneRisk.dc.html`)
+
+- 너무 가벼우면위험 신호
+- 위험 요인이 겹칠수록 골부상이 늘어요
+- 전향 코호트운동하는 여성 · 위험 요인 하나일 때 발생률
+- 주 12시간 이상 운동
+- 14.7%
+- BMI 21 미만
+- 15.3%
+- 저골량
+- 21.0%
+- 요인이 겹치면
+- 약 30~50%
+- 비교 · 남자 156명남자도 예외가 아니에요
+- 대학 장거리 선수 27%가 골스트레스 손상 · 위험 점수 1점마다 위험 +37%
+- Barrack et al. (2014) Am J Sports Med · Kraus et al. (2019) BJSM (BMI 하나만으로는 유의하지 않음)
+
+### 7편 07 무게의 위치  (`E7-Location.dc.html`)
+
+- 무게의 과학어디에 붙나
+- 같은 1kg도 발에 달면 3~4배
+- 실험 · 15명다리 한쪽에 1kg · 3m/s · 에너지 증가
+- 1kg
+- 1kg
+- 1kg
+- 허벅지
+- 남녀
+- +4%
+- 정강이
+- 남
+- +8%
+- 여
+- +11%
+- 발
+- 남
+- +11%
+- 여
+- +16%
+- Coifman 외, Applied Ergonomics (2023 온라인) · Martin (1985) MSSE: 발 1kg ≈ +7.2%, 허벅지의 약 2배 · 다리 끝 무게일수록 휘두르는 데 더 들어요
+
+### 7편 08 신발 100g  (`E7-Shoes.dc.html`)
+
+- 무게의 과학신발
+- 신발 한 짝 100g = 에너지 +1.1%
+- 같은 신발에 무게만 더한 실험
+- +1.1%
+- 에너지 · 한 짝 100g마다
+- +0.78%
+- 3km 기록 · 100g마다
+- 실험 · 18명5km 20분 이내 남자
+- 쿠션·반발을 포기한 가벼움까지 같다는 근거는 아니에요
+- Hoogkamer, Kipp, Spiering & Kram (2016) MSSE · Nike 연구비 지원 · 사진: Modifyphysio (CC BY-SA 4.0, Wikimedia Commons)
+
+### 7편 09 몸을 받치는 비용  (`E7-Support.dc.html`)
+
+- 무게의 과학받치는 비용
+- 달리기 에너지의 큰 몫은 몸을 받치는 데 써요
+- 실험 · 10명하네스로 체중만 줄였을 때 에너지 변화
+- 체중 100%
+- 기준
+- 75%
+- -19%
+- 50%
+- -38%
+- 25%
+- -55%
+- 파랑은 실측, 점선은 비례했다면 · 저자 추정: 받치는 비용이 최대 74%
+- Teunissen, Grabowski & Kram (2007) J Exp Biol · 동호인 10명 · 3m/s · 순대사율 기준
+
+### 7편 10 짐을 달면  (`E7-Cargo.dc.html`)
+
+- 무게의 과학짐 실험
+- 엔진은 그대로인데 짐만 늘면 느려져요
+- 실험 · 6명몸통에 체중의 5·10·15% 짐
+- 짐
+- 12분 달리기 거리
+- 체중 +5% 짐
+- 약 −89m
+- 체중 +15% 짐
+- 약 −277m
+- 속도 −8.6%
+- 최대 산소섭취량(L/분) 그대로체중당 VO2max·기록 ↓
+- 흔한 '1kg = km당 몇 초' 공식은 이 짐 실험을 지방 감량에 옮겨 쓴 추정이에요
+- Cureton et al. (1978) Med Sci Sports · NCBI Bookshelf(IOM) 요약 · 짐 1%당 12분 거리 약 18m 감소
+
+### 7편 11 1kg = km당 몇 초?  (`E7-PerKg.dc.html`)
+
+- 무게의 과학1kg = 몇 초?
+- 체중 1kg = km당 몇 초?
+- 예: 체중 70kg · 1km 5:00 러너가 1kg 줄면
+- 2.4초
+- 짐 실험 기준
+- 체중 1%당 기록 약 0.57%
+- 4.3초
+- 단순 비례 가정
+- 체중 1% = 기록 1%
+- 지방만 빠지고 훈련·근육·에너지가 그대로일 때만 · 굶어서 빼면 오히려 느려져요
+- 판정: 애매해요코치 계산
+- Cureton 1978 짐 실험(15% 짐 → 속도 −8.6%)으로 계산 · 비례 가정은 단순 계산 · REDs: Mountjoy et al. (2023) BJSM
+
+### 7편 12 더위와 체격  (`E7-Heat.dc.html`)
+
+- 무게의 과학더위
+- 더울수록 작은 몸이 유리해요
+- 모델 계산열이 쌓이지 않고 버틸 수 있는 최고 속도
+- 35°C
+- 습도 60%
+- 45kg
+- 2:13 페이스까지
+- 마라톤 · 19.1km/h
+- 75kg
+- 3:28 페이스까지
+- 마라톤 · 12.2km/h
+- 비교 · 16명실측도 같은 방향
+- 35°C에선 무거울수록 열이 더 쌓였어요 · 15°C에선 관련 없음
+- Dennis & Noakes (1999) Eur J Appl Physiol (모델 계산) · Marino et al. (2000) Pflügers Arch (r = 0.74, 고도로 훈련된 러너)
+
+### 7편 13 다리 길이·뒤꿈치  (`E7-Legs.dc.html`)
+
+- 몸의 비율다리·뒤꿈치
+- 다리 길이·뒤꿈치는 '관련'까지만
+- 긴 다리 (체중 대비)
+- 에너지 비용이 낮은 쪽과 관련 · 18명상관
+- 긴 정강이
+- 16km/h 이코노미와 관련 · 13명상관
+- 짧은 뒤꿈치(힘줄 지렛대)
+- 짧을수록 경제적 vs 케냐 엘리트는 길다 vs 관련 없음엇갈림
+- Steudel-Numbers et al. (2007) J Hum Evol · Laumets et al. (2017) J Hum Kinet · Scholz 2008 · Hansen 2021 · Kunimasa 2014 · van Werkhoven & Piazza 2017 · 그림: Gray's Anatomy (퍼블릭 도메인)
+
+### 7편 14 가는 하퇴  (`E7-Calf.dc.html`)
+
+- 몸의 비율하퇴
+- 가는 하퇴, 좋은 이코노미
+- 굵은 하퇴 · 비용↑
+- 가는 하퇴 · 비용↓
+- 비교케냐·덴마크 성인 + 훈련 안 한 청소년
+- 하퇴가 1cm² 굵을수록 km당 산소 비용↑ · 굵기·길이를 보정하면 나라 차이가 사라졌어요
+- 비교 · 7 vs 9명에리트레아 vs 스페인 엘리트
+- 종아리 둘레 30.9cm로 더 가늘고, 이코노미가 더 좋았어요
+- Larsen 외 (2026) Exp Physiol (정정 공지 있음) · Berry (2026) 해설 · Lucia et al. (2006) APNM · 다리 끝이 가벼우면 유리하다는 7장 실험과 같은 원리일 수 있다는 건 추론이에요
+
+### 7편 15 동아프리카  (`E7-EastAfrica.dc.html`)
+
+- 몸의 비율동아프리카
+- 동아프리카, 체형만은 아니에요
+- 케냐 이텐 · 훈련 마을
+- 1체중을 맞춰도 5~8% 더 경제적
+- 아프리카 vs 백인 러너 8명씩 · 10km 32~33분비교 · 원문
+- 2케냐 엘리트끼리는 이코노미로 기록 설명 못 해요
+- 케냐 장거리 선수 32명상관
+- 3VO2max 속도로 달린 거리가 차이의 59% 설명
+- 케냐 엘리트 남자 · vVO2max 기준상관 · 원문
+- Weston et al. (2000) MSSE · Mooses et al. (2015) J Sports Sci · Billat et al. (2003) MSSE: 유전·훈련·환경·생활의 조합 · 사진: Shadychiri (CC BY-SA 4.0, Wikimedia Commons)
+
+### 7편 16 근육이 많으면 느릴까?  (`E7-Muscle.dc.html`)
+
+- 몸의 비율근육
+- 근력운동 8주, 이코노미 +5%
+- 무작위 실험 · 17명하프 스쿼트 4회×4세트 · 주 3회
+- +33%최대근력
+- +5%이코노미
+- +21%지칠 때까지 시간
+- 그대로체중·VO2max
+- 메타분석 · 652명고중량 근력 → 이코노미 소폭 개선
+- 실험 · 50명남자는 시즌 중 새로 시작하면 효과 불확실
+- Støren et al. (2008) MSSE (원문) · Llanos-Lagos et al. (2024) Sports Med · Barnes et al. (2013) MSSE (대학 크로스컨트리) · 사진: 미 해병대 (퍼블릭 도메인)
+
+### 7편 17 체중보다 체지방  (`E7-Fat.dc.html`)
+
+- 몸의 비율지방
+- 체중은 그대로, 지방과 기록이 바뀌었어요
+- 관찰 · 37명최상위권 러너 · 3년 훈련
+- 기록
+- 좋아짐
+- 피하지방
+- 복부·허벅지·종아리
+- 체중
+- 변화 없음
+- 상관 · 126명동호인 마라토너
+- 훈련 속도·체지방률이 기록을 예측 · 둘이 얽혀 원인은 못 갈라요
+- Legaz & Eston (2005) BJSM · Barandun et al. (2012) OAJSM
+
+### 7편 18 하이록스 시간 구성  (`E7-HyroxTime.dc.html`)
+
+- 몸의 비율하이록스
+- 하이록스 시간의 절반은 러닝
+- 스테이션 예: 썰매 밀기
+- 약 50%
+- 엘리트 경기 39,696건
+- 약 59%
+- 동호인 모의 경기 11명
+- 하이록스도 러닝 엔진이 기본이에요코치 해석
+- Rappelt et al. (2026) Front Physiol (러닝 비중 일부는 2차 확인) · Brandt et al. (2025) Front Physiol: 러닝 51.2분 / 86.5분 · 사진: HybridFitty (CC BY 4.0, Wikimedia Commons)
+
+### 7편 19 하이록스 체격  (`E7-HyroxBody.dc.html`)
+
+- 몸의 비율하이록스 체격
+- 하이록스는 체격 계산이 달라요
+- 마라톤 상위 100명
+- 19.6
+- 하이록스 Elite 15 남
+- 24.2
+- 하이록스 챔피언 1명
+- 24.7
+- BMI (막대 시작 = 15)
+- 상관 · 동호인 11명모의 경기 기록과의 관계
+- 관련 있음
+- VO2max · 지구력 훈련량 · 낮은 체지방
+- 관련 없음
+- 근육량 · 악력
+- 유산소 엔진 + 충분한 근력 + 과하지 않은 지방코치 해석
+- Sedeaud 2014 · Rox Lyfe 블로그 집계 (Elite 15 중앙값) · 하이록스 세계챔피언 사례연구 (2026) Ger J Exerc Sport Res · Brandt et al. (2025) Front Physiol
+
+### 7편 20 바꿀 수 없는 것 vs 있는 것  (`E7-Fixed.dc.html`)
+
+- 정리무엇을 바꾸나
+- 뼈는 두고, 나머지를 다뤄요
+- 못 바꿔요
+- 키 · 다리 길이
+- 뒤꿈치·힘줄 구조
+- 골격 폭
+- 여성의 필수 지방
+- 바꿀 수 있어요
+- 체지방 (천천히)
+- 근력·힘줄 강성
+- 신발·짐의 무게
+- 더운 날 페이스
+- 건강하게 바꾸려면: 충분히 먹고, 천천히, 근력운동과 함께코치 해석
+- Cureton & Sparling (1980) 필수 지방 · Støren 2008 · Hoogkamer 2016 · Coifman · Dennis & Noakes 1999 · Mountjoy 2023 (REDs)
+
+### 7편 21 팩트 체크 ① 틀려요·맞아요  (`E7-FactCheck.dc.html`)
+
+- 팩트 체크 ①틀려요·맞아요
+- 체형 상식, 틀려요 · 맞아요
+- 마른 사람이 무조건 잘 달린다
+- 최적점이 있고, 너무 가벼우면 뼈가 다쳐요상관
+- 같은 무게도 발 쪽이 더 비싸다
+- 1kg당 허벅지 +4% · 발 +11~16%실험
+- 안 쓰는 무게(짐)는 느리게 한다
+- 체중 15% 짐 → 속도 −8.6% (6명)실험
+- Marc 2014 · Arrese & Ostáriz 2006 · Heikura 2018 · Coifman (Applied Ergonomics) · Cureton 1978
+
+### 7편 22 팩트 체크 ② 애매해요  (`E7-FactCheck2.dc.html`)
+
+- 팩트 체크 ②애매해요
+- 체형 상식, 애매해요
+- 키 작은 사람이 마라톤에 유리
+- 우승자 158~188cm · 키 대비 가벼움·더위가 관건상관
+- 체중 1kg = km당 몇 초
+- 가정에 따라 약 2.4~4.3초 · 지방만 빠질 때만코치 계산
+- 근육이 많으면 느리다
+- 근력운동 8주: 체중 그대로, 이코노미 +5%실험
+- 하이록스는 근육형이 유리
+- 동호인 11명: 근육량·악력은 기록과 무관상관
+- Marc 2014 · Topendsports(집계) · Cureton 1978 · Støren 2008 · Brandt 2025
+
+### 7편 23 팩트 체크 ③ 관련은 있어요  (`E7-FactCheck3.dc.html`)
+
+- 팩트 체크 ③관련은 있어요
+- 체형 상식, 관련은 있어요
+- 다리가 길면 유리하다
+- 약한 상관 (13~32명) · 바꿀 수도 없어요상관
+- 동아프리카는 체형 덕분
+- 가는 하퇴와 얽혀 있지만, 체형만은 아니에요상관
+- 신발은 가벼울수록 빠르다
+- 무게만 보면 100g당 +1.1% · 쿠션·반발은 별개실험
+- Steudel-Numbers 2007 · Laumets 2017 · Mooses 2015 · Larsen 2026 · Weston 2000 · Hoogkamer 2016
+
+### 7편 24 이번 주부터  (`E7-Todo.dc.html`)
+
+- 정리할 일
+- 이번 주부터 할 일
+- 1체중계 목표보다 충분히 먹기
+- 월경이 멈추거나 뼈 부상이 잦으면 전문가와
+- 2근력운동 주 2~3회
+- 체중은 거의 그대로, 이코노미는 좋아질 수 있어요
+- 3발에 붙는 무게부터 확인
+- 신발 무게 · 짐은 발목보다 몸통 쪽에
+- 4더운 날은 페이스를 보수적으로
+- 특히 체격이 큰 러너
+- 코치 해석Mountjoy 2023 · Støren 2008 · Coifman · Dennis & Noakes 1999 바탕
+- 연구 결과를 바탕으로 한 코치 해석이에요 · 건강 문제는 의료 전문가와 상의하세요
+
+### 7편 25 정리  (`E7-Summary.dc.html`)
+
+- 정리한 장 요약
+- 체중계보다 어디에, 무엇이
+- 뼈받아들여요
+- 키·다리·뒤꿈치는 못 바꿔요
+- 지방천천히, 건강하게
+- 굶으면 뼈가 먼저 다쳐요
+- 근육종목에 맞게
+- 러너는 힘줄·신경, 하이록스는 근력도 기록 요소
+- 엘리트 체형은 결과이지 처방이 아니에요코치 해석
+- 7편 근거 요약 · 하이록스 근력 요소: HYROX 수행 분석 리뷰 (2025) Strength Cond J
+
+### 7편 26 참고문헌 ①  (`E7-Refs.dc.html`)
+
+- 참고문헌①
+- 1Sedeaud A et al. (2014) PLoS One · 종목별 BMI
+- 2Marc A et al. (2014) J Sports Sci · 마라톤 체형 추세
+- 3Billat V et al. (2003) Med Sci Sports Exerc · 케냐 엘리트
+- 4Lucia A et al. (2006) Appl Physiol Nutr Metab · 에리트레아
+- 5Kong PW, de Heer H (2008) J Sports Sci Med · 케냐 체형
+- 6Arrese AL, Ostáriz ES (2006) J Sports Sci · 피하지방
+- 7Legaz A, Eston R (2005) Br J Sports Med · 3년 추적
+- 8Barandun U et al. (2012) Open Access J Sports Med
+- 9Heikura IA et al. (2018) Int J Sport Nutr Exerc Metab
+- 10Barrack MT et al. (2014) Am J Sports Med
+- 11Kraus E et al. (2019) Br J Sports Med
+- 12Mountjoy M et al. (2023) Br J Sports Med · IOC REDs
+- 13Coifman I et al. Applied Ergonomics (2023 온라인)
+- 14Martin PE (1985) Med Sci Sports Exerc
+- 15Hoogkamer W et al. (2016) Med Sci Sports Exerc
+- 16Teunissen LPJ et al. (2007) J Exp Biol
+- 17Cureton KJ et al. (1978) Med Sci Sports
+- 18Cureton KJ, Sparling PB (1980) Med Sci Sports Exerc
+
+### 7편 27 참고문헌 ②  (`E7-Refs2.dc.html`)
+
+- 참고문헌②
+- 19Dennis SC, Noakes TD (1999) Eur J Appl Physiol
+- 20Marino FE et al. (2000) Pflügers Arch
+- 21Steudel-Numbers KL et al. (2007) J Hum Evol
+- 22Laumets R et al. (2017) J Hum Kinet
+- 23Scholz MN et al. (2008) J Exp Biol
+- 24Hansen 외 (2021) Physiol Rep
+- 25Kunimasa Y et al. (2014) Scand J Med Sci Sports
+- 26van Werkhoven H, Piazza SJ (2017) J Appl Biomech
+- 27Larsen 외 (2026) Exp Physiol · Berry (2026) 해설
+- 28Weston AR et al. (2000) Med Sci Sports Exerc
+- 29Mooses M et al. (2015) J Sports Sci
+- 30Støren Ø et al. (2008) Med Sci Sports Exerc
+- 31Llanos-Lagos C et al. (2024) Sports Med
+- 32Barnes KR et al. (2013) Med Sci Sports Exerc
+- 33Brandt T et al. (2025) Front Physiol · 하이록스
+- 34Rappelt L et al. (2026) Front Physiol · 하이록스 기록
+- 35하이록스 세계챔피언 사례연구 (2026) Ger J Exerc Sport Res
+- 36HYROX 리뷰 (2025) Strength Cond J · Rox Lyfe · Topendsports(집계)
+
