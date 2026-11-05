@@ -1403,49 +1403,7 @@
 - 실험 2025근력·점프 10주 뒤 90분째 산소: −2.1% vs 러닝만 +0.6%
 - Zanini et al. 2026 · Zanini et al. 2025 (28명) · Med Sci Sports Exerc
 
-### 재구성 23 팩트 체크 ① 맞아요·관련은 있어요  (`E3R-FactCheck.dc.html`)
-
-- 정리팩트 체크
-- 이코노미 팩트 체크 ①
-- 맞아요 · 실험으로 확인팔치기는 효율에 도움
-- 팔을 고정하고 달리면 비용 3~13%↑
-- 근력·점프는 효과가 있다
-- 작음~중간 · 필수는 아님
-- VO2max가 높으면 기록이 좋다
-- 혈액 재주입 실험으로 확인 · 단, 비슷한 수준끼리는 이코노미·역치가 갈라요
-- 관련은 있어요 · 상관, 인과는 아직많이 뛰면 이코노미가 오른다
-- 수년 사례와 관련 · 롱런은 '지친 뒤 이코노미'와 관련 · 6주 실험은 엇갈림
-- 근거: Arellano & Kram 2014 · Llanos-Lagos 2024 · Buick 1980 · Zanini 2026 · Franch 1998 · 판정은 연구 설계 기준 (실험 / 상관)
-
-### 재구성 24 팩트 체크 ② 애매해요  (`E3R-FactCheck2.dc.html`)
-
-- 정리팩트 체크
-- 이코노미 팩트 체크 ②
-- 애매해요 · 결과가 엇갈리거나 부족해요체중 1kg = km당 몇 초
-- 무게를 더한 실험뿐 · 감량 실험은 거의 없어요
-- 가벼운 신발일수록 무조건 이득
-- 100g ≈ 1%는 맞지만 쿠션이 상쇄하기도
-- 케이던스를 조금 올리면 효율↑
-- 초보는 최적보다 낮게 뛰는 편 · 소규모 실험, 결과 엇갈림 (−11% vs −3%)
-- 호흡을 2:2·3:2로 맞추면 효율↑
-- 소규모 연구뿐 · 결론이 없어요
-- 근거: Teunissen 2007 · Franz 2012 · de Ruiter 2014 · Quinn 2021 · 걸음-호흡 동기화는 소규모 연구뿐 (학위논문 포함)
-
-### 재구성 25 팩트 체크 ③ 틀려요·근거 없어요  (`E3R-FactCheck3.dc.html`)
-
-- 정리팩트 체크
-- 이코노미 팩트 체크 ③
-- 틀려요 · 근거 없어요케이던스는 180이 모두의 정답
-- 엘리트 레이스 페이스 숫자 · 최적은 사람마다
-- 앞꿈치 착지가 더 효율적
-- 차이 없음 · 바꾸면 단기적으로 오히려 나빠짐
-- 유연할수록 효율적
-- 근거 없어요 · 오히려 덜 유연한 러너가 더 경제적 (상관)
-- 카본화는 누구나 4%
-- 카본화로 바꿔도 사람마다 −11 ~ +11%까지 갈렸어요
-- 근거: de Ruiter 2014 · Anderson 2020 · Jones 2002 · Knopp 2023
-
-### 재구성 26 결국 무엇이 효과적일까  (`E3R-Conclusion.dc.html`)
+### 재구성 23 결국 무엇이 효과적일까  (`E3R-Conclusion.dc.html`)
 
 - 정리결국 무엇이 효과적일까
 - 근거가 강한 순서로
@@ -1460,7 +1418,7 @@
 - 바탕은 꾸준히 많이 달리기, 가장 확실히 증명된 건 근력·점프근거 약함·없음: 자세 교정 · 착지법 · 스트레칭
 - Llanos-Lagos 2024 · González-Mohíno 2020 · Ferley 2014 · Knopp 2023 · Zanini 2026 · Van Hooren 2024
 
-### 재구성 27 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
+### 재구성 24 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
 
 - 실천오늘부터 할 일
 - 내 이코노미를 위해 오늘부터 할 일 ①
@@ -1472,7 +1430,7 @@
 - 메인 훈련을 대신하지 말고 위에 얹기
 - Zanini 2026 · Llanos-Lagos 2024 · Støren 2008 · Barnes 2013 · Ferley 2014
 
-### 재구성 28 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
+### 재구성 25 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
 
 - 실천오늘부터 할 일
 - 내 이코노미를 위해 오늘부터 할 일 ②
@@ -1482,7 +1440,7 @@
 - 레이스 페이스로 미리 달려보기 · 느낌·심박으론 1~3% 차이 구별 어려워요
 - de Ruiter 2014 · Heiderscheit 2011 · Knopp 2023 · Aubry 2018 · 5번은 코치 해석이에요
 
-### 재구성 29 참고문헌 ①  (`E3R-Refs.dc.html`)
+### 재구성 26 참고문헌 ①  (`E3R-Refs.dc.html`)
 
 - 참고참고문헌
 - 참고문헌 ①
@@ -1508,7 +1466,7 @@
 - 20Iaia et al. (2009) J Appl Physiol
 - 현장 자료NN Running Team (Patrick Sang) · Running Magazine · Coros (Ingebrigtsen) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie) · The Running Channel · Daniels' Running Formula (1984 올림픽 관찰)
 
-### 재구성 30 참고문헌 ②  (`E3R-Refs2.dc.html`)
+### 재구성 27 참고문헌 ②  (`E3R-Refs2.dc.html`)
 
 - 참고참고문헌
 - 참고문헌 ②
@@ -1534,7 +1492,7 @@
 - 추가Franch 1998 MSSE · González-Mohíno 2020 Sports Med · Buick 1980 J Appl Physiol · Brandt 2025 Front Physiol · Scholz 2008 J Exp Biol
 - 사진Wikimedia Commons · yaaaay (CC BY 2.0) · Tiia Monto, Bob Ramsak, Hjfm 003, franchise opportunities (CC BY-SA) · LexSprinter (CC BY-SA 3.0) · 미 육군·미 해병대, Gray's Anatomy (퍼블릭 도메인)
 
-### 재구성 31 다음 편 예고  (`E3R-Next.dc.html`)
+### 재구성 28 다음 편 예고  (`E3R-Next.dc.html`)
 
 - 다음 편 예고젖산역치
 - 빠른 페이스를 얼마나 오래? 젖산역치가 정해요
