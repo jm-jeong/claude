@@ -1105,8 +1105,9 @@
 - 175
 - 2003
 - −15%
-- 같은 산소로 더 빨리: VO2max 속도 20.5 → 23.5km/h
-- Jones (2006) 그림 3·4·5 수치로 다시 그림 · 대표값 · 본문엔 18세 VO2max 72
+- VO2max의 맹점
+- VO2max는 그대로인데, 그 산소로 낼 수 있는 속도는 20.5 → 23.5km/h VO2max 숫자만 보면 11년의 발전이 안 보여요
+- Jones (2006) 그림 3·4·5 수치로 다시 그림 · 대표값 · VO2max 속도 = VO2max ÷ 이코노미로 계산한 속도
 
 ### 재구성 05 래드클리프 무엇이 바뀌었나  (`E3R-Radcliffe2.dc.html`)
 
@@ -1444,7 +1445,22 @@
 - 카본화로 바꿔도 사람마다 −11 ~ +11%까지 갈렸어요
 - 근거: de Ruiter 2014 · Anderson 2020 · Jones 2002 · Knopp 2023
 
-### 재구성 26 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
+### 재구성 26 결국 무엇이 효과적일까  (`E3R-Conclusion.dc.html`)
+
+- 정리결국 무엇이 효과적일까
+- 근거가 강한 순서로
+- 1근력·점프 훈련메타분석
+- 러닝에 더하면 약 2~8%↓ · 고중량과 점프를 함께가 가장 커요
+- 2달리기 자체메타분석·실험
+- 일반 러너는 지속주가 인터벌보다 효과 · 업힐 ≈ 평지
+- 3신발실험
+- 평균 약 2~4%↓ · 사람마다 −11~+11%
+- 4수년의 마일리지·롱런상관
+- 이코노미 좋고 지쳐도 덜 무너져요 · 원인 단정은 어려워요
+- 바탕은 꾸준히 많이 달리기, 가장 확실히 증명된 건 근력·점프근거 약함·없음: 자세 교정 · 착지법 · 스트레칭
+- Llanos-Lagos 2024 · González-Mohíno 2020 · Ferley 2014 · Knopp 2023 · Zanini 2026 · Van Hooren 2024
+
+### 재구성 27 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
 
 - 실천오늘부터 할 일
 - 내 이코노미를 위해 오늘부터 할 일 ①
@@ -1456,7 +1472,7 @@
 - 메인 훈련을 대신하지 말고 위에 얹기
 - Zanini 2026 · Llanos-Lagos 2024 · Støren 2008 · Barnes 2013 · Ferley 2014
 
-### 재구성 27 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
+### 재구성 28 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
 
 - 실천오늘부터 할 일
 - 내 이코노미를 위해 오늘부터 할 일 ②
@@ -1466,7 +1482,7 @@
 - 레이스 페이스로 미리 달려보기 · 느낌·심박으론 1~3% 차이 구별 어려워요
 - de Ruiter 2014 · Heiderscheit 2011 · Knopp 2023 · Aubry 2018 · 5번은 코치 해석이에요
 
-### 재구성 28 참고문헌 ①  (`E3R-Refs.dc.html`)
+### 재구성 29 참고문헌 ①  (`E3R-Refs.dc.html`)
 
 - 참고참고문헌
 - 참고문헌 ①
@@ -1492,7 +1508,7 @@
 - 20Iaia et al. (2009) J Appl Physiol
 - 현장 자료NN Running Team (Patrick Sang) · Running Magazine · Coros (Ingebrigtsen) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie) · The Running Channel · Daniels' Running Formula (1984 올림픽 관찰)
 
-### 재구성 29 참고문헌 ②  (`E3R-Refs2.dc.html`)
+### 재구성 30 참고문헌 ②  (`E3R-Refs2.dc.html`)
 
 - 참고참고문헌
 - 참고문헌 ②
@@ -1518,7 +1534,7 @@
 - 추가Franch 1998 MSSE · González-Mohíno 2020 Sports Med · Buick 1980 J Appl Physiol · Brandt 2025 Front Physiol · Scholz 2008 J Exp Biol
 - 사진Wikimedia Commons · yaaaay (CC BY 2.0) · Tiia Monto, Bob Ramsak, Hjfm 003, franchise opportunities (CC BY-SA) · LexSprinter (CC BY-SA 3.0) · 미 육군·미 해병대, Gray's Anatomy (퍼블릭 도메인)
 
-### 재구성 30 다음 편 예고  (`E3R-Next.dc.html`)
+### 재구성 31 다음 편 예고  (`E3R-Next.dc.html`)
 
 - 다음 편 예고젖산역치
 - 빠른 페이스를 얼마나 오래? 젖산역치가 정해요
