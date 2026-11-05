@@ -1415,8 +1415,8 @@
 - 평균 약 2~4%↓ · 사람마다 −11~+11%
 - 4수년의 마일리지·롱런상관
 - 이코노미 좋고 지쳐도 덜 무너져요 · 원인 단정은 어려워요
-- 바탕은 꾸준히 많이 달리기, 가장 확실히 증명된 건 근력·점프근거 약함·없음: 자세 교정 · 착지법 · 스트레칭
-- Llanos-Lagos 2024 · González-Mohíno 2020 · Ferley 2014 · Knopp 2023 · Zanini 2026 · Van Hooren 2024
+- 바탕은 꾸준히 많이 달리기, 가장 확실히 증명된 건 근력·점프근거 약함·없음: 자세 교정 · 착지법 · 스트레칭고지대 훈련은 주로 산소 공급(VO2max)을 늘려요 · 이코노미 개선 실험은 아직 한두 편 → 5편에서
+- Llanos-Lagos 2024 · González-Mohíno 2020 · Ferley 2014 · Knopp 2023 · Zanini 2026 · Van Hooren 2024 · Saunders 2004
 
 ### 재구성 24 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
 
@@ -3401,27 +3401,4 @@
 - 34Rappelt L et al. (2026) Front Physiol · 하이록스 기록
 - 35하이록스 세계챔피언 사례연구 (2026) Ger J Exerc Sport Res
 - 36HYROX 리뷰 (2025) Strength Cond J · Rox Lyfe · Topendsports(집계)
-
-
-## 3편 재구성안
-
-### 시안 · 02장 대체 후보: 세 요소 도식  (`E3R-WhyModel.dc.html`)
-
-- 개념세 요소의 관계
-- 세 가지가 모여 레이스 페이스가 된다
-- 모델Coyle · Joyner의 지구력 모델
-- 레이스 페이스
-- 오래 유지하는 속도
-- 오래 쓸 수 있는 산소
-- 1분 · 체중 1kg당
-- 러닝 이코노미
-- 1km에 드는 산소
-- VO2max
-- 엔진: 최대 산소
-- 젖산역치
-- 그중 몇 %를 오래 쓰나
-- ×
-- ÷
-- 예: 60 × 85% = 51 → 240 ÷ 51 → 4:42/km
-- Coyle (1995) · Joyner & Coyle (2008) J Physiol · Jones (2006) 그림 1을 다시 그림 · 예시는 1편 러너
 
