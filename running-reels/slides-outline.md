@@ -998,7 +998,7 @@
 
 - 러닝 3요소 · 3편
 - 같은 페이스, 다른 산소. 러닝 이코노미
-- VO2max도 체중도 같은 두 러너가 6:00/km로 달려도 쓰는 산소는 10% 달라요. 이 차이, 무엇으로 줄일 수 있을까요?
+- VO2max도 체중도 같은 두 러너, 6:00/km에서 쓰는 산소가 10% 달라요. 이 차이, 무엇으로 줄일 수 있을까요?
 - 러너 A
 - 240
 - ml/kg/km · 1km에 드는 산소
@@ -1008,11 +1008,11 @@
 - ml/kg/km · 1km에 드는 산소
 - 예시값 · 1편 비교 러너 (1분 산소 40 vs 44 × 6분)
 
-### 재구성 01 러닝 이코노미란 · 측정  (`E3R-Def.dc.html`)
+### 재구성 01 러닝 이코노미란  (`E3R-Def.dc.html`)
 
 - 개념러닝 이코노미란
-- 같은 페이스로 쭉 달릴 때 1km에 드는 산소
-- 자동차로 치면 연비 · 단위 ml/kg/km · 낮을수록 좋아요
+- 같은 페이스로 달릴 때 1km에 드는 산소
+- 자동차 연비처럼 · 낮을수록 좋아요
 - 0
 - 20
 - 40
@@ -1024,29 +1024,31 @@
 - 5
 - 6
 - 시간 (분)
-- 산소섭취량 (ml/kg/min)
-- 예시 데이터
+- 산소 (ml/kg/분)
 - 40
-- 안정된 구간 평균
-- 1km 6:00 페이스 고정 · 6분 내내 같은 페이스로
-- 호흡마다 측정한 값
-- 평균 추세
-- 논문은 이렇게 잰다
-- 같은 사람을 다시 재도 약 2~3% 흔들려요
-- 1러닝머신 경사 1%
-- 야외에서 받는 공기 저항만큼 비용을 맞추려고
-- 2역치보다 느린 속도 · 단계당 3~5분
-- 산소가 안정될 때까지 · 역치를 넘으면 젖산이 쌓여 산소로 다 못 재요
-- 3마스크로 마지막 1~2분 평균
-- 그래프의 초록 구간 · 같은 시간대·식사·신발로 통제
-- 4× 1km 걸린 시간 = ml/kg/km
-- 40 × 6분 = 240 · 최신 연구는 kcal/kg/km로도 표시
-- Jones & Doust (1996) J Sports Sci · Barnes & Kilding (2015) Sports Med Open · Saunders et al. (2004) 측정 오차 2.4% · 시계는 산소를 재지 않아 이코노미를 직접 알 수 없어요
+- 안정된 구간
+- 1km 6:00 페이스 고정 · 6분 동안
+- 예시 데이터
+- 40 × 6분 = 240 ml/kg/km
+- Barnes & Kilding (2015) Sports Med Open · 그래프는 예시 데이터
 
-### 재구성 02 왜 중요할까  (`E3R-Why.dc.html`)
+### 재구성 02 논문은 이렇게 잰다  (`E3R-Measure.dc.html`)
+
+- 개념논문은 이렇게 잰다
+- 러닝 이코노미는 이렇게 재요
+- 1러닝머신 경사 1%
+- 야외 공기 저항만큼 비용을 맞추려고
+- 2역치보다 느린 속도로 3~5분씩
+- 산소가 안정된 마지막 1~2분을 평균
+- 3× 1km 걸린 시간 = ml/kg/km
+- 요즘은 kcal/kg/km로도 표시해요
+- 다시 재도 약 2~3% 흔들려요. 시계는 산소를 재지 않아요.
+- Jones & Doust (1996) J Sports Sci · Saunders et al. (2004) Med Sci Sports Exerc · Barnes & Kilding (2015) Sports Med Open
+
+### 재구성 03 왜 중요할까  (`E3R-Why.dc.html`)
 
 - 개념왜 중요할까
-- 엔진 · 버티는 힘 · 연비, 셋이 함께 기록을 만든다
+- 엔진·버티는 힘·연비, 셋이 기록을 만든다
 - 엔진
 - VO2max
 - ×
@@ -1056,43 +1058,41 @@
 - 연비
 - 이코노미
 - =
-- 버틸 수 있는
+- 결과
 - 속도
-- 모델 계산1편 예시 러너 · VO2max 60 · 역치에서 85%(1분에 산소 51 ml/kg)까지 버팀
-- 이코노미 2401편 예시 그대로
-- 240
-- 4:42/km
-- 이코노미 21610% 좋아지면
-- 216
-- 4:14/km
-- 엔진과 역치가 같아도 연비가 10% 좋으면 역치 페이스가 약 28초 빨라져요. 실제 기록 변화는 공기 저항 때문에 빠를수록 이보다 작아요 (엘리트 속도에선 약 2/3).
-- 측정 연구2시간 마라톤 후보 16명 (Breaking2)
-- VO2max
-- 71
-- 젖산 전환점
-- 92%
-- 이코노미 (7명)
-- 191
-- 높은 VO2max는 전제예요. 정상급끼리는 그 위에서 이코노미와 역치가 차이를 만들어요.
-- Joyner (1991) J Appl Physiol 모델 · Jones et al. (2021) J Appl Physiol · Kipp, Kram & Hoogkamer (2019) Front Physiol · 계산: 51 ÷ 이코노미 = km/분
+- 모델 계산VO2max 60 · 역치 85%로 같은 러너
+- 이코노미 240
+- 4:42
+- 10% 좋아지면 216
+- 4:14
+- 역치 페이스가 1km에 약 28초 빨라져요
+- 실제 기록은 빠를수록 덜 바뀌어요 (엘리트 속도에선 약 2/3)
+- Joyner (1991) J Appl Physiol 모델 · Kipp, Kram & Hoogkamer (2019) Front Physiol · 페이스 = 이코노미 ÷ 역치 산소 51
 
-### 재구성 03 래드클리프 11년  (`E3R-Radcliffe.dc.html`)
+### 재구성 04 래드클리프 2:15:25  (`E3R-Radcliffe.dc.html`)
+
+- 엘리트 사례래드클리프
+- 11년 동안 실험실에서 추적한 세계기록 보유자
+- 폴라 래드클리프
+- 2:15:25
+- 2003.4.13 런던 마라톤
+- 여자 마라톤 세계기록 · 16년 유지
+- 18세(1992)부터 거의 매년 VO2max와 이코노미를 쟀어요
+- Jones (2006) Int J Sports Sci Coach · World Athletics · 사진: 2005 런던 마라톤, yaaaay (CC BY 2.0, Wikimedia Commons)
+
+### 재구성 05 래드클리프 11년 그래프  (`E3R-RadcliffeChart.dc.html`)
 
 - 엘리트 사례래드클리프 11년
-- VO2max는 그대로, 러닝 이코노미만 15% 좋아졌다
-- 폴라 래드클리프 · 2003.4.13 런던 마라톤
-- 2:15:25
-- 여자 마라톤 세계기록 · 2019년까지 16년 유지 1992~2003년 거의 매년 측정한 기록의 끝이 바로 이 해 사진은 2005 런던 마라톤
-- VO2max
+- VO2max는 그대로, 이코노미는 15%↓
+- VO2max (ml/kg/분)
 - 70
 - 71
 - 67
 - 69
 - 75
 - 70
-- ≈ 70 그대로 (본문: 18세 72)
-- 러닝 이코노미
-- 16km/h · ml/kg/km · 낮을수록 좋음 · 축은 160부터
+- ≈ 70 그대로
+- 1km에 드는 산소 · 16km/h · ml/kg/km · 축은 160부터
 - 205
 - 1992
 - 195
@@ -1106,322 +1106,417 @@
 - 175
 - 2003
 - −15%
-- 같은 산소로 더 빨리 → VO2max 때 속도 20.5 → 23.5 km/h
-- Jones (2006) Int J Sports Sci Coach 그림 3·4·5 수치로 다시 그림 · 경사 1% · 16km/h · 대표값 · 사진: yaaaay (CC BY 2.0, Wikimedia Commons)
+- 같은 산소로 더 빨리: VO2max 속도 20.5 → 23.5km/h
+- Jones (2006) 그림 3·4·5 수치로 다시 그림 · 대표값 · 본문엔 18세 VO2max 72
 
-### 재구성 04 래드클리프 무엇이 바뀌었나  (`E3R-Radcliffe2.dc.html`)
+### 재구성 06 래드클리프 무엇이 바뀌었나  (`E3R-Radcliffe2.dc.html`)
 
 - 엘리트 사례무엇이 바뀌었나
-- 몸은 그대로, 달리는 속도의 기준이 바뀌었다
-- 12
-- 14
-- 16
-- 18
-- 20
-- 22
-- 24
-- 속도 (km/h) · 오른쪽일수록 빠름
-- 젖산역치
-- 젖산이 쌓이기 시작
+- 체중은 54kg 그대로, 역치 속도는 +3.5km/h
+- 젖산역치 속도
 - 14~15
+- →
 - 17.5~18.5
+- km/h
 - 젖산 전환점
-- 젖산이 급히 오르는 지점
 - 16
+- →
 - 20
-- 젖산 3mM 속도
-- 같은 피로도의 속도
-- 16
-- 21
-- VO2max 때 속도
-- 산소 천장에서의 속도
-- 20.5
-- 23.5
-- 1992
-- 2003
-- 체중 약 54kg → 약 54kg 그대로
+- km/h
 - 그 사이 바뀐 훈련
-- 주간 거리18세 때 주 40~48km 미만 → 마라톤 훈련기 주 193~257km
-- 근력주 2회 정도 웨이트 · 수직점프 29cm(1996) → 38cm(2003)
-- 고지대훈련 상당 부분을 고지대에서 · 평소 달리기 대부분 3:20~3:40/km
-- 본인 말코어 안정성 · 메디신볼 · 웨이트 (2020 인터뷰) · 물리치료사 Gerard Hartmann과 폭발력 훈련 보강 (2002)
-- 1명 사례 · 저자도 원인을 하나로 꼽기 어렵다고 했어요 · 2003년 이후 이코노미는 165까지 더 좋아졌어요
-- Jones (2006) 그림 6 · 본문 · Sports Illustrated (2002) · Coventry Telegraph (2020)
+- 주간 거리40~48km → 193~257km
+- 웨이트주 2회 · 점프 29 → 38cm
+- 고지대훈련 상당 부분을 고지대에서
+- 1명 사례 · 원인을 하나로 꼽기 어려워요
+- Jones (2006) Int J Sports Sci Coach 본문·그림 6 · 1992 → 2003
 
-### 재구성 05 무엇이 정하나  (`E3R-Factors.dc.html`)
+### 재구성 07 타고난 몸  (`E3R-Factors.dc.html`)
 
-- 구조무엇이 정하나
-- 타고난 몸 vs 바꿀 수 있는 4가지
-- 타고난 몸
-- 바꾸기 어려워요
-- 가는 종아리와 발목실험
-- 체중이 아니라 다리 끝이 가벼운 것 · 신발 한 짝 100g ≈ +1%
+- 구조타고난 몸
+- 타고난 몸, 무엇이 진짜 유리할까
+- 가는 종아리·발목실험
+- 다리 끝이 가벼울수록 · 한 짝 100g ≈ +1%
 - 긴 정강이 · 체형상관
-- 엘리트 비교에서 함께 나타남 · 원인인지는 몰라요
-- 발 크기 · 아킬레스 구조엇갈림
-- 발 치수는 관련 없었고, 힘줄 구조는 연구마다 반대
-- 바꿀 수 있는 것
-- 위에서부터 바탕 → 보조
-- ① 수년간의 달리기사례·상관
-- 이코노미의 바탕 · 몇 주가 아니라 몇 년 단위
+- 엘리트에게 많지만 원인인지는 몰라요
+- 발 크기 · 아킬레스엇갈림
+- 발 치수는 무관 · 힘줄 구조는 연구마다 반대
+- 왜?다리를 휘두르는 비용이 줄어요. 망치도 끝을 잡고 휘두르면 더 힘들죠.
+- Franz (2012) · Coifman (2024) · Lucia (2006) · van Werkhoven & Piazza (2017) · 사진: Tiia Monto, Bob Ramsak (CC BY-SA 4.0) · Gray's Anatomy (퍼블릭 도메인)
+
+### 재구성 08 바꿀 수 있는 4가지  (`E3R-Changeable.dc.html`)
+
+- 구조바꿀 수 있는 것
+- 바꿀 수 있는 4가지, 바탕부터 순서대로
+- ① 러닝 마일리지 쌓기사례·상관
+- 몇 주가 아니라 몇 년 단위
 - ② 근력 · 점프 · 업힐실험
-- 효과 작음~중간 · 몇 % · 필수는 아님
+- 효과 작음~중간 · 필수는 아님
 - ③ 신발실험
-- 평균 2~4% · 개인차 큼 · 느린 속도에선 더 작을 수도
-- ④ 체지방실험
-- 몸통에 무게를 더하면 산소도 거의 비례해서 늘어요
-- 왜 유리할까달릴 때 에너지는 대부분 몸을 받쳐 올리고 다리를 휘두르는 데 써요. 다리 끝이 가벼우면 휘두르는 비용이 줄어요(망치 끝을 잡으면 더 힘든 것처럼). 체형 연구는 상관이지 원인 증명이 아니에요.
-- Franz et al. (2012) · Teunissen et al. (2007) · Coifman et al. (2024) · Lucia et al. (2006) · van Werkhoven & Piazza (2017) · Llanos-Lagos et al. (2024) · Knopp et al. (2023) 사진: Wikimedia Commons · Tiia Monto, Bob Ramsak, Hjfm 003, franchise opportunities (CC BY-SA) · yaaaay (CC BY 2.0) · 미 육군, Gray's Anatomy (퍼블릭 도메인)
+- 평균 약 2~4% · 사람마다 크게 달라요
+- ④ 체지방무게 실험
+- 무게를 더하면 산소도 거의 비례해 늘어요
+- Jones 2006 · Llanos-Lagos 2024 · 2025 신발 리뷰 · Teunissen 2007 · 사진: yaaaay (CC BY 2.0) · 미 육군 (PD) · Hjfm 003, franchise opportunities (CC BY-SA)
 
-### 재구성 06 바탕은 수년간의 달리기  (`E3R-Running.dc.html`)
+### 재구성 09 러닝 마일리지 쌓기  (`E3R-Running.dc.html`)
 
-- 핵심바탕은 달리기
-- 이코노미의 바탕은 수년간 쌓인 달리기
-- 6주단기
-- 실험개선 없음
-- 남자 러너 15명 · VO2max는 57.7 → 61.3으로 올랐는데 이코노미는 그대로. 느린 측정 속도 탓일 수 있다고 저자도 봤어요
-- 11년장기
-- 사례래드클리프 −15%
-- 주 40~48km 미만 → 193~257km · 이코노미 205 → 175 · 근력·고지대도 함께 바뀌어 원인은 하나로 못 꼽아요
-- 롱런90분+
-- 상관지쳐도 덜 무너져요
-- 기록 같은 26명 · 정기적으로 90분 이상 달리는 그룹은 90분째 이코노미 악화 +3.1%, 70분 미만만 달리는 그룹은 +6.0%
-- 엘리트현장
-- 현장주 160~220km · 80% 이상 저강도
-- 세계 정상급 마라토너 훈련 분석 · 많이, 대부분 편하게 달려요
-- 그런데 왜 "확실하다"고 못 할까?
-- 1훈련량만 바꿔서 몇 년 비교한 실험은 거의 없어요
-- 2거꾸로일 수도 있어요. 원래 이코노미가 좋은 사람이 다치지 않고 많이 달릴 수 있는 걸지도요
-- Lake & Cavanagh (1996) Med Sci Sports Exerc · Jones (2006) · Zanini, Folland & Blagrove (2026) Med Sci Sports Exerc · Haugen et al. (2022) Sports Med Open
+- 핵심러닝 마일리지 쌓기
+- 이코노미의 바탕은 수년간 쌓은 마일리지
+- 6주
+- 개선 없음 (15명)실험
+- VO2max는 올랐는데 이코노미는 그대로
+- 11년
+- 래드클리프 −15%사례
+- 주 40~48km → 193~257km
+- 엘리트
+- 주 160~220km현장
+- 80% 이상은 편한 강도로
+- → 몇 주가 아니라 몇 년 단위로 보세요
+- Lake & Cavanagh (1996) Med Sci Sports Exerc · Jones (2006) · Haugen et al. (2022) Sports Med Open
 
-### 재구성 07 보조① 근력 · 점프  (`E3R-Strength.dc.html`)
+### 재구성 10 왜 확실하다고 못 할까  (`E3R-Uncertain.dc.html`)
+
+- 그런데확실하지 않은 이유
+- 그런데 왜 “확실하다”고 못 할까?
+- 1훈련량만 바꾼 장기 실험이 없어요
+- 6주 실험에선 이코노미가 그대로였어요
+- 2거꾸로일 수도 있어요
+- 이코노미가 좋은 사람이 다치지 않고 많이 뛸 수 있어요
+- 3많이 뛰는 사람은 다른 것도 달라요
+- 경력·체형·근력… 비교 연구로는 못 가려요
+- → “많이 뛰면 오른다”는 아직 관련(상관)이에요
+- Lake & Cavanagh (1996) Med Sci Sports Exerc · 2·3번은 비교 연구의 일반적인 한계
+
+### 재구성 11 보조① 근력 · 점프  (`E3R-Strength.dc.html`)
 
 - 보조 ①근력 · 점프
-- 무겁게 적게, 튀어 오르기 몇 %를 더 얹는다
-- 메타분석 2024중장거리 러너 652명 · 6~24주 · 주 1~4회 · 러닝만 한 그룹과 비교
-- 둘 이상 섞기고중량 + 점프 등
-- 중간 효과 0.43
-- 점프(플라이오)12km/h 이하에서
-- 작은 효과 0.31
-- 고중량1RM 80% 이상
-- 작은 효과 0.27
-- 중간 무게 · 버티기1RM 40~79% · 등척성
+- 근력·점프 훈련, 몇 %를 더 얹는다
+- 메타분석 2024중장거리 러너 652명 · 6~24주
+- 섞어서 하기
+- 고중량 + 점프
+- 중간 0.43
+- 점프(플라이오)
+- 12km/h 이하에서
+- 작음 0.31
+- 고중량
+- 1RM 80% 이상
+- 작음 0.27
+- 중간 무게·버티기
+- 1RM 40~79% · 등척성
 - 효과 없음
-- 근거 확실성 중간(혼합은 낮음) · 고중량은 빠른 속도·높은 VO2max에서 효과가 더 컸어요
-- 하프 스쿼트 실험
-- 4세트 × 4회(최대 무게) · 주 3회 · 8주 · 내려갈 땐 천천히, 올라올 땐 최대한 빠르게
-- 이코노미 +5%
+- 필수는 아니에요. 효과는 몇 % 수준이에요
+- Llanos-Lagos et al. (2024) Sports Med · 근거 확실성 중간 (섞기는 낮음) · 숫자는 효과 크기
+
+### 재구성 12 근력 · 점프 실제 처방  (`E3R-StrengthRx.dc.html`)
+
+- 보조 ①실제 처방
+- 연구에서 효과 본 두 가지 처방
+- 하프 스쿼트실험
+- 4세트 × 4회 · 최대 무게 주 3회 · 8주
+- 이코노미 5% 좋아짐
 - 훈련된 러너 17명 · Støren 2008
-- 플라이오 실험
-- 착지 즉시 튀어 오르는 점프 30분 · 주 3회 · 9주
-- 18km/h에서 +4.1%
-- 고도로 훈련된 15명 · 14·16km/h는 변화 없음 · Saunders 2006
-- 필수는 아니에요. 효과는 몇 % 수준이고, 케냐 정상급 상당수는 체육관 대신 언덕·드릴로 비슷한 자극을 받아요.
-- Llanos-Lagos et al. (2024) Sports Med · Støren et al. (2008) Med Sci Sports Exerc · Saunders et al. (2006) J Strength Cond Res · 사진은 동작 예시: 미 해병대·미 육군 (퍼블릭 도메인, Wikimedia Commons)
+- 점프(플라이오)실험
+- 착지 즉시 튀어 오르기 30분 · 주 3회 · 9주
+- 18km/h에서 4.1% 좋아짐
+- 15명 · 느린 속도는 변화 없음
+- Støren et al. (2008) Med Sci Sports Exerc · Saunders et al. (2006) J Strength Cond Res · 사진은 동작 예시: 미 해병대·미 육군 (퍼블릭 도메인)
 
-### 재구성 08 보조② 업힐 · 짧은 질주  (`E3R-Hills.dc.html`)
+### 재구성 13 보조② 업힐 인터벌 방법  (`E3R-Hills.dc.html`)
 
-- 보조 ②업힐 · 짧은 질주
-- 언덕과 짧은 질주, 근거는 있지만 크기는 작다
-- 업힐 인터벌 6주 무작위 실험
-- 강도를 다르게 한 5개 그룹으로 비교했어요. 이코노미는 가장 센 강도가 가장 좋았고, 5km 기록은 강도와 상관없이 좋아졌어요.
-- 이코노미 +2.4% (±1.4)5km 기록 평균 +2.0%
-- Barnes et al. (2013) Int J Sports Physiol Perform
-- 30초 질주 4주 소규모 · 주의
-- 주 45km 대신 30초 질주 8~12회(사이 3분 휴식) + 쉬운 러닝, 총 주 15.6km. 같은 속도에서 산소를 6~8% 덜 썼어요. 다만 훈련량을 65% 줄여 피로가 빠진 효과가 섞였고, 17명뿐이며, 10km 기록은 그대로였어요.
-- Iaia et al. (2008) J Appl Physiol · 후속 연구(12명, 훈련량 −25%)에선 10km 37.3 → 36.3분 · Bangsbo et al. (2009)
-- 케냐 · Canova 방식 현장 사례
-- 기초기에 많은 양의 편한 달리기와 함께 짧은 업힐 스프린트, 기술 드릴을 넣어요. "근력 훈련은 체육관이 아니라 트레일 위에서"라는 말도 있어요.
-- Renato Canova 훈련 체계 · 동아프리카 러너 지도자 Shane Benzie 인터뷰
-- 얹기바탕 훈련을 대신하는 게 아니라 그 위에 짧게 얹는 훈련이에요.
-- Barnes, Hopkins, McGuigan & Kilding (2013) · Iaia et al. (2008) · Bangsbo et al. (2009) · Wikipedia: Renato Canova · Yahoo News (Benzie)
+- 보조 ②업힐 인터벌
+- 연구 속 업힐 인터벌, 이렇게 했어요
+- 실험잘 훈련된 러너 32명 · 6주 · 러닝머신
+- 경사
+- 10%
+- 한 번에
+- 30초
+- 반복
+- 10~14회
+- 회복
+- 심박이 최대의 65%로 내려올 때까지
+- 속도평지 VO2max 때 속도 그대로
+- 횟수주 2회 + 45~60분 지속주 주 2회
+- 비교평지 그룹: 같은 속도로 4~6회, 더 길게
+- Ferley, Osborn & Vukovich (2014) J Strength Cond Res · 평지 그룹은 그 속도로 버티는 시간의 60%씩
 
-### 재구성 09 엘리트는 이렇게 한다  (`E3R-Elites.dc.html`)
+### 재구성 14 업힐 인터벌 결과  (`E3R-HillsEvidence.dc.html`)
+
+- 보조 ②업힐의 효과
+- 효과는 있었지만, 업힐이라서일까?
+- 실험 20146주 뒤 같은 속도에서 드는 산소
+- 업힐 그룹
+- −8.4%
+- 평지 그룹
+- −4.2%
+- 하던 대로
+- −6.8%
+- 훈련을 안 바꾼 그룹도 비슷하게 좋아졌어요
+- 실험 2013업힐 강도만 다르게 5그룹
+- 가장 센 강도: 이코노미 2.4% 좋아짐
+- 5km 기록: 평균 2.0% 빨라짐 (강도 무관)
+- → 업힐도 좋은 인터벌, 평지보다 낫다는 근거는 아직
+- Ferley et al. (2014, 2013) J Strength Cond Res · Barnes et al. (2013) Int J Sports Physiol Perform · 2013 연구엔 평지·대조 그룹 없음
+
+### 재구성 15 현장의 업힐 훈련  (`E3R-HillsPractice.dc.html`)
+
+- 보조 ②현장의 업힐 훈련
+- 선수들은 언덕을 이렇게 써요
+- 현장 사례코치 자료 · 효과 크기는 연구로 확인 안 됨
+- 짧은 언덕 질주
+- 약 10초 전력 · 걸어 내려오며 완전히 회복
+- 케냐식 언덕
+- 오르막은 세게, 내리막도 쉬지 않고 이어 달리기
+- Canova 업힐 서킷
+- 짧은 오르막 + 바운딩·스킵을 섞어서
+- → 대부분 편한 달리기를 많이 하는 기초기에 얹어요
+- Renato Canova 훈련 체계 (Wikipedia) · The Running Channel: Kenyan hills · 코치 블로그 정리 · 거리·경사는 코치마다 달라요
+
+### 재구성 16 짧은 질주  (`E3R-Sprint.dc.html`)
+
+- 보조 ②짧은 질주
+- 30초 질주 4주, 산소 6~8%↓ 그런데
+- 30초 질주 8~12회 사이 3분 휴식 주 45km → 15.6km
+- 주의할 점
+- 훈련량을 65% 줄여 피로가 빠진 효과가 섞였어요
+- 17명 · 4주뿐이에요
+- 10km 기록은 그대로였어요
+- Iaia et al. (2008) J Appl Physiol · 사진: LexSprinter (CC BY-SA 3.0, Wikimedia Commons)
+
+### 재구성 17 엘리트는 이렇게 ①  (`E3R-Elites.dc.html`)
 
 - 현장엘리트는 이렇게
-- 엘리트의 실제 훈련, 많이 달리고 + 조금 강하게
-- 폴라 래드클리프
-- 논문 기록
+- 엘리트의 실제 훈련 ① 많이 달리고, 조금 강하게
+- 폴라 래드클리프논문 기록
 - 주 193~257km · 대부분 3:20~3:40/km
 - 역치 근처 템포 + 주 1~2회 고강도
 - 웨이트 주 2회 정도 · 고지대
-- 엘리우드 킵초게
-- 팀 영상·기사
-- 주 2회 약 60분 근력·가동성
-- 밴드·맨몸: 브리지, 플랭크, 한 발 데드리프트, 균형
-- 목적은 부상 예방 · 코치 Patrick Sang이 도입
-- 야콥 잉게브릿센
-- 인터뷰·브랜드 콘텐츠
-- 주 4회 근력
-- 주 초반: 드릴 · 가동성 · 플라이오
-- 금·일: 웨이트
-- 케냐 · Renato Canova
-- 코치 자료
+- 엘리우드 킵초게팀 영상·기사
+- 근력·가동성 주 2회 약 60분
+- 밴드·맨몸: 브리지, 플랭크, 균형
+- 목적은 부상 예방 · 코치 Patrick Sang
+- Jones (2006) Int J Sports Sci Coach · NN Running Team · Running Magazine
+
+### 재구성 18 엘리트는 이렇게 ②  (`E3R-Elites2.dc.html`)
+
+- 현장엘리트는 이렇게
+- 엘리트의 실제 훈련 ② 근력·언덕은 이렇게
+- 야콥 잉게브릿센인터뷰·브랜드
+- 근력 주 4회
+- 주 초반 드릴·점프 · 금·일 웨이트
+- 케냐 · Canova코치 자료
 - 기초기: 많은 양의 편한 달리기
 - 짧은 업힐 스프린트 · 기술 드릴
-- "근력은 트레일 위에서"
-- 공통점: 모두 많이 달려요. 근력·점프는 부상 예방과 파워를 위해 적게 해요.※ 현장 관행이지, 이 방법이 이코노미를 올렸다는 증거는 아니에요.
-- Jones (2006) Int J Sports Sci Coach · NN Running Team · Running Magazine · Higher Running(Outside 인용) · Coros 인터뷰 · Wikipedia: Renato Canova · Yahoo News(Benzie)
+- 공통점모두 많이 달려요 · 근력은 부상 예방·파워용현장 관행이지, 효과의 증거는 아니에요
+- Coros (Ingebrigtsen 인터뷰) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie)
 
-### 재구성 10 폼과 케이던스  (`E3R-Form.dc.html`)
+### 재구성 19 러닝 자세  (`E3R-Form.dc.html`)
 
-- 폼폼과 케이던스
-- 폼은 억지로 바꾸지 말고, 케이던스만 살짝
-- 메타분석 · 상관연구 51편 · 1,115명 · 이코노미와 얼마나 관련 있나
+- 흔한 고민러닝 자세
+- 러닝 자세, 억지로 바꾸지 마세요
+- 메타분석 · 상관연구 51편 · 1,115명
 - 수직 진폭
-- 작을수록 좋음 · 중간
+- 작을수록 · 중간
 - 다리 강성
-- 덜 꺾일수록 좋음 · 중간
+- 덜 꺾일수록 · 중간
 - 케이던스
-- 높을수록 약간 좋음 · 작음
+- 높을수록 · 작음
 - 접지 시간
 - 관련 없음
 - 착지법
 - 뒤꿈치 = 앞꿈치
-- 변수 하나씩 보면 개인차의 4~12%만 설명해요 · 사람끼리 비교한 결과라 원인은 아니에요
-- 착지법 바꾸기?실험 종합
-- 뒤꿈치 러너가 앞꿈치로 바꾸면 단기적으로 이코노미가 나빠졌어요. 다치지 않았다면 바꿀 이유가 없다는 게 결론이에요.
-- 케이던스 180?실험
-- 엘리트를 레이스 페이스에서 센 숫자예요. 숙련자는 최적보다 약 3%, 초보는 약 8% 낮게 달렸어요. 같은 페이스에서 +5~10%면 무릎·엉덩이 부담도 줄어요.
-- 팔치기는 그대로: 팔을 묶고 달리면 비용이 3~13% 늘었어요
-- Van Hooren et al. (2024) Sports Med · Anderson et al. (2020) Sports Med · de Ruiter et al. (2014) Eur J Sport Sci · Heiderscheit et al. (2011) · Arellano & Kram (2014) J Exp Biol · Daniels (1984 LA 올림픽 관찰)
+- 앞꿈치로 바꾸면 단기적으론 오히려 나빠졌어요
+- Van Hooren et al. (2024) Sports Med · Anderson et al. (2020) Sports Med · 자세 변수 하나로는 개인차의 4~12%만 설명돼요
 
-### 재구성 11 신발  (`E3R-Shoes.dc.html`)
+### 재구성 20 케이던스  (`E3R-Cadence.dc.html`)
+
+- 러닝 자세케이던스
+- 케이던스 180이 모두의 정답은 아니에요
+- 관찰180 = 1984 올림픽 엘리트의 레이스 페이스
+- 실험산소가 가장 적게 드는 케이던스
+- 회색 지금 → 초록 최적 · 걸음/분
+- 초보
+- 156
+- 170
+- 180
+- 숙련
+- 169
+- 174
+- 180
+- 소규모 실험올려서 연습하면?
+- 10일 × 매일 15분, 180으로 → 산소 −11%
+- 여자 러너 11명 vs 11명 · 같은 팀 이전 결과는 −3%로 불확실
+- → 지금보다 5~10%만 · 무릎·엉덩이 부담도 줄어요
+- Daniels 1984 · de Ruiter 2014 · Quinn 2021 · Heiderscheit 2011
+
+### 재구성 21 신발  (`E3R-Shoes.dc.html`)
 
 - 바꿀 수 있는 것신발
-- 평균은 2~4%, 하지만 내 발엔 손해일 수도
-- 실험 · 2023 카본화로 바꿨을 때 러닝 이코노미 변화
+- 카본화 평균 약 2~4%, 내 발엔 손해일 수도
+- 실험 2023카본화로 바꿨을 때 이코노미 변화
 - ← 손해0이득 →
-- 케냐 정상급 7명
-- 세계 정상급 로드 러너
-- -11.3%+11.4%
-- 유럽 아마추어 7명
-- -1.1%+9.7%
-- 세계 정상급 선수 중에도 오히려 11% 손해 본 사람이 있었어요
-- 2025 연구 종합
-- 산소 약 2~3%↓ 느린 페이스는 약 1%
-- 무게도 이코노미
-- 신발 한 짝 100g 무거우면 약 1% 손해
-- Knopp et al. (2023) Sports Med · 2025 리뷰(Front Sports Act Living · Int J Sports Med) · Joubert et al. (2023) Int J Sports Physiol Perform · Franz et al. (2012) · 레이스 신발은 레이스 페이스로 직접 비교해 보세요
+- 케냐 정상급
+- 7명
+- −11.3%+11.4%
+- 유럽 아마추어
+- 7명
+- −1.1%+9.7%
+- 세계 정상급 중에도 11% 손해 본 사람이 있었어요
+- 2025 리뷰 평균: 산소 약 2~3%↓ · 느린 페이스는 약 1%
+- 무게도 이코노미: 한 짝 100g ≈ 1% 손해
+- Knopp et al. (2023) Sports Med · 2025 리뷰 (Int J Sports Med · Front Sports Act Living) · Joubert et al. (2023) · Franz et al. (2012)
 
-### 재구성 12 최신 경향 내구성  (`E3R-Durability.dc.html`)
+### 재구성 22 최신 경향 지쳐도 버티는 힘  (`E3R-Durability.dc.html`)
 
-- 최신 경향지쳐도 유지되나
+- 최신 경향지쳐도 버티는 힘
 - 같은 페이스인데 90분째엔 산소가 더 든다
-- 요즘은 "지쳐도 버티는 힘"을 넷째 요소로 봐요.
-- 2024 훈련된 남성 44명 · 편안한 강도(LT1)로 90분 · 같은 속도에서 드는 에너지
-- 시작
-- 45분
-- 90분
-- 0%
-- +2%
-- +4%
-- 하위권(10km 41분대) +4.3%
-- 상위권(10km 31분대) +2.3%
-- 잘 달리는 사람일수록 이코노미가 덜 무너졌어요 = 이걸 "내구성"이라고 불러요
-- 산소로 재도 거의 같아요: 90분째 +2.4% vs +4.5%
-- 상관 롱런 습관
-- 90분 이상 달리는 그룹 +3.1% 70분 미만만 달리는 그룹 +6.0%
-- 기록 같은 26명 · 2026
-- 무작위 실험 근력+점프 10주
-- 90분째 이코노미 −2.1% 러닝만 한 그룹 +0.6%
-- 28명 · 2025
-- 하이록스라면1km 달리기 8번을 스테이션 사이에 해요. 쌩쌩할 때 이코노미보다 지친 상태의 이코노미가 기록을 정해요. (코치 해석 · 하이록스 직접 연구는 아직 없음)
-- Zanini, Folland & Blagrove (2024, 2026) Med Sci Sports Exerc · Zanini et al. (2025) Med Sci Sports Exerc · Jones (2024) J Physiol · 그래프는 시작과 90분 값을 직선으로 이은 것
+- 요즘은 '지쳐도 버티는 힘'을 넷째 요소로 봐요
+- 측정 연구 2024훈련된 남성 44명 · 편한 강도로 90분
+- 상위권
+- 10km 약 31분
+- +2.3%
+- 하위권
+- 10km 약 42분
+- +4.3%
+- 잘 달리는 사람일수록 덜 무너졌어요
+- 하이록스라면1km × 8번을 지친 상태로 달려요. 이 힘이 기록을 정해요코치 해석 · 하이록스 직접 연구는 아직
+- Zanini, Folland & Blagrove (2024) Med Sci Sports Exerc · Jones (2024) J Physiol · 산소로 재도 +2.4% vs +4.5%
 
-### 재구성 13 이코노미 팩트 체크  (`E3R-FactCheck.dc.html`)
+### 재구성 23 롱런과 내구성  (`E3R-LongRun.dc.html`)
+
+- 최신 경향롱런과 내구성
+- 90분 이상 롱런(LSD)한 그룹, 이코노미가 덜 무너졌다
+- 상관10km 기록이 같은 남자 러너 13명 vs 13명 · 2026
+- 90분째 같은 페이스의 산소 증가
+- 롱런 정기적
+- 90분 이상
+- +3.1%
+- 짧게만
+- 모두 70분 미만
+- +6.0%
+- 롱런을 시켜 본 실험이 아니라, 원래 롱런하던 사람과 안 하던 사람을 비교 → 상관 (원인은 아직)
+- 실험 2025근력·점프 10주 더한 그룹: 90분째 −2.1% vs 러닝만 +0.6%
+- Zanini et al. 2026 · Zanini et al. 2025 (28명) · Med Sci Sports Exerc
+
+### 재구성 24 팩트 체크 ① 맞아요·관련은 있어요  (`E3R-FactCheck.dc.html`)
 
 - 정리팩트 체크
-- 이코노미 팩트 체크
-- 맞아요팔치기는 효율에 도움
+- 이코노미 팩트 체크 ①
+- 맞아요 · 실험으로 확인팔치기는 효율에 도움
 - 팔을 묶으면 비용 3~13%↑
 - 근력·점프는 효과가 있다
-- 작음~중간 · 몇 % · 필수는 아님
-- 애매해요많이 뛰면 이코노미가 오른다
-- 6주로는 그대로 · 수년 사례와 롱런 습관은 관련 · 인과 실험은 거의 없음
-- 카본화는 누구나 4%
-- 평균 2~4% · 같은 신발로 −11 ~ +11% · 느린 속도에선 작을 수도
-- 체중 1kg = km당 몇 초
-- 무게를 더한 실험뿐 · 근육·건강을 잃으면 역효과
-- VO2max 높으면 기록 좋다
-- 실력이 섞이면 맞지만 비슷한 수준끼리는 약해요
-- 틀려요케이던스는 180이 정답
-- 엘리트 레이스 페이스 숫자 · 내 최적은 사람·속도마다 달라요
+- 작음~중간 · 필수는 아님
+- 관련은 있어요 · 상관, 인과는 아직많이 뛰면 이코노미가 오른다
+- 수년 사례·롱런 습관과 관련 · 6주로는 그대로
+- VO2max가 높으면 기록이 좋다
+- 실력이 섞이면 강하게 관련 · 비슷한 수준끼리는 약해요
+- 케이던스를 조금 올리면 효율↑
+- 초보는 최적보다 낮게 뛰는 편 · 소규모 실험뿐
+- 근거: 참고문헌 ①② · 판정은 연구 설계 기준 (실험 / 상관)
+
+### 재구성 25 팩트 체크 ② 애매해요  (`E3R-FactCheck2.dc.html`)
+
+- 정리팩트 체크
+- 이코노미 팩트 체크 ②
+- 애매해요 · 결과가 엇갈리거나 부족해요체중 1kg = km당 몇 초
+- 무게를 더한 실험뿐 · 감량 실험은 거의 없어요
+- 가벼운 신발일수록 무조건 이득
+- 100g ≈ 1%는 맞지만 쿠션이 상쇄하기도
+- 호흡을 2:2·3:2로 맞추면 효율↑
+- 소규모 연구뿐 · 결론이 없어요
+- 근거: Teunissen 2007 · Franz 2012 · 걸음-호흡 동기화 연구 정리 (Univ. of Oregon)
+
+### 재구성 26 팩트 체크 ③ 틀려요  (`E3R-FactCheck3.dc.html`)
+
+- 정리팩트 체크
+- 이코노미 팩트 체크 ③
+- 틀려요케이던스는 180이 모두의 정답
+- 엘리트 레이스 페이스 숫자 · 최적은 사람마다
 - 앞꿈치 착지가 더 효율적
 - 차이 없음 · 바꾸면 단기적으로 오히려 나빠짐
 - 유연할수록 효율적
-- 덜 유연한 러너가 오히려 더 경제적이었어요(상관) · 달리기 전 정적 스트레칭도 이득 확인 안 됨
-- 시계 지표로 이코노미를 안다
-- 시계는 산소를 안 재요 · 파워도 사람 간 비교는 부정확
-- Arellano & Kram (2014) · Llanos-Lagos (2024) · Lake & Cavanagh (1996) · Zanini (2026) · Knopp (2023) · Joubert (2023) · Teunissen (2007) · Conley & Krahenbuhl (1980) · de Ruiter (2014) · Anderson (2020) · Jones (2002) · Aubry (2018)
+- 덜 유연한 러너가 오히려 더 경제적이었어요
+- 카본화는 누구나 4%
+- 같은 신발로 −11 ~ +11%까지 갈렸어요
+- 근거: de Ruiter 2014 · Anderson 2020 · Jones 2002 · Knopp 2023
 
-### 재구성 14 일반 러너가 할 일  (`E3R-Todo.dc.html`)
+### 재구성 27 오늘부터 할 일 ①  (`E3R-Todo.dc.html`)
 
-- 실천일반 러너가 할 일
-- 내 이코노미를 위해 오늘부터 할 수 있는 것
-- 1꾸준히, 오래 달리기사례·상관
-- 몇 주가 아니라 몇 년 단위로 보기 · 주 1회 90분 이상 롱런은 지친 상태의 이코노미와 관련
+- 실천오늘부터 할 일
+- 내 이코노미를 위해 오늘부터 할 일 ①
+- 1러닝 마일리지 쌓기사례·상관
+- 몇 년 단위로 · 주 1회 90분 이상 롱런 포함
 - 2근력 주 2회, 무겁게 적게메타분석
-- 스쿼트 4×4(최대 무게)나 점프 · 6주 이상 · 처음엔 가볍게 동작부터
-- 3업힐·짧은 질주를 가끔실험
-- 바탕 훈련을 대신하지 말고 위에 짧게 얹기
-- 4폼은 그대로, 케이던스만 살짝실험
-- 초보라면 같은 페이스에서 지금보다 5% 정도까지 · 착지법은 억지로 바꾸지 않기
-- 5레이스 신발은 직접 비교실험
-- 평균이 아니라 내 발에서 · 레이스 페이스로 미리 달려보기
-- 6시계 숫자에 휘둘리지 않기코치 해석
-- 시계는 산소를 재지 않아요 · 같은 코스·같은 페이스에서 심박이 내려가는지가 더 현실적인 신호예요
-- Zanini (2024, 2026) · Llanos-Lagos (2024) · Støren (2008) · Barnes (2013) · de Ruiter (2014) · Heiderscheit (2011) · Anderson (2020) · Knopp (2023) · Aubry (2018) · 6번의 심박 신호는 코치 해석이에요
+- 스쿼트 4×4나 점프 · 처음엔 가볍게 동작부터
+- 3업힐·짧은 질주는 가끔실험
+- 바탕 훈련을 대신하지 말고 위에 얹기
+- Zanini 2026 · Llanos-Lagos 2024 · Støren 2008 · Barnes 2013 · Ferley 2014
 
-### 재구성 15 참고문헌  (`E3R-Refs.dc.html`)
+### 재구성 28 오늘부터 할 일 ②  (`E3R-Todo2.dc.html`)
+
+- 실천오늘부터 할 일
+- 내 이코노미를 위해 오늘부터 할 일 ②
+- 4자세는 그대로, 케이던스만 살짝실험
+- 초보라면 같은 페이스에서 +5% 정도부터
+- 5레이스 신발은 직접 비교실험
+- 평균 말고 내 발로 · 레이스 페이스로 미리 달려보기
+- 6시계 숫자에 휘둘리지 않기코치 해석
+- 같은 코스·페이스에서 심박이 내려가는지 보기
+- de Ruiter 2014 · Heiderscheit 2011 · Knopp 2023 · Aubry 2018 · 6번은 코치 해석이에요
+
+### 재구성 29 참고문헌 ①  (`E3R-Refs.dc.html`)
 
 - 참고참고문헌
-- 참고문헌
-- 1Joyner (1991) J Appl Physiol
+- 참고문헌 ①
+- 1Barnes & Kilding (2015) Sports Med Open
 - 2Jones & Doust (1996) J Sports Sci
 - 3Saunders et al. (2004) Med Sci Sports Exerc
-- 4Barnes & Kilding (2015) Sports Med Open
-- 5Jones et al. (2021) J Appl Physiol
-- 6Kipp, Kram & Hoogkamer (2019) Front Physiol
-- 7Jones (2006) Int J Sports Sci Coach
-- 8Franz et al. (2012) Med Sci Sports Exerc
-- 9Teunissen et al. (2007) J Exp Biol
-- 10Coifman et al. (2024) Appl Ergon
-- 11Lucia et al. (2006) Appl Physiol Nutr Metab
-- 12van Werkhoven & Piazza (2017) J Appl Biomech
+- 4Joyner (1991) J Appl Physiol
+- 5Kipp, Kram & Hoogkamer (2019) Front Physiol
+- 6Jones (2006) Int J Sports Sci Coach
+- 7Franz, Wierzbinski & Kram (2012) Med Sci Sports Exerc
+- 8Coifman, Kram & Riemer (2024) Appl Ergon
+- 9Lucia et al. (2006) Appl Physiol Nutr Metab
+- 10van Werkhoven & Piazza (2017) J Appl Biomech
+- 11Teunissen, Grabowski & Kram (2007) J Exp Biol
+- 12Llanos-Lagos et al. (2024) Sports Med
 - 13Lake & Cavanagh (1996) Med Sci Sports Exerc
-- 14Zanini et al. (2024) Med Sci Sports Exerc
-- 15Zanini et al. (2025) Med Sci Sports Exerc
-- 16Zanini et al. (2026) Med Sci Sports Exerc
-- 17Jones (2024) J Physiol
-- 18Haugen et al. (2022) Sports Med Open
-- 19Llanos-Lagos et al. (2024) Sports Med
-- 20Støren et al. (2008) Med Sci Sports Exerc
-- 21Saunders et al. (2006) J Strength Cond Res
-- 22Barnes et al. (2013) Int J Sports Physiol Perform
-- 23Iaia et al. (2008) J Appl Physiol
-- 24Bangsbo et al. (2009) J Appl Physiol
-- 25Van Hooren et al. (2024) Sports Med
-- 26Anderson et al. (2020) Sports Med
-- 27de Ruiter et al. (2014) Eur J Sport Sci
-- 28Heiderscheit et al. (2011) Med Sci Sports Exerc
-- 29Arellano & Kram (2014) J Exp Biol
-- 30Knopp et al. (2023) Sports Med
-- 31Joubert et al. (2023) Int J Sports Physiol Perform
-- 32신발 리뷰 (2025) Int J Sports Med · Front Sports Act Living
-- 33Jones (2002) Int J Sports Med
-- 34Aubry et al. (2018) J Strength Cond Res
-- 35Conley & Krahenbuhl (1980) Med Sci Sports Exerc
-- 36Cureton & Sparling (1980) Med Sci Sports Exerc
-- 현장 자료NN Running Team (Patrick Sang) · Running Magazine · Higher Running (Outside 인용) · Coros (Ingebrigtsen) · Sports Illustrated (2002) · Coventry Telegraph (2020) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie)
-- 사진Wikimedia Commons · yaaaay (CC BY 2.0) · Tiia Monto, Bob Ramsak, Hjfm 003, franchise opportunities, Modifyphysio (CC BY-SA) · 미 육군·미 해병대, Gray's Anatomy (퍼블릭 도메인)
-- 논문 제목·링크·판정은 running-reels/e3-factcheck.md에 정리했어요
+- 14Haugen et al. (2022) Sports Med Open
+- 15Støren et al. (2008) Med Sci Sports Exerc
+- 16Saunders et al. (2006) J Strength Cond Res
+- 17Ferley, Osborn & Vukovich (2014) J Strength Cond Res
+- 18Ferley, Osborn & Vukovich (2013) J Strength Cond Res
+- 19Barnes et al. (2013) Int J Sports Physiol Perform
+- 20Iaia et al. (2008) J Appl Physiol
+- 현장 자료NN Running Team (Patrick Sang) · Running Magazine · Coros (Ingebrigtsen) · Wikipedia: Renato Canova · Yahoo News (Shane Benzie) · The Running Channel · Daniels 1984 관찰
 
-### 재구성 16 다음 편 예고  (`E3R-Next.dc.html`)
+### 재구성 30 참고문헌 ②  (`E3R-Refs2.dc.html`)
+
+- 참고참고문헌
+- 참고문헌 ②
+- 21Bangsbo et al. (2009) J Appl Physiol
+- 22Van Hooren et al. (2024) Sports Med
+- 23Anderson et al. (2020) Sports Med
+- 24de Ruiter et al. (2014) Eur J Sport Sci
+- 25Quinn et al. (2021) J Strength Cond Res
+- 26Heiderscheit et al. (2011) Med Sci Sports Exerc
+- 27Knopp et al. (2023) Sports Med
+- 28Joubert et al. (2023) Int J Sports Physiol Perform
+- 29신발 리뷰 (2025) Int J Sports Med · Front Sports Act Living
+- 30Zanini, Folland & Blagrove (2024) Med Sci Sports Exerc
+- 31Jones (2024) J Physiol
+- 32Zanini, Folland & Blagrove (2026) Med Sci Sports Exerc
+- 33Zanini et al. (2025) Med Sci Sports Exerc
+- 34Arellano & Kram (2014) J Exp Biol
+- 35Conley & Krahenbuhl (1980) Med Sci Sports Exerc
+- 36Jones (2002) Int J Sports Med
+- 37Aubry et al. (2018) J Strength Cond Res
+- 38Cureton & Sparling (1980) Med Sci Sports Exerc
+- 39걸음-호흡 동기화 연구 정리 (Univ. of Oregon)
+- 사진Wikimedia Commons · yaaaay (CC BY 2.0) · Tiia Monto, Bob Ramsak, Hjfm 003, franchise opportunities (CC BY-SA) · LexSprinter (CC BY-SA 3.0) · 미 육군·미 해병대, Gray's Anatomy (퍼블릭 도메인)
+
+### 재구성 31 다음 편 예고  (`E3R-Next.dc.html`)
 
 - 다음 편 예고젖산역치
-- 엔진도 같고 연비도 같은데, 마라톤 후반에 갈리는 이유
-- 1편에서 본 두 개의 역치
+- 엔진도 연비도 같은데, 후반에 갈리는 이유
 - LT1 · 5:43/km
 - LT2 · 4:42/km
 - 편하게 오래
@@ -1439,17 +1534,10 @@
 - 예시 데이터
 - 1km 페이스 (분:초) · 오른쪽일수록 빠름
 - 혈중 젖산 →
-- Breaking2 후보들
-- VO2max의 92%까지
-- 젖산이 급격히 쌓이기 전까지 버틴 지점 (평균)
-- 마라톤 참가자 18명 · 90분 뒤
-- 역치가 덜 떨어질수록
-- 마라톤 기록도 빨랐어요 (r = 0.68)
-- 4편에서 다룰 것
-- LT1젖산이 처음 오르는 지점 · 존2 기준으로 많이 쓰는 곳
-- LT2젖산이 급격히 쌓이는 지점 · 하이록스 페이스의 천장
-- 훈련역치는 어떻게 올리나
-- Jones et al. (2021) J Appl Physiol · Hunter & Muniz-Pumares (2025) Eur J Sport Sci
+- LT1처음 오르는 지점
+- LT2급격히 쌓이는 지점
+- 훈련어떻게 올리나
+- 1편 예시 러너 그래프 · 4편 젖산역치에서 이어져요
 
 
 ## 4편
