@@ -275,7 +275,7 @@
 - **근거가 없는 것** (현장 판단)
   - 같은 날 러닝 전에 할지 후에 할지, 인터벌 전날을 피해야 하는지에 대한 RCT는 찾지 못했습니다.
   - 일반적 관행은 쉬운 러닝 후나 스트라이드 전에, 다리가 신선할 때 짧게 하는 것입니다.
-  - 잉에브릭센은 드릴·점프 날과 웨이트 날을 나눴습니다(현장 사례, 5장).
+  - 잉게브릿센은 드릴·점프 날과 웨이트 날을 나눴습니다(현장 사례, 5장).
 
 ### 3-7. 표면·신발
 
@@ -320,7 +320,7 @@
 
 | 사례 | 내용 | 출처의 성격 | 링크 |
 |---|---|---|---|
-| **야콥 잉에브릭센** (노르웨이, 올림픽 챔피언) | 주 4회 근력 세션을 한다. 월·수는 드릴, 가동성, 플라이오 날이다. 수요일은 홉·점프 같은 수직 드릴과 허들 가동성 드릴이 더 많다. 월요일은 본인 설명으로 "드릴 5–6개, 계단, 6–8개 운동 약 3세트, 마무리 스트라이드" 순서다. 금·일은 웨이트 날로, 같은 루틴을 금요일 2세트, 일요일 3세트로 한다. 근력운동을 수행력과 부상 예방 도구로 본다. 헤드라인 인용은 "It's very simple. It's very efficient. It's all about very explosive movement." | 시계 브랜드 COROS의 **스폰서 콘텐츠**다. COROS 페이지마다 웨이트 운동 목록이 다르다(쿼터 스쿼트, 런지, 스텝업 vs 카프레이즈, RDL). | [COROS ①](https://coros.com/stories/more-than-splits/c/jakob-ingebrigtsen-strength-training) · [COROS ②](https://coros.com/stories/athlete-stories/c/jakob-ingebrigtsen-strength-training) · [T3](https://www.t3.com/active/fitness-trackers/jakob-ingebrigtsen-strength-training-coros-app) |
+| **야콥 잉게브릿센** (노르웨이, 올림픽 챔피언) | 주 4회 근력 세션을 한다. 월·수는 드릴, 가동성, 플라이오 날이다. 수요일은 홉·점프 같은 수직 드릴과 허들 가동성 드릴이 더 많다. 월요일은 본인 설명으로 "드릴 5–6개, 계단, 6–8개 운동 약 3세트, 마무리 스트라이드" 순서다. 금·일은 웨이트 날로, 같은 루틴을 금요일 2세트, 일요일 3세트로 한다. 근력운동을 수행력과 부상 예방 도구로 본다. 헤드라인 인용은 "It's very simple. It's very efficient. It's all about very explosive movement." | 시계 브랜드 COROS의 **스폰서 콘텐츠**다. COROS 페이지마다 웨이트 운동 목록이 다르다(쿼터 스쿼트, 런지, 스텝업 vs 카프레이즈, RDL). | [COROS ①](https://coros.com/stories/more-than-splits/c/jakob-ingebrigtsen-strength-training) · [COROS ②](https://coros.com/stories/athlete-stories/c/jakob-ingebrigtsen-strength-training) · [T3](https://www.t3.com/active/fitness-trackers/jakob-ingebrigtsen-strength-training-coros-app) |
 | **레나토 카노바** (이탈리아, 케냐 선수 다수 지도) | 칼렙 은디쿠의 훈련에는 주 1회쯤 언덕 스프린트(예: 80 m × 10–15회, 긴 휴식)가 있다. 목적은 근섬유 동원을 최대로 늘리는 것이고, 그래서 최대 속도로 뛰어야 한다고 설명했다(분석 글). 포럼에 소개된 서킷은 평지·언덕 바운딩, 제자리 스쿼트 점프, 스킵, 빠른 달리기를 섞어 '근지구력(strength endurance)'을 키운다. 매우 힘든 훈련이라 특수기 막바지와 시합기에 몇 번만 쓴다고 했다. | 블로그 분석(Running Writings), LetsRun 포럼 게시글(번역·전언) | [Running Writings](https://runningwritings.com/2014/04/championship-racing-with-renato-canova.html) · [LetsRun 서킷 스레드](https://www.letsrun.com/forum/flat_read.php?thread=8591637) |
 | **케냐 이텐 러너들** | 거의 매 러닝 뒤에 10분 이상 드릴을 한다(하이니, 퀵풋, 버트킥, 스킵. A·B-스킵 같은 표준 드릴). 주 1회 짧은 언덕(30–60초) 반복을 15회 이상 한다. 맨몸으로 언덕을 오르는 것이 근력운동 역할을 한다는 증언도 있다. 이런 드릴과 언덕이 RE를 높인다는 통제 연구는 **없다.** | 1인칭 체험기, 클럽 자료, 블로그, 포럼 | [Running Warehouse](https://www.runningwarehouse.com.au/learningcenter/Training/workouts/train-like-a-kenyan.html) · [Trade Secrets of the Kenyans(문서)](https://beaconhillstriders.co.uk/wp-content/uploads/2015/05/Trade-Secrets-of-the-Kenyans.doc) · [LetsRun 케냐 드릴](https://www.letsrun.com/forum/flat_read.php?thread=11888278) |
 | **아서 리디아드** (뉴질랜드, '현대 지구력 훈련의 아버지') | 언덕 서킷을 썼다. 오르막에서는 발끝으로 튕기며 오르는 '힐 스프링잉'과 바운딩을 하고, 내리막 스트라이드, 윈드 스프린트, 조깅으로 이어진다. 유산소 기초기 다음 단계에 배치했다. 해설가들은 이를 '저항·플라이오성 훈련'으로 본다. 언덕 길이 같은 세부는 출처마다 다르다. | 2차 해설 글 | [Science of Running](https://www.scienceofrunning.com/2016/11/arthur-lydiard-the-father-of-modern-training.html) · [Coach the Run](https://coachtherun.com/running-training/technique/what-is-the-lydiard-method/) |
@@ -398,7 +398,7 @@
 9. **박스 높이 연구의 범위**: 단회 출력 비교일 뿐입니다. 박스 높이별 장기 훈련 효과(러너 대상)는 연구가 없습니다.
 10. **버피 브로드 점프**: BBJ나 박스 점프 버피가 RE·내구성에 미치는 효과를 직접 본 연구는 없습니다. 4장의 판정은 규정과 기존 연구를 바탕으로 한 해석입니다.
 11. **엘리트 사례**
-    - 잉에브릭센의 운동 목록은 COROS 페이지마다 다르고, 스폰서 콘텐츠입니다.
+    - 잉게브릿센의 운동 목록은 COROS 페이지마다 다르고, 스폰서 콘텐츠입니다.
     - 카노바 인용은 포럼 번역과 전언입니다.
     - 케냐 드릴과 언덕 이야기는 체험기와 블로그입니다.
     - 원 인터뷰 영상이나 원문은 확인하지 못했습니다.
